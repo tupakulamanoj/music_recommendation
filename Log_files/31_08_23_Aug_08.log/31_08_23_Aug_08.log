@@ -1,0 +1,2313 @@
+[ 2023-08-31 01:04:27,950 ] 13 root -  vectorization paths are created
+[ 2023-08-31 01:04:27,979 ] 10 root - data ingest started!
+[ 2023-08-31 01:04:27,979 ] 15 root - paths are created for data
+[ 2023-08-31 01:04:28,094 ] 186 werkzeug -  * Debugger is active!
+[ 2023-08-31 01:04:28,097 ] 186 werkzeug -  * Debugger PIN: 859-219-915
+[ 2023-08-31 01:04:49,425 ] 186 werkzeug -  * Detected change in 'c:\\Users\\manoj\\Desktop\\music_recommendation\\app.py', reloading
+[ 2023-08-31 01:04:50,884 ] 13 root -  vectorization paths are created
+[ 2023-08-31 01:04:50,923 ] 10 root - data ingest started!
+[ 2023-08-31 01:04:50,924 ] 15 root - paths are created for data
+[ 2023-08-31 01:04:51,060 ] 186 werkzeug -  * Debugger is active!
+[ 2023-08-31 01:04:51,064 ] 186 werkzeug -  * Debugger PIN: 859-219-915
+[ 2023-08-31 01:05:08,399 ] 20 root - data paths created !
+[ 2023-08-31 01:05:08,400 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 01:05:08,525 ] 26 root - data has read sucessfuly
+[ 2023-08-31 01:05:08,526 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 01:05:08,527 ] 43 root - directory has created
+[ 2023-08-31 01:05:08,884 ] 47 root - data ingest sucessfully
+[ 2023-08-31 01:05:08,887 ] 19 root - entered data transformation
+[ 2023-08-31 01:05:08,913 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 01:05:08,916 ] 23 root - dropped duplicates
+[ 2023-08-31 01:05:08,923 ] 25 root - data transformed sucess
+[ 2023-08-31 01:05:08,973 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 01:05:08,974 ] 31 root - pickle file is created
+[ 2023-08-31 01:05:09,118 ] 35 root - recommend process1 started
+[ 2023-08-31 01:05:09,118 ] 36 root - pickle load!
+[ 2023-08-31 01:05:09,118 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 01:05:10,841 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 01:05:10] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 01:05:21,983 ] 20 root - data paths created !
+[ 2023-08-31 01:05:21,983 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 01:05:22,168 ] 26 root - data has read sucessfuly
+[ 2023-08-31 01:05:22,171 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 01:05:22,172 ] 43 root - directory has created
+[ 2023-08-31 01:05:22,776 ] 47 root - data ingest sucessfully
+[ 2023-08-31 01:05:22,780 ] 19 root - entered data transformation
+[ 2023-08-31 01:05:22,821 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 01:05:22,828 ] 23 root - dropped duplicates
+[ 2023-08-31 01:05:22,844 ] 25 root - data transformed sucess
+[ 2023-08-31 01:05:22,925 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 01:05:22,926 ] 31 root - pickle file is created
+[ 2023-08-31 01:05:23,098 ] 35 root - recommend process1 started
+[ 2023-08-31 01:05:23,099 ] 36 root - pickle load!
+[ 2023-08-31 01:05:23,099 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 01:05:23,100 ] 15 root - get similarities started
+[ 2023-08-31 01:05:23,103 ] 18 root - vector process 1 completed
+[ 2023-08-31 01:05:23,103 ] 20 root - similarity started
+[ 2023-08-31 01:05:52,920 ] 29 root - similarity process ended
+[ 2023-08-31 01:05:52,935 ] 44 root - recommendations are                      name          artists
+9380              Natural  Imagine Dragons
+744                Demons  Imagine Dragons
+666              Bad Liar  Imagine Dragons
+3260  On Top Of The World  Imagine Dragons
+3928                Roots  Imagine Dragons
+[ 2023-08-31 01:05:54,683 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 01:05:54] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 01:06:39,813 ] 186 werkzeug -  * Detected change in 'c:\\Users\\manoj\\Desktop\\music_recommendation\\app.py', reloading
+[ 2023-08-31 01:06:41,189 ] 13 root -  vectorization paths are created
+[ 2023-08-31 01:06:41,217 ] 10 root - data ingest started!
+[ 2023-08-31 01:06:41,217 ] 15 root - paths are created for data
+[ 2023-08-31 01:06:41,335 ] 186 werkzeug -  * Debugger is active!
+[ 2023-08-31 01:06:41,340 ] 186 werkzeug -  * Debugger PIN: 859-219-915
+[ 2023-08-31 01:06:45,606 ] 20 root - data paths created !
+[ 2023-08-31 01:06:45,606 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 01:06:45,725 ] 26 root - data has read sucessfuly
+[ 2023-08-31 01:06:45,728 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 01:06:45,728 ] 43 root - directory has created
+[ 2023-08-31 01:06:46,065 ] 47 root - data ingest sucessfully
+[ 2023-08-31 01:06:46,067 ] 19 root - entered data transformation
+[ 2023-08-31 01:06:46,095 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 01:06:46,098 ] 23 root - dropped duplicates
+[ 2023-08-31 01:06:46,103 ] 25 root - data transformed sucess
+[ 2023-08-31 01:06:46,152 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 01:06:46,153 ] 31 root - pickle file is created
+[ 2023-08-31 01:06:46,270 ] 35 root - recommend process1 started
+[ 2023-08-31 01:06:46,270 ] 36 root - pickle load!
+[ 2023-08-31 01:06:46,270 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 01:06:46,271 ] 15 root - get similarities started
+[ 2023-08-31 01:06:46,273 ] 18 root - vector process 1 completed
+[ 2023-08-31 01:06:46,273 ] 20 root - similarity started
+[ 2023-08-31 01:07:13,563 ] 29 root - similarity process ended
+[ 2023-08-31 01:07:13,581 ] 44 root - recommendations are                      name          artists
+9380              Natural  Imagine Dragons
+744                Demons  Imagine Dragons
+666              Bad Liar  Imagine Dragons
+3260  On Top Of The World  Imagine Dragons
+3928                Roots  Imagine Dragons
+[ 2023-08-31 01:07:14,920 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 01:07:14] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 17:58:46,282 ] 13 root -  vectorization paths are created
+[ 2023-08-31 17:58:46,379 ] 10 root - data ingest started!
+[ 2023-08-31 17:58:46,379 ] 15 root - paths are created for data
+[ 2023-08-31 17:58:46,643 ] 186 werkzeug - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[ 2023-08-31 17:58:46,643 ] 186 werkzeug - [33mPress CTRL+C to quit[0m
+[ 2023-08-31 17:58:46,646 ] 186 werkzeug -  * Restarting with stat
+[ 2023-08-31 17:58:48,522 ] 13 root -  vectorization paths are created
+[ 2023-08-31 17:58:48,561 ] 10 root - data ingest started!
+[ 2023-08-31 17:58:48,561 ] 15 root - paths are created for data
+[ 2023-08-31 17:58:48,729 ] 186 werkzeug -  * Debugger is active!
+[ 2023-08-31 17:58:48,735 ] 186 werkzeug -  * Debugger PIN: 859-219-915
+[ 2023-08-31 17:59:01,548 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 17:59:01] "[33mGET /static/video.mp4 HTTP/1.1[0m" 404 -
+[ 2023-08-31 17:59:01,655 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 17:59:01] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-31 17:59:51,123 ] 20 root - data paths created !
+[ 2023-08-31 17:59:51,123 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 17:59:51,327 ] 26 root - data has read sucessfuly
+[ 2023-08-31 17:59:51,331 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 17:59:51,332 ] 43 root - directory has created
+[ 2023-08-31 17:59:52,048 ] 47 root - data ingest sucessfully
+[ 2023-08-31 17:59:52,052 ] 19 root - entered data transformation
+[ 2023-08-31 17:59:52,096 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 17:59:52,103 ] 23 root - dropped duplicates
+[ 2023-08-31 17:59:52,115 ] 25 root - data transformed sucess
+[ 2023-08-31 17:59:52,203 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 17:59:52,204 ] 31 root - pickle file is created
+[ 2023-08-31 17:59:52,433 ] 35 root - recommend process1 started
+[ 2023-08-31 17:59:52,433 ] 36 root - pickle load!
+[ 2023-08-31 17:59:52,434 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 18:00:01,590 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:00:01] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 18:00:04,771 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:00:04] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 18:00:08,370 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:00:08] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 18:00:08,400 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:00:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-31 18:00:09,268 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:00:09] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 18:00:09,295 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:00:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-31 18:00:09,509 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:00:09] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 18:00:09,533 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:00:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-31 18:00:09,721 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:00:09] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 18:00:09,742 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:00:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-31 18:00:09,938 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:00:09] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 18:00:09,962 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:00:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-31 18:00:10,270 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:00:10] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 18:00:10,299 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:00:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-31 18:00:15,324 ] 20 root - data paths created !
+[ 2023-08-31 18:00:15,324 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 18:00:15,563 ] 26 root - data has read sucessfuly
+[ 2023-08-31 18:00:15,565 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 18:00:15,566 ] 43 root - directory has created
+[ 2023-08-31 18:00:16,235 ] 47 root - data ingest sucessfully
+[ 2023-08-31 18:00:16,238 ] 19 root - entered data transformation
+[ 2023-08-31 18:00:16,283 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 18:00:16,288 ] 23 root - dropped duplicates
+[ 2023-08-31 18:00:16,298 ] 25 root - data transformed sucess
+[ 2023-08-31 18:00:16,385 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 18:00:16,387 ] 31 root - pickle file is created
+[ 2023-08-31 18:00:16,602 ] 35 root - recommend process1 started
+[ 2023-08-31 18:00:16,602 ] 36 root - pickle load!
+[ 2023-08-31 18:00:16,602 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 18:00:17,967 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:00:17] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 18:00:27,779 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:00:27] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 18:00:27,807 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:00:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-31 18:00:30,019 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:00:30] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 18:00:30,049 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:00:30] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-31 18:00:31,245 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:00:31] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 18:00:31,273 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:00:31] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-31 18:00:31,432 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:00:31] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 18:00:31,457 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:00:31] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-31 18:00:31,605 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:00:31] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 18:00:31,631 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:00:31] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-31 18:00:31,776 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:00:31] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 18:00:31,798 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:00:31] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-31 18:00:31,932 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:00:31] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 18:00:31,953 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:00:31] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-31 18:00:53,021 ] 20 root - data paths created !
+[ 2023-08-31 18:00:53,022 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 18:00:53,268 ] 26 root - data has read sucessfuly
+[ 2023-08-31 18:00:53,270 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 18:00:53,272 ] 43 root - directory has created
+[ 2023-08-31 18:00:53,998 ] 47 root - data ingest sucessfully
+[ 2023-08-31 18:00:54,002 ] 19 root - entered data transformation
+[ 2023-08-31 18:00:54,051 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 18:00:54,056 ] 23 root - dropped duplicates
+[ 2023-08-31 18:00:54,066 ] 25 root - data transformed sucess
+[ 2023-08-31 18:00:54,154 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 18:00:54,155 ] 31 root - pickle file is created
+[ 2023-08-31 18:00:54,389 ] 35 root - recommend process1 started
+[ 2023-08-31 18:00:54,389 ] 36 root - pickle load!
+[ 2023-08-31 18:00:54,389 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 18:00:55,883 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:00:55] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 18:02:52,112 ] 13 root -  vectorization paths are created
+[ 2023-08-31 18:02:52,154 ] 10 root - data ingest started!
+[ 2023-08-31 18:02:52,154 ] 15 root - paths are created for data
+[ 2023-08-31 18:02:52,342 ] 186 werkzeug - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[ 2023-08-31 18:02:52,342 ] 186 werkzeug - [33mPress CTRL+C to quit[0m
+[ 2023-08-31 18:02:52,344 ] 186 werkzeug -  * Restarting with stat
+[ 2023-08-31 18:02:54,172 ] 13 root -  vectorization paths are created
+[ 2023-08-31 18:02:54,214 ] 10 root - data ingest started!
+[ 2023-08-31 18:02:54,214 ] 15 root - paths are created for data
+[ 2023-08-31 18:02:54,379 ] 186 werkzeug -  * Debugger is active!
+[ 2023-08-31 18:02:54,384 ] 186 werkzeug -  * Debugger PIN: 859-219-915
+[ 2023-08-31 18:03:09,803 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:03:09] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 18:03:10,116 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:03:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-31 18:16:10,544 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:16:10] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 18:16:10,592 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:16:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-31 18:16:16,684 ] 20 root - data paths created !
+[ 2023-08-31 18:16:16,685 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 18:16:16,944 ] 26 root - data has read sucessfuly
+[ 2023-08-31 18:16:16,949 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 18:16:16,951 ] 43 root - directory has created
+[ 2023-08-31 18:16:17,681 ] 47 root - data ingest sucessfully
+[ 2023-08-31 18:16:17,685 ] 19 root - entered data transformation
+[ 2023-08-31 18:16:17,733 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 18:16:17,737 ] 23 root - dropped duplicates
+[ 2023-08-31 18:16:17,747 ] 25 root - data transformed sucess
+[ 2023-08-31 18:16:17,832 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 18:16:17,833 ] 31 root - pickle file is created
+[ 2023-08-31 18:16:18,065 ] 35 root - recommend process1 started
+[ 2023-08-31 18:16:18,066 ] 36 root - pickle load!
+[ 2023-08-31 18:16:18,066 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 18:16:20,670 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:16:20] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 18:18:33,471 ] 20 root - data paths created !
+[ 2023-08-31 18:18:33,472 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 18:18:33,635 ] 26 root - data has read sucessfuly
+[ 2023-08-31 18:18:33,637 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 18:18:33,638 ] 43 root - directory has created
+[ 2023-08-31 18:18:34,193 ] 47 root - data ingest sucessfully
+[ 2023-08-31 18:18:34,196 ] 19 root - entered data transformation
+[ 2023-08-31 18:18:34,236 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 18:18:34,240 ] 23 root - dropped duplicates
+[ 2023-08-31 18:18:34,249 ] 25 root - data transformed sucess
+[ 2023-08-31 18:18:34,337 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 18:18:34,338 ] 31 root - pickle file is created
+[ 2023-08-31 18:18:34,520 ] 35 root - recommend process1 started
+[ 2023-08-31 18:18:34,520 ] 36 root - pickle load!
+[ 2023-08-31 18:18:34,520 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 18:18:35,843 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:18:35] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 18:23:46,089 ] 20 root - data paths created !
+[ 2023-08-31 18:23:46,089 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 18:23:46,282 ] 26 root - data has read sucessfuly
+[ 2023-08-31 18:23:46,284 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 18:23:46,285 ] 43 root - directory has created
+[ 2023-08-31 18:23:47,003 ] 47 root - data ingest sucessfully
+[ 2023-08-31 18:23:47,006 ] 19 root - entered data transformation
+[ 2023-08-31 18:23:47,047 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 18:23:47,050 ] 23 root - dropped duplicates
+[ 2023-08-31 18:23:47,061 ] 25 root - data transformed sucess
+[ 2023-08-31 18:23:47,146 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 18:23:47,148 ] 31 root - pickle file is created
+[ 2023-08-31 18:23:47,370 ] 35 root - recommend process1 started
+[ 2023-08-31 18:23:47,371 ] 36 root - pickle load!
+[ 2023-08-31 18:23:47,371 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 18:23:48,709 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:23:48] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 18:23:59,566 ] 20 root - data paths created !
+[ 2023-08-31 18:23:59,567 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 18:23:59,734 ] 26 root - data has read sucessfuly
+[ 2023-08-31 18:23:59,737 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 18:23:59,738 ] 43 root - directory has created
+[ 2023-08-31 18:24:00,298 ] 47 root - data ingest sucessfully
+[ 2023-08-31 18:24:00,302 ] 19 root - entered data transformation
+[ 2023-08-31 18:24:00,340 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 18:24:00,344 ] 23 root - dropped duplicates
+[ 2023-08-31 18:24:00,355 ] 25 root - data transformed sucess
+[ 2023-08-31 18:24:00,436 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 18:24:00,437 ] 31 root - pickle file is created
+[ 2023-08-31 18:24:00,619 ] 35 root - recommend process1 started
+[ 2023-08-31 18:24:00,619 ] 36 root - pickle load!
+[ 2023-08-31 18:24:00,620 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 18:24:01,905 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:24:01] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 18:24:01,932 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:24:01] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 18:24:32,977 ] 20 root - data paths created !
+[ 2023-08-31 18:24:32,977 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 18:24:33,140 ] 26 root - data has read sucessfuly
+[ 2023-08-31 18:24:33,142 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 18:24:33,143 ] 43 root - directory has created
+[ 2023-08-31 18:24:33,696 ] 47 root - data ingest sucessfully
+[ 2023-08-31 18:24:33,699 ] 19 root - entered data transformation
+[ 2023-08-31 18:24:33,737 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 18:24:33,741 ] 23 root - dropped duplicates
+[ 2023-08-31 18:24:33,750 ] 25 root - data transformed sucess
+[ 2023-08-31 18:24:33,839 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 18:24:33,841 ] 31 root - pickle file is created
+[ 2023-08-31 18:24:34,037 ] 35 root - recommend process1 started
+[ 2023-08-31 18:24:34,037 ] 36 root - pickle load!
+[ 2023-08-31 18:24:34,037 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 18:24:35,294 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:24:35] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 18:24:35,322 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:24:35] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 18:32:20,265 ] 20 root - data paths created !
+[ 2023-08-31 18:32:20,265 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 18:32:20,433 ] 26 root - data has read sucessfuly
+[ 2023-08-31 18:32:20,435 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 18:32:20,436 ] 43 root - directory has created
+[ 2023-08-31 18:32:20,998 ] 47 root - data ingest sucessfully
+[ 2023-08-31 18:32:21,002 ] 19 root - entered data transformation
+[ 2023-08-31 18:32:21,040 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 18:32:21,044 ] 23 root - dropped duplicates
+[ 2023-08-31 18:32:21,055 ] 25 root - data transformed sucess
+[ 2023-08-31 18:32:21,139 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 18:32:21,140 ] 31 root - pickle file is created
+[ 2023-08-31 18:32:21,330 ] 35 root - recommend process1 started
+[ 2023-08-31 18:32:21,331 ] 36 root - pickle load!
+[ 2023-08-31 18:32:21,331 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 18:32:22,629 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:32:22] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 18:32:22,658 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:32:22] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 18:32:24,471 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:32:24] "[36mGET /static/style2.css HTTP/1.1[0m" 304 -
+[ 2023-08-31 18:32:51,832 ] 20 root - data paths created !
+[ 2023-08-31 18:32:51,832 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 18:32:52,015 ] 26 root - data has read sucessfuly
+[ 2023-08-31 18:32:52,018 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 18:32:52,018 ] 43 root - directory has created
+[ 2023-08-31 18:32:52,636 ] 47 root - data ingest sucessfully
+[ 2023-08-31 18:32:52,640 ] 19 root - entered data transformation
+[ 2023-08-31 18:32:52,676 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 18:32:52,681 ] 23 root - dropped duplicates
+[ 2023-08-31 18:32:52,690 ] 25 root - data transformed sucess
+[ 2023-08-31 18:32:52,775 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 18:32:52,777 ] 31 root - pickle file is created
+[ 2023-08-31 18:32:52,975 ] 35 root - recommend process1 started
+[ 2023-08-31 18:32:52,975 ] 36 root - pickle load!
+[ 2023-08-31 18:32:52,975 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 18:32:54,268 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:32:54] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 18:32:54,293 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:32:54] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 18:33:17,223 ] 20 root - data paths created !
+[ 2023-08-31 18:33:17,223 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 18:33:17,399 ] 26 root - data has read sucessfuly
+[ 2023-08-31 18:33:17,401 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 18:33:17,402 ] 43 root - directory has created
+[ 2023-08-31 18:33:17,979 ] 47 root - data ingest sucessfully
+[ 2023-08-31 18:33:17,983 ] 19 root - entered data transformation
+[ 2023-08-31 18:33:18,023 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 18:33:18,027 ] 23 root - dropped duplicates
+[ 2023-08-31 18:33:18,036 ] 25 root - data transformed sucess
+[ 2023-08-31 18:33:18,120 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 18:33:18,121 ] 31 root - pickle file is created
+[ 2023-08-31 18:33:18,325 ] 35 root - recommend process1 started
+[ 2023-08-31 18:33:18,326 ] 36 root - pickle load!
+[ 2023-08-31 18:33:18,326 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 18:33:19,617 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:33:19] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 18:33:19,642 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:33:19] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 18:33:36,013 ] 20 root - data paths created !
+[ 2023-08-31 18:33:36,013 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 18:33:36,189 ] 26 root - data has read sucessfuly
+[ 2023-08-31 18:33:36,191 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 18:33:36,192 ] 43 root - directory has created
+[ 2023-08-31 18:33:36,804 ] 47 root - data ingest sucessfully
+[ 2023-08-31 18:33:36,808 ] 19 root - entered data transformation
+[ 2023-08-31 18:33:36,853 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 18:33:36,856 ] 23 root - dropped duplicates
+[ 2023-08-31 18:33:36,867 ] 25 root - data transformed sucess
+[ 2023-08-31 18:33:36,950 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 18:33:36,951 ] 31 root - pickle file is created
+[ 2023-08-31 18:33:37,133 ] 35 root - recommend process1 started
+[ 2023-08-31 18:33:37,133 ] 36 root - pickle load!
+[ 2023-08-31 18:33:37,133 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 18:33:38,375 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:33:38] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 18:33:38,406 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:33:38] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 18:42:12,169 ] 20 root - data paths created !
+[ 2023-08-31 18:42:12,170 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 18:42:12,295 ] 26 root - data has read sucessfuly
+[ 2023-08-31 18:42:12,297 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 18:42:12,298 ] 43 root - directory has created
+[ 2023-08-31 18:42:12,695 ] 47 root - data ingest sucessfully
+[ 2023-08-31 18:42:12,698 ] 19 root - entered data transformation
+[ 2023-08-31 18:42:12,724 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 18:42:12,727 ] 23 root - dropped duplicates
+[ 2023-08-31 18:42:12,733 ] 25 root - data transformed sucess
+[ 2023-08-31 18:42:12,780 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 18:42:12,781 ] 31 root - pickle file is created
+[ 2023-08-31 18:42:12,910 ] 35 root - recommend process1 started
+[ 2023-08-31 18:42:12,910 ] 36 root - pickle load!
+[ 2023-08-31 18:42:12,910 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 18:42:14,215 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:42:14] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 18:42:14,236 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:42:14] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 18:43:14,556 ] 20 root - data paths created !
+[ 2023-08-31 18:43:14,557 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 18:43:14,665 ] 26 root - data has read sucessfuly
+[ 2023-08-31 18:43:14,668 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 18:43:14,669 ] 43 root - directory has created
+[ 2023-08-31 18:43:15,011 ] 47 root - data ingest sucessfully
+[ 2023-08-31 18:43:15,014 ] 19 root - entered data transformation
+[ 2023-08-31 18:43:15,034 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 18:43:15,037 ] 23 root - dropped duplicates
+[ 2023-08-31 18:43:15,043 ] 25 root - data transformed sucess
+[ 2023-08-31 18:43:15,086 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 18:43:15,087 ] 31 root - pickle file is created
+[ 2023-08-31 18:43:15,194 ] 35 root - recommend process1 started
+[ 2023-08-31 18:43:15,194 ] 36 root - pickle load!
+[ 2023-08-31 18:43:15,194 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 18:43:16,445 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:43:16] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 18:43:16,459 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:43:16] "[36mGET /static/style2.css HTTP/1.1[0m" 304 -
+[ 2023-08-31 18:45:58,526 ] 20 root - data paths created !
+[ 2023-08-31 18:45:58,526 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 18:45:58,632 ] 26 root - data has read sucessfuly
+[ 2023-08-31 18:45:58,633 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 18:45:58,633 ] 43 root - directory has created
+[ 2023-08-31 18:45:58,963 ] 47 root - data ingest sucessfully
+[ 2023-08-31 18:45:58,966 ] 19 root - entered data transformation
+[ 2023-08-31 18:45:58,987 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 18:45:58,989 ] 23 root - dropped duplicates
+[ 2023-08-31 18:45:58,998 ] 25 root - data transformed sucess
+[ 2023-08-31 18:45:59,043 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 18:45:59,044 ] 31 root - pickle file is created
+[ 2023-08-31 18:45:59,155 ] 35 root - recommend process1 started
+[ 2023-08-31 18:45:59,155 ] 36 root - pickle load!
+[ 2023-08-31 18:45:59,155 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 18:46:00,391 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:46:00] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 18:46:00,405 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:46:00] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 18:46:16,457 ] 20 root - data paths created !
+[ 2023-08-31 18:46:16,457 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 18:46:16,558 ] 26 root - data has read sucessfuly
+[ 2023-08-31 18:46:16,560 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 18:46:16,560 ] 43 root - directory has created
+[ 2023-08-31 18:46:16,858 ] 47 root - data ingest sucessfully
+[ 2023-08-31 18:46:16,861 ] 19 root - entered data transformation
+[ 2023-08-31 18:46:16,883 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 18:46:16,884 ] 23 root - dropped duplicates
+[ 2023-08-31 18:46:16,891 ] 25 root - data transformed sucess
+[ 2023-08-31 18:46:16,933 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 18:46:16,933 ] 31 root - pickle file is created
+[ 2023-08-31 18:46:17,036 ] 35 root - recommend process1 started
+[ 2023-08-31 18:46:17,036 ] 36 root - pickle load!
+[ 2023-08-31 18:46:17,036 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 18:46:18,362 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:46:18] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 18:46:18,376 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:46:18] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 18:46:29,688 ] 20 root - data paths created !
+[ 2023-08-31 18:46:29,688 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 18:46:29,792 ] 26 root - data has read sucessfuly
+[ 2023-08-31 18:46:29,793 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 18:46:29,793 ] 43 root - directory has created
+[ 2023-08-31 18:46:30,123 ] 47 root - data ingest sucessfully
+[ 2023-08-31 18:46:30,126 ] 19 root - entered data transformation
+[ 2023-08-31 18:46:30,147 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 18:46:30,149 ] 23 root - dropped duplicates
+[ 2023-08-31 18:46:30,155 ] 25 root - data transformed sucess
+[ 2023-08-31 18:46:30,200 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 18:46:30,200 ] 31 root - pickle file is created
+[ 2023-08-31 18:46:30,307 ] 35 root - recommend process1 started
+[ 2023-08-31 18:46:30,307 ] 36 root - pickle load!
+[ 2023-08-31 18:46:30,307 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 18:46:31,536 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:46:31] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 18:46:31,552 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:46:31] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 18:46:52,596 ] 20 root - data paths created !
+[ 2023-08-31 18:46:52,596 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 18:46:52,695 ] 26 root - data has read sucessfuly
+[ 2023-08-31 18:46:52,696 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 18:46:52,697 ] 43 root - directory has created
+[ 2023-08-31 18:46:52,998 ] 47 root - data ingest sucessfully
+[ 2023-08-31 18:46:53,000 ] 19 root - entered data transformation
+[ 2023-08-31 18:46:53,023 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 18:46:53,026 ] 23 root - dropped duplicates
+[ 2023-08-31 18:46:53,033 ] 25 root - data transformed sucess
+[ 2023-08-31 18:46:53,077 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 18:46:53,078 ] 31 root - pickle file is created
+[ 2023-08-31 18:46:53,193 ] 35 root - recommend process1 started
+[ 2023-08-31 18:46:53,193 ] 36 root - pickle load!
+[ 2023-08-31 18:46:53,194 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 18:46:54,452 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:46:54] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 18:46:54,468 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:46:54] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 18:47:11,813 ] 20 root - data paths created !
+[ 2023-08-31 18:47:11,813 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 18:47:11,913 ] 26 root - data has read sucessfuly
+[ 2023-08-31 18:47:11,915 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 18:47:11,916 ] 43 root - directory has created
+[ 2023-08-31 18:47:12,213 ] 47 root - data ingest sucessfully
+[ 2023-08-31 18:47:12,216 ] 19 root - entered data transformation
+[ 2023-08-31 18:47:12,236 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 18:47:12,239 ] 23 root - dropped duplicates
+[ 2023-08-31 18:47:12,244 ] 25 root - data transformed sucess
+[ 2023-08-31 18:47:12,287 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 18:47:12,287 ] 31 root - pickle file is created
+[ 2023-08-31 18:47:12,388 ] 35 root - recommend process1 started
+[ 2023-08-31 18:47:12,388 ] 36 root - pickle load!
+[ 2023-08-31 18:47:12,389 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 18:47:13,663 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:47:13] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 18:47:13,679 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:47:13] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 18:47:29,838 ] 20 root - data paths created !
+[ 2023-08-31 18:47:29,838 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 18:47:29,943 ] 26 root - data has read sucessfuly
+[ 2023-08-31 18:47:29,945 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 18:47:29,946 ] 43 root - directory has created
+[ 2023-08-31 18:47:30,289 ] 47 root - data ingest sucessfully
+[ 2023-08-31 18:47:30,292 ] 19 root - entered data transformation
+[ 2023-08-31 18:47:30,313 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 18:47:30,316 ] 23 root - dropped duplicates
+[ 2023-08-31 18:47:30,323 ] 25 root - data transformed sucess
+[ 2023-08-31 18:47:30,366 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 18:47:30,367 ] 31 root - pickle file is created
+[ 2023-08-31 18:47:30,477 ] 35 root - recommend process1 started
+[ 2023-08-31 18:47:30,477 ] 36 root - pickle load!
+[ 2023-08-31 18:47:30,477 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 18:47:31,671 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:47:31] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 18:47:31,686 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:47:31] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 18:47:44,284 ] 20 root - data paths created !
+[ 2023-08-31 18:47:44,284 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 18:47:44,392 ] 26 root - data has read sucessfuly
+[ 2023-08-31 18:47:44,393 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 18:47:44,393 ] 43 root - directory has created
+[ 2023-08-31 18:47:44,734 ] 47 root - data ingest sucessfully
+[ 2023-08-31 18:47:44,737 ] 19 root - entered data transformation
+[ 2023-08-31 18:47:44,759 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 18:47:44,762 ] 23 root - dropped duplicates
+[ 2023-08-31 18:47:44,768 ] 25 root - data transformed sucess
+[ 2023-08-31 18:47:44,812 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 18:47:44,813 ] 31 root - pickle file is created
+[ 2023-08-31 18:47:44,928 ] 35 root - recommend process1 started
+[ 2023-08-31 18:47:44,929 ] 36 root - pickle load!
+[ 2023-08-31 18:47:44,929 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 18:47:46,121 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:47:46] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 18:47:46,139 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:47:46] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 18:47:54,803 ] 20 root - data paths created !
+[ 2023-08-31 18:47:54,803 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 18:47:54,932 ] 26 root - data has read sucessfuly
+[ 2023-08-31 18:47:54,934 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 18:47:54,934 ] 43 root - directory has created
+[ 2023-08-31 18:47:55,333 ] 47 root - data ingest sucessfully
+[ 2023-08-31 18:47:55,336 ] 19 root - entered data transformation
+[ 2023-08-31 18:47:55,366 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 18:47:55,370 ] 23 root - dropped duplicates
+[ 2023-08-31 18:47:55,377 ] 25 root - data transformed sucess
+[ 2023-08-31 18:47:55,424 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 18:47:55,425 ] 31 root - pickle file is created
+[ 2023-08-31 18:47:55,559 ] 35 root - recommend process1 started
+[ 2023-08-31 18:47:55,559 ] 36 root - pickle load!
+[ 2023-08-31 18:47:55,559 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 18:47:56,782 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:47:56] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 18:47:56,796 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:47:56] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 18:48:06,978 ] 20 root - data paths created !
+[ 2023-08-31 18:48:06,978 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 18:48:07,086 ] 26 root - data has read sucessfuly
+[ 2023-08-31 18:48:07,087 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 18:48:07,088 ] 43 root - directory has created
+[ 2023-08-31 18:48:07,424 ] 47 root - data ingest sucessfully
+[ 2023-08-31 18:48:07,427 ] 19 root - entered data transformation
+[ 2023-08-31 18:48:07,447 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 18:48:07,450 ] 23 root - dropped duplicates
+[ 2023-08-31 18:48:07,456 ] 25 root - data transformed sucess
+[ 2023-08-31 18:48:07,498 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 18:48:07,499 ] 31 root - pickle file is created
+[ 2023-08-31 18:48:07,605 ] 35 root - recommend process1 started
+[ 2023-08-31 18:48:07,605 ] 36 root - pickle load!
+[ 2023-08-31 18:48:07,605 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 18:48:08,857 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:48:08] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 18:48:08,873 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:48:08] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 18:48:15,478 ] 20 root - data paths created !
+[ 2023-08-31 18:48:15,478 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 18:48:15,581 ] 26 root - data has read sucessfuly
+[ 2023-08-31 18:48:15,583 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 18:48:15,584 ] 43 root - directory has created
+[ 2023-08-31 18:48:15,921 ] 47 root - data ingest sucessfully
+[ 2023-08-31 18:48:15,924 ] 19 root - entered data transformation
+[ 2023-08-31 18:48:15,948 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 18:48:15,950 ] 23 root - dropped duplicates
+[ 2023-08-31 18:48:15,956 ] 25 root - data transformed sucess
+[ 2023-08-31 18:48:16,002 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 18:48:16,003 ] 31 root - pickle file is created
+[ 2023-08-31 18:48:16,112 ] 35 root - recommend process1 started
+[ 2023-08-31 18:48:16,112 ] 36 root - pickle load!
+[ 2023-08-31 18:48:16,112 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 18:48:17,328 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:48:17] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 18:48:17,343 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:48:17] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 18:48:32,605 ] 20 root - data paths created !
+[ 2023-08-31 18:48:32,605 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 18:48:32,707 ] 26 root - data has read sucessfuly
+[ 2023-08-31 18:48:32,709 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 18:48:32,709 ] 43 root - directory has created
+[ 2023-08-31 18:48:33,041 ] 47 root - data ingest sucessfully
+[ 2023-08-31 18:48:33,044 ] 19 root - entered data transformation
+[ 2023-08-31 18:48:33,065 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 18:48:33,067 ] 23 root - dropped duplicates
+[ 2023-08-31 18:48:33,073 ] 25 root - data transformed sucess
+[ 2023-08-31 18:48:33,115 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 18:48:33,116 ] 31 root - pickle file is created
+[ 2023-08-31 18:48:33,221 ] 35 root - recommend process1 started
+[ 2023-08-31 18:48:33,221 ] 36 root - pickle load!
+[ 2023-08-31 18:48:33,221 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 18:48:34,417 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:48:34] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 18:48:34,432 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:48:34] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 18:48:50,626 ] 20 root - data paths created !
+[ 2023-08-31 18:48:50,626 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 18:48:50,730 ] 26 root - data has read sucessfuly
+[ 2023-08-31 18:48:50,731 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 18:48:50,732 ] 43 root - directory has created
+[ 2023-08-31 18:48:51,050 ] 47 root - data ingest sucessfully
+[ 2023-08-31 18:48:51,053 ] 19 root - entered data transformation
+[ 2023-08-31 18:48:51,073 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 18:48:51,076 ] 23 root - dropped duplicates
+[ 2023-08-31 18:48:51,081 ] 25 root - data transformed sucess
+[ 2023-08-31 18:48:51,125 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 18:48:51,127 ] 31 root - pickle file is created
+[ 2023-08-31 18:48:51,228 ] 35 root - recommend process1 started
+[ 2023-08-31 18:48:51,228 ] 36 root - pickle load!
+[ 2023-08-31 18:48:51,228 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 18:48:52,452 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:48:52] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 18:48:52,465 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:48:52] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 18:48:59,420 ] 20 root - data paths created !
+[ 2023-08-31 18:48:59,421 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 18:48:59,535 ] 26 root - data has read sucessfuly
+[ 2023-08-31 18:48:59,538 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 18:48:59,538 ] 43 root - directory has created
+[ 2023-08-31 18:48:59,951 ] 47 root - data ingest sucessfully
+[ 2023-08-31 18:48:59,954 ] 19 root - entered data transformation
+[ 2023-08-31 18:48:59,983 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 18:48:59,986 ] 23 root - dropped duplicates
+[ 2023-08-31 18:48:59,993 ] 25 root - data transformed sucess
+[ 2023-08-31 18:49:00,040 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 18:49:00,041 ] 31 root - pickle file is created
+[ 2023-08-31 18:49:00,163 ] 35 root - recommend process1 started
+[ 2023-08-31 18:49:00,163 ] 36 root - pickle load!
+[ 2023-08-31 18:49:00,163 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 18:49:01,421 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:49:01] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 18:49:01,435 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:49:01] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 18:49:10,062 ] 20 root - data paths created !
+[ 2023-08-31 18:49:10,062 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 18:49:10,162 ] 26 root - data has read sucessfuly
+[ 2023-08-31 18:49:10,163 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 18:49:10,165 ] 43 root - directory has created
+[ 2023-08-31 18:49:10,496 ] 47 root - data ingest sucessfully
+[ 2023-08-31 18:49:10,499 ] 19 root - entered data transformation
+[ 2023-08-31 18:49:10,520 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 18:49:10,523 ] 23 root - dropped duplicates
+[ 2023-08-31 18:49:10,529 ] 25 root - data transformed sucess
+[ 2023-08-31 18:49:10,573 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 18:49:10,573 ] 31 root - pickle file is created
+[ 2023-08-31 18:49:10,678 ] 35 root - recommend process1 started
+[ 2023-08-31 18:49:10,678 ] 36 root - pickle load!
+[ 2023-08-31 18:49:10,678 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 18:49:11,934 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:49:11] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 18:49:11,950 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:49:11] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 18:49:21,876 ] 20 root - data paths created !
+[ 2023-08-31 18:49:21,876 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 18:49:21,979 ] 26 root - data has read sucessfuly
+[ 2023-08-31 18:49:21,981 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 18:49:21,981 ] 43 root - directory has created
+[ 2023-08-31 18:49:22,320 ] 47 root - data ingest sucessfully
+[ 2023-08-31 18:49:22,323 ] 19 root - entered data transformation
+[ 2023-08-31 18:49:22,346 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 18:49:22,348 ] 23 root - dropped duplicates
+[ 2023-08-31 18:49:22,354 ] 25 root - data transformed sucess
+[ 2023-08-31 18:49:22,398 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 18:49:22,399 ] 31 root - pickle file is created
+[ 2023-08-31 18:49:22,504 ] 35 root - recommend process1 started
+[ 2023-08-31 18:49:22,504 ] 36 root - pickle load!
+[ 2023-08-31 18:49:22,504 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 18:49:23,741 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:49:23] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 18:49:23,755 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:49:23] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 18:49:32,096 ] 20 root - data paths created !
+[ 2023-08-31 18:49:32,096 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 18:49:32,198 ] 26 root - data has read sucessfuly
+[ 2023-08-31 18:49:32,199 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 18:49:32,199 ] 43 root - directory has created
+[ 2023-08-31 18:49:32,537 ] 47 root - data ingest sucessfully
+[ 2023-08-31 18:49:32,540 ] 19 root - entered data transformation
+[ 2023-08-31 18:49:32,561 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 18:49:32,563 ] 23 root - dropped duplicates
+[ 2023-08-31 18:49:32,569 ] 25 root - data transformed sucess
+[ 2023-08-31 18:49:32,612 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 18:49:32,612 ] 31 root - pickle file is created
+[ 2023-08-31 18:49:32,717 ] 35 root - recommend process1 started
+[ 2023-08-31 18:49:32,718 ] 36 root - pickle load!
+[ 2023-08-31 18:49:32,718 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 18:49:33,915 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:49:33] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 18:49:33,931 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:49:33] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 18:49:40,749 ] 20 root - data paths created !
+[ 2023-08-31 18:49:40,749 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 18:49:40,871 ] 26 root - data has read sucessfuly
+[ 2023-08-31 18:49:40,873 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 18:49:40,873 ] 43 root - directory has created
+[ 2023-08-31 18:49:41,281 ] 47 root - data ingest sucessfully
+[ 2023-08-31 18:49:41,285 ] 19 root - entered data transformation
+[ 2023-08-31 18:49:41,312 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 18:49:41,317 ] 23 root - dropped duplicates
+[ 2023-08-31 18:49:41,324 ] 25 root - data transformed sucess
+[ 2023-08-31 18:49:41,373 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 18:49:41,373 ] 31 root - pickle file is created
+[ 2023-08-31 18:49:41,495 ] 35 root - recommend process1 started
+[ 2023-08-31 18:49:41,496 ] 36 root - pickle load!
+[ 2023-08-31 18:49:41,496 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 18:49:42,743 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:49:42] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 18:49:42,758 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:49:42] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 18:49:53,946 ] 20 root - data paths created !
+[ 2023-08-31 18:49:53,946 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 18:49:54,039 ] 26 root - data has read sucessfuly
+[ 2023-08-31 18:49:54,041 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 18:49:54,041 ] 43 root - directory has created
+[ 2023-08-31 18:49:54,342 ] 47 root - data ingest sucessfully
+[ 2023-08-31 18:49:54,345 ] 19 root - entered data transformation
+[ 2023-08-31 18:49:54,365 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 18:49:54,367 ] 23 root - dropped duplicates
+[ 2023-08-31 18:49:54,372 ] 25 root - data transformed sucess
+[ 2023-08-31 18:49:54,415 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 18:49:54,415 ] 31 root - pickle file is created
+[ 2023-08-31 18:49:54,518 ] 35 root - recommend process1 started
+[ 2023-08-31 18:49:54,518 ] 36 root - pickle load!
+[ 2023-08-31 18:49:54,518 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 18:49:55,760 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:49:55] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 18:49:55,776 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:49:55] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 18:50:26,926 ] 20 root - data paths created !
+[ 2023-08-31 18:50:26,927 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 18:50:27,033 ] 26 root - data has read sucessfuly
+[ 2023-08-31 18:50:27,035 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 18:50:27,035 ] 43 root - directory has created
+[ 2023-08-31 18:50:27,368 ] 47 root - data ingest sucessfully
+[ 2023-08-31 18:50:27,371 ] 19 root - entered data transformation
+[ 2023-08-31 18:50:27,394 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 18:50:27,396 ] 23 root - dropped duplicates
+[ 2023-08-31 18:50:27,402 ] 25 root - data transformed sucess
+[ 2023-08-31 18:50:27,444 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 18:50:27,445 ] 31 root - pickle file is created
+[ 2023-08-31 18:50:27,549 ] 35 root - recommend process1 started
+[ 2023-08-31 18:50:27,549 ] 36 root - pickle load!
+[ 2023-08-31 18:50:27,549 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 18:50:28,726 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:50:28] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 18:50:28,741 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:50:28] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 18:50:56,682 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:50:56] "[36mGET /static/style2.css HTTP/1.1[0m" 304 -
+[ 2023-08-31 18:54:51,605 ] 20 root - data paths created !
+[ 2023-08-31 18:54:51,605 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 18:54:51,725 ] 26 root - data has read sucessfuly
+[ 2023-08-31 18:54:51,727 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 18:54:51,727 ] 43 root - directory has created
+[ 2023-08-31 18:54:52,125 ] 47 root - data ingest sucessfully
+[ 2023-08-31 18:54:52,128 ] 19 root - entered data transformation
+[ 2023-08-31 18:54:52,153 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 18:54:52,156 ] 23 root - dropped duplicates
+[ 2023-08-31 18:54:52,163 ] 25 root - data transformed sucess
+[ 2023-08-31 18:54:52,208 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 18:54:52,208 ] 31 root - pickle file is created
+[ 2023-08-31 18:54:52,344 ] 35 root - recommend process1 started
+[ 2023-08-31 18:54:52,344 ] 36 root - pickle load!
+[ 2023-08-31 18:54:52,344 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 18:54:53,718 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:54:53] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 18:54:53,734 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:54:53] "[36mGET /static/style2.css HTTP/1.1[0m" 304 -
+[ 2023-08-31 18:55:13,918 ] 20 root - data paths created !
+[ 2023-08-31 18:55:13,918 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 18:55:14,016 ] 26 root - data has read sucessfuly
+[ 2023-08-31 18:55:14,017 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 18:55:14,018 ] 43 root - directory has created
+[ 2023-08-31 18:55:14,332 ] 47 root - data ingest sucessfully
+[ 2023-08-31 18:55:14,335 ] 19 root - entered data transformation
+[ 2023-08-31 18:55:14,356 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 18:55:14,359 ] 23 root - dropped duplicates
+[ 2023-08-31 18:55:14,364 ] 25 root - data transformed sucess
+[ 2023-08-31 18:55:14,409 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 18:55:14,410 ] 31 root - pickle file is created
+[ 2023-08-31 18:55:14,523 ] 35 root - recommend process1 started
+[ 2023-08-31 18:55:14,524 ] 36 root - pickle load!
+[ 2023-08-31 18:55:14,524 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 18:55:15,778 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:55:15] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 18:55:15,794 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:55:15] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 18:55:25,769 ] 20 root - data paths created !
+[ 2023-08-31 18:55:25,769 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 18:55:25,879 ] 26 root - data has read sucessfuly
+[ 2023-08-31 18:55:25,880 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 18:55:25,881 ] 43 root - directory has created
+[ 2023-08-31 18:55:26,233 ] 47 root - data ingest sucessfully
+[ 2023-08-31 18:55:26,235 ] 19 root - entered data transformation
+[ 2023-08-31 18:55:26,258 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 18:55:26,261 ] 23 root - dropped duplicates
+[ 2023-08-31 18:55:26,266 ] 25 root - data transformed sucess
+[ 2023-08-31 18:55:26,308 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 18:55:26,309 ] 31 root - pickle file is created
+[ 2023-08-31 18:55:26,421 ] 35 root - recommend process1 started
+[ 2023-08-31 18:55:26,422 ] 36 root - pickle load!
+[ 2023-08-31 18:55:26,422 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 18:55:27,679 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:55:27] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 18:55:27,696 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:55:27] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 18:55:34,538 ] 20 root - data paths created !
+[ 2023-08-31 18:55:34,538 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 18:55:34,636 ] 26 root - data has read sucessfuly
+[ 2023-08-31 18:55:34,637 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 18:55:34,638 ] 43 root - directory has created
+[ 2023-08-31 18:55:34,949 ] 47 root - data ingest sucessfully
+[ 2023-08-31 18:55:34,952 ] 19 root - entered data transformation
+[ 2023-08-31 18:55:34,973 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 18:55:34,976 ] 23 root - dropped duplicates
+[ 2023-08-31 18:55:34,981 ] 25 root - data transformed sucess
+[ 2023-08-31 18:55:35,023 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 18:55:35,024 ] 31 root - pickle file is created
+[ 2023-08-31 18:55:35,122 ] 35 root - recommend process1 started
+[ 2023-08-31 18:55:35,123 ] 36 root - pickle load!
+[ 2023-08-31 18:55:35,123 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 18:55:36,446 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:55:36] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 18:55:36,461 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:55:36] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 18:55:50,218 ] 20 root - data paths created !
+[ 2023-08-31 18:55:50,219 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 18:55:50,318 ] 26 root - data has read sucessfuly
+[ 2023-08-31 18:55:50,320 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 18:55:50,320 ] 43 root - directory has created
+[ 2023-08-31 18:55:50,619 ] 47 root - data ingest sucessfully
+[ 2023-08-31 18:55:50,622 ] 19 root - entered data transformation
+[ 2023-08-31 18:55:50,643 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 18:55:50,645 ] 23 root - dropped duplicates
+[ 2023-08-31 18:55:50,650 ] 25 root - data transformed sucess
+[ 2023-08-31 18:55:50,693 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 18:55:50,694 ] 31 root - pickle file is created
+[ 2023-08-31 18:55:50,806 ] 35 root - recommend process1 started
+[ 2023-08-31 18:55:50,806 ] 36 root - pickle load!
+[ 2023-08-31 18:55:50,806 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 18:55:52,032 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:55:52] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 18:55:52,048 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:55:52] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 18:55:59,382 ] 20 root - data paths created !
+[ 2023-08-31 18:55:59,382 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 18:55:59,510 ] 26 root - data has read sucessfuly
+[ 2023-08-31 18:55:59,511 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 18:55:59,512 ] 43 root - directory has created
+[ 2023-08-31 18:55:59,916 ] 47 root - data ingest sucessfully
+[ 2023-08-31 18:55:59,920 ] 19 root - entered data transformation
+[ 2023-08-31 18:55:59,943 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 18:55:59,946 ] 23 root - dropped duplicates
+[ 2023-08-31 18:55:59,952 ] 25 root - data transformed sucess
+[ 2023-08-31 18:55:59,999 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 18:56:00,000 ] 31 root - pickle file is created
+[ 2023-08-31 18:56:00,137 ] 35 root - recommend process1 started
+[ 2023-08-31 18:56:00,138 ] 36 root - pickle load!
+[ 2023-08-31 18:56:00,138 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 18:56:01,328 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:56:01] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 18:56:01,346 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:56:01] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 18:56:09,436 ] 20 root - data paths created !
+[ 2023-08-31 18:56:09,436 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 18:56:09,558 ] 26 root - data has read sucessfuly
+[ 2023-08-31 18:56:09,560 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 18:56:09,560 ] 43 root - directory has created
+[ 2023-08-31 18:56:09,969 ] 47 root - data ingest sucessfully
+[ 2023-08-31 18:56:09,972 ] 19 root - entered data transformation
+[ 2023-08-31 18:56:09,997 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 18:56:10,000 ] 23 root - dropped duplicates
+[ 2023-08-31 18:56:10,006 ] 25 root - data transformed sucess
+[ 2023-08-31 18:56:10,053 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 18:56:10,057 ] 31 root - pickle file is created
+[ 2023-08-31 18:56:10,195 ] 35 root - recommend process1 started
+[ 2023-08-31 18:56:10,196 ] 36 root - pickle load!
+[ 2023-08-31 18:56:10,196 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 18:56:11,437 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:56:11] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 18:56:11,453 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:56:11] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 18:56:42,228 ] 20 root - data paths created !
+[ 2023-08-31 18:56:42,229 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 18:56:42,339 ] 26 root - data has read sucessfuly
+[ 2023-08-31 18:56:42,340 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 18:56:42,342 ] 43 root - directory has created
+[ 2023-08-31 18:56:42,692 ] 47 root - data ingest sucessfully
+[ 2023-08-31 18:56:42,695 ] 19 root - entered data transformation
+[ 2023-08-31 18:56:42,718 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 18:56:42,721 ] 23 root - dropped duplicates
+[ 2023-08-31 18:56:42,728 ] 25 root - data transformed sucess
+[ 2023-08-31 18:56:42,771 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 18:56:42,773 ] 31 root - pickle file is created
+[ 2023-08-31 18:56:42,883 ] 35 root - recommend process1 started
+[ 2023-08-31 18:56:42,883 ] 36 root - pickle load!
+[ 2023-08-31 18:56:42,883 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 18:56:44,121 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:56:44] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 18:56:44,135 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:56:44] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 18:56:57,319 ] 20 root - data paths created !
+[ 2023-08-31 18:56:57,319 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 18:56:57,419 ] 26 root - data has read sucessfuly
+[ 2023-08-31 18:56:57,420 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 18:56:57,420 ] 43 root - directory has created
+[ 2023-08-31 18:56:57,729 ] 47 root - data ingest sucessfully
+[ 2023-08-31 18:56:57,733 ] 19 root - entered data transformation
+[ 2023-08-31 18:56:57,754 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 18:56:57,757 ] 23 root - dropped duplicates
+[ 2023-08-31 18:56:57,763 ] 25 root - data transformed sucess
+[ 2023-08-31 18:56:57,807 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 18:56:57,807 ] 31 root - pickle file is created
+[ 2023-08-31 18:56:57,917 ] 35 root - recommend process1 started
+[ 2023-08-31 18:56:57,917 ] 36 root - pickle load!
+[ 2023-08-31 18:56:57,917 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 18:56:59,149 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:56:59] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 18:56:59,165 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:56:59] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 18:57:09,990 ] 20 root - data paths created !
+[ 2023-08-31 18:57:09,991 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 18:57:10,093 ] 26 root - data has read sucessfuly
+[ 2023-08-31 18:57:10,096 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 18:57:10,096 ] 43 root - directory has created
+[ 2023-08-31 18:57:10,435 ] 47 root - data ingest sucessfully
+[ 2023-08-31 18:57:10,438 ] 19 root - entered data transformation
+[ 2023-08-31 18:57:10,458 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 18:57:10,461 ] 23 root - dropped duplicates
+[ 2023-08-31 18:57:10,467 ] 25 root - data transformed sucess
+[ 2023-08-31 18:57:10,510 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 18:57:10,510 ] 31 root - pickle file is created
+[ 2023-08-31 18:57:10,614 ] 35 root - recommend process1 started
+[ 2023-08-31 18:57:10,614 ] 36 root - pickle load!
+[ 2023-08-31 18:57:10,614 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 18:57:11,843 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:57:11] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 18:57:11,859 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:57:11] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 18:57:20,301 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:57:20] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 18:57:36,655 ] 20 root - data paths created !
+[ 2023-08-31 18:57:36,655 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 18:57:36,760 ] 26 root - data has read sucessfuly
+[ 2023-08-31 18:57:36,762 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 18:57:36,762 ] 43 root - directory has created
+[ 2023-08-31 18:57:37,100 ] 47 root - data ingest sucessfully
+[ 2023-08-31 18:57:37,104 ] 19 root - entered data transformation
+[ 2023-08-31 18:57:37,128 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 18:57:37,131 ] 23 root - dropped duplicates
+[ 2023-08-31 18:57:37,136 ] 25 root - data transformed sucess
+[ 2023-08-31 18:57:37,180 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 18:57:37,180 ] 31 root - pickle file is created
+[ 2023-08-31 18:57:37,290 ] 35 root - recommend process1 started
+[ 2023-08-31 18:57:37,290 ] 36 root - pickle load!
+[ 2023-08-31 18:57:37,290 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 18:57:38,527 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:57:38] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 18:57:38,543 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:57:38] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 18:57:45,491 ] 20 root - data paths created !
+[ 2023-08-31 18:57:45,492 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 18:57:45,620 ] 26 root - data has read sucessfuly
+[ 2023-08-31 18:57:45,622 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 18:57:45,622 ] 43 root - directory has created
+[ 2023-08-31 18:57:46,010 ] 47 root - data ingest sucessfully
+[ 2023-08-31 18:57:46,013 ] 19 root - entered data transformation
+[ 2023-08-31 18:57:46,039 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 18:57:46,042 ] 23 root - dropped duplicates
+[ 2023-08-31 18:57:46,049 ] 25 root - data transformed sucess
+[ 2023-08-31 18:57:46,096 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 18:57:46,097 ] 31 root - pickle file is created
+[ 2023-08-31 18:57:46,227 ] 35 root - recommend process1 started
+[ 2023-08-31 18:57:46,228 ] 36 root - pickle load!
+[ 2023-08-31 18:57:46,228 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 18:57:47,460 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:57:47] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 18:57:47,476 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:57:47] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 18:58:05,048 ] 20 root - data paths created !
+[ 2023-08-31 18:58:05,049 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 18:58:05,150 ] 26 root - data has read sucessfuly
+[ 2023-08-31 18:58:05,152 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 18:58:05,152 ] 43 root - directory has created
+[ 2023-08-31 18:58:05,501 ] 47 root - data ingest sucessfully
+[ 2023-08-31 18:58:05,504 ] 19 root - entered data transformation
+[ 2023-08-31 18:58:05,526 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 18:58:05,529 ] 23 root - dropped duplicates
+[ 2023-08-31 18:58:05,535 ] 25 root - data transformed sucess
+[ 2023-08-31 18:58:05,579 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 18:58:05,580 ] 31 root - pickle file is created
+[ 2023-08-31 18:58:05,695 ] 35 root - recommend process1 started
+[ 2023-08-31 18:58:05,695 ] 36 root - pickle load!
+[ 2023-08-31 18:58:05,695 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 18:58:06,920 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:58:06] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 18:58:06,937 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:58:06] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 18:58:18,239 ] 20 root - data paths created !
+[ 2023-08-31 18:58:18,239 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 18:58:18,344 ] 26 root - data has read sucessfuly
+[ 2023-08-31 18:58:18,345 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 18:58:18,345 ] 43 root - directory has created
+[ 2023-08-31 18:58:18,678 ] 47 root - data ingest sucessfully
+[ 2023-08-31 18:58:18,681 ] 19 root - entered data transformation
+[ 2023-08-31 18:58:18,702 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 18:58:18,704 ] 23 root - dropped duplicates
+[ 2023-08-31 18:58:18,710 ] 25 root - data transformed sucess
+[ 2023-08-31 18:58:18,753 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 18:58:18,753 ] 31 root - pickle file is created
+[ 2023-08-31 18:58:18,861 ] 35 root - recommend process1 started
+[ 2023-08-31 18:58:18,861 ] 36 root - pickle load!
+[ 2023-08-31 18:58:18,861 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 18:58:20,128 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:58:20] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 18:58:20,144 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:58:20] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 18:58:28,349 ] 20 root - data paths created !
+[ 2023-08-31 18:58:28,349 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 18:58:28,459 ] 26 root - data has read sucessfuly
+[ 2023-08-31 18:58:28,461 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 18:58:28,461 ] 43 root - directory has created
+[ 2023-08-31 18:58:28,808 ] 47 root - data ingest sucessfully
+[ 2023-08-31 18:58:28,811 ] 19 root - entered data transformation
+[ 2023-08-31 18:58:28,831 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 18:58:28,834 ] 23 root - dropped duplicates
+[ 2023-08-31 18:58:28,839 ] 25 root - data transformed sucess
+[ 2023-08-31 18:58:28,882 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 18:58:28,882 ] 31 root - pickle file is created
+[ 2023-08-31 18:58:28,989 ] 35 root - recommend process1 started
+[ 2023-08-31 18:58:28,989 ] 36 root - pickle load!
+[ 2023-08-31 18:58:28,989 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 18:58:30,192 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:58:30] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 18:58:30,209 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:58:30] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 18:58:45,859 ] 20 root - data paths created !
+[ 2023-08-31 18:58:45,859 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 18:58:45,956 ] 26 root - data has read sucessfuly
+[ 2023-08-31 18:58:45,957 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 18:58:45,957 ] 43 root - directory has created
+[ 2023-08-31 18:58:46,291 ] 47 root - data ingest sucessfully
+[ 2023-08-31 18:58:46,294 ] 19 root - entered data transformation
+[ 2023-08-31 18:58:46,317 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 18:58:46,320 ] 23 root - dropped duplicates
+[ 2023-08-31 18:58:46,327 ] 25 root - data transformed sucess
+[ 2023-08-31 18:58:46,374 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 18:58:46,375 ] 31 root - pickle file is created
+[ 2023-08-31 18:58:46,485 ] 35 root - recommend process1 started
+[ 2023-08-31 18:58:46,485 ] 36 root - pickle load!
+[ 2023-08-31 18:58:46,485 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 18:58:47,744 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:58:47] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 18:58:47,760 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:58:47] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 18:59:10,334 ] 20 root - data paths created !
+[ 2023-08-31 18:59:10,334 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 18:59:10,436 ] 26 root - data has read sucessfuly
+[ 2023-08-31 18:59:10,437 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 18:59:10,437 ] 43 root - directory has created
+[ 2023-08-31 18:59:10,788 ] 47 root - data ingest sucessfully
+[ 2023-08-31 18:59:10,791 ] 19 root - entered data transformation
+[ 2023-08-31 18:59:10,811 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 18:59:10,814 ] 23 root - dropped duplicates
+[ 2023-08-31 18:59:10,820 ] 25 root - data transformed sucess
+[ 2023-08-31 18:59:10,865 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 18:59:10,865 ] 31 root - pickle file is created
+[ 2023-08-31 18:59:10,969 ] 35 root - recommend process1 started
+[ 2023-08-31 18:59:10,969 ] 36 root - pickle load!
+[ 2023-08-31 18:59:10,969 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 18:59:12,324 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:59:12] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 18:59:12,341 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:59:12] "[36mGET /static/style2.css HTTP/1.1[0m" 304 -
+[ 2023-08-31 18:59:33,242 ] 20 root - data paths created !
+[ 2023-08-31 18:59:33,242 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 18:59:33,349 ] 26 root - data has read sucessfuly
+[ 2023-08-31 18:59:33,351 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 18:59:33,352 ] 43 root - directory has created
+[ 2023-08-31 18:59:33,688 ] 47 root - data ingest sucessfully
+[ 2023-08-31 18:59:33,690 ] 19 root - entered data transformation
+[ 2023-08-31 18:59:33,713 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 18:59:33,716 ] 23 root - dropped duplicates
+[ 2023-08-31 18:59:33,722 ] 25 root - data transformed sucess
+[ 2023-08-31 18:59:33,764 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 18:59:33,765 ] 31 root - pickle file is created
+[ 2023-08-31 18:59:33,879 ] 35 root - recommend process1 started
+[ 2023-08-31 18:59:33,879 ] 36 root - pickle load!
+[ 2023-08-31 18:59:33,879 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 18:59:35,123 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:59:35] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 18:59:35,139 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:59:35] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 18:59:49,033 ] 20 root - data paths created !
+[ 2023-08-31 18:59:49,033 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 18:59:49,160 ] 26 root - data has read sucessfuly
+[ 2023-08-31 18:59:49,161 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 18:59:49,162 ] 43 root - directory has created
+[ 2023-08-31 18:59:49,554 ] 47 root - data ingest sucessfully
+[ 2023-08-31 18:59:49,557 ] 19 root - entered data transformation
+[ 2023-08-31 18:59:49,583 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 18:59:49,586 ] 23 root - dropped duplicates
+[ 2023-08-31 18:59:49,593 ] 25 root - data transformed sucess
+[ 2023-08-31 18:59:49,643 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 18:59:49,643 ] 31 root - pickle file is created
+[ 2023-08-31 18:59:49,780 ] 35 root - recommend process1 started
+[ 2023-08-31 18:59:49,780 ] 36 root - pickle load!
+[ 2023-08-31 18:59:49,780 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 18:59:51,017 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:59:51] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 18:59:51,033 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:59:51] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 18:59:57,832 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 18:59:57] "[36mGET /static/style2.css HTTP/1.1[0m" 304 -
+[ 2023-08-31 19:02:13,237 ] 20 root - data paths created !
+[ 2023-08-31 19:02:13,238 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:02:13,350 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:02:13,351 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:02:13,352 ] 43 root - directory has created
+[ 2023-08-31 19:02:13,704 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:02:13,707 ] 19 root - entered data transformation
+[ 2023-08-31 19:02:13,730 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:02:13,732 ] 23 root - dropped duplicates
+[ 2023-08-31 19:02:13,738 ] 25 root - data transformed sucess
+[ 2023-08-31 19:02:13,783 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:02:13,783 ] 31 root - pickle file is created
+[ 2023-08-31 19:02:13,899 ] 35 root - recommend process1 started
+[ 2023-08-31 19:02:13,899 ] 36 root - pickle load!
+[ 2023-08-31 19:02:13,899 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:02:15,079 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:02:15] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:02:15,097 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:02:15] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:02:33,627 ] 20 root - data paths created !
+[ 2023-08-31 19:02:33,627 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:02:33,731 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:02:33,733 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:02:33,733 ] 43 root - directory has created
+[ 2023-08-31 19:02:34,074 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:02:34,077 ] 19 root - entered data transformation
+[ 2023-08-31 19:02:34,099 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:02:34,102 ] 23 root - dropped duplicates
+[ 2023-08-31 19:02:34,108 ] 25 root - data transformed sucess
+[ 2023-08-31 19:02:34,151 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:02:34,152 ] 31 root - pickle file is created
+[ 2023-08-31 19:02:34,265 ] 35 root - recommend process1 started
+[ 2023-08-31 19:02:34,265 ] 36 root - pickle load!
+[ 2023-08-31 19:02:34,265 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:02:35,511 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:02:35] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:02:35,525 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:02:35] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:02:44,226 ] 20 root - data paths created !
+[ 2023-08-31 19:02:44,226 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:02:44,333 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:02:44,334 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:02:44,335 ] 43 root - directory has created
+[ 2023-08-31 19:02:44,692 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:02:44,696 ] 19 root - entered data transformation
+[ 2023-08-31 19:02:44,718 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:02:44,721 ] 23 root - dropped duplicates
+[ 2023-08-31 19:02:44,727 ] 25 root - data transformed sucess
+[ 2023-08-31 19:02:44,772 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:02:44,773 ] 31 root - pickle file is created
+[ 2023-08-31 19:02:44,879 ] 35 root - recommend process1 started
+[ 2023-08-31 19:02:44,879 ] 36 root - pickle load!
+[ 2023-08-31 19:02:44,879 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:02:46,074 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:02:46] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:02:46,089 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:02:46] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:03:01,616 ] 20 root - data paths created !
+[ 2023-08-31 19:03:01,617 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:03:01,729 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:03:01,731 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:03:01,731 ] 43 root - directory has created
+[ 2023-08-31 19:03:02,098 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:03:02,101 ] 19 root - entered data transformation
+[ 2023-08-31 19:03:02,123 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:03:02,125 ] 23 root - dropped duplicates
+[ 2023-08-31 19:03:02,132 ] 25 root - data transformed sucess
+[ 2023-08-31 19:03:02,179 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:03:02,180 ] 31 root - pickle file is created
+[ 2023-08-31 19:03:02,306 ] 35 root - recommend process1 started
+[ 2023-08-31 19:03:02,307 ] 36 root - pickle load!
+[ 2023-08-31 19:03:02,307 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:03:03,525 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:03:03] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:03:03,545 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:03:03] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:03:22,232 ] 20 root - data paths created !
+[ 2023-08-31 19:03:22,233 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:03:22,334 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:03:22,337 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:03:22,338 ] 43 root - directory has created
+[ 2023-08-31 19:03:22,679 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:03:22,683 ] 19 root - entered data transformation
+[ 2023-08-31 19:03:22,704 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:03:22,707 ] 23 root - dropped duplicates
+[ 2023-08-31 19:03:22,712 ] 25 root - data transformed sucess
+[ 2023-08-31 19:03:22,754 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:03:22,755 ] 31 root - pickle file is created
+[ 2023-08-31 19:03:22,862 ] 35 root - recommend process1 started
+[ 2023-08-31 19:03:22,862 ] 36 root - pickle load!
+[ 2023-08-31 19:03:22,863 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:03:24,043 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:03:24] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:03:24,057 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:03:24] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:03:30,163 ] 20 root - data paths created !
+[ 2023-08-31 19:03:30,163 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:03:30,264 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:03:30,266 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:03:30,266 ] 43 root - directory has created
+[ 2023-08-31 19:03:30,571 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:03:30,574 ] 19 root - entered data transformation
+[ 2023-08-31 19:03:30,594 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:03:30,597 ] 23 root - dropped duplicates
+[ 2023-08-31 19:03:30,603 ] 25 root - data transformed sucess
+[ 2023-08-31 19:03:30,647 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:03:30,648 ] 31 root - pickle file is created
+[ 2023-08-31 19:03:30,749 ] 35 root - recommend process1 started
+[ 2023-08-31 19:03:30,750 ] 36 root - pickle load!
+[ 2023-08-31 19:03:30,750 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:03:31,977 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:03:31] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:03:31,992 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:03:31] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:04:21,899 ] 20 root - data paths created !
+[ 2023-08-31 19:04:21,899 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:04:22,003 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:04:22,005 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:04:22,005 ] 43 root - directory has created
+[ 2023-08-31 19:04:22,347 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:04:22,350 ] 19 root - entered data transformation
+[ 2023-08-31 19:04:22,371 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:04:22,374 ] 23 root - dropped duplicates
+[ 2023-08-31 19:04:22,380 ] 25 root - data transformed sucess
+[ 2023-08-31 19:04:22,422 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:04:22,423 ] 31 root - pickle file is created
+[ 2023-08-31 19:04:22,529 ] 35 root - recommend process1 started
+[ 2023-08-31 19:04:22,530 ] 36 root - pickle load!
+[ 2023-08-31 19:04:22,530 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:04:23,704 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:04:23] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:04:23,719 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:04:23] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:04:37,146 ] 20 root - data paths created !
+[ 2023-08-31 19:04:37,146 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:04:37,249 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:04:37,252 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:04:37,252 ] 43 root - directory has created
+[ 2023-08-31 19:04:37,591 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:04:37,594 ] 19 root - entered data transformation
+[ 2023-08-31 19:04:37,617 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:04:37,620 ] 23 root - dropped duplicates
+[ 2023-08-31 19:04:37,626 ] 25 root - data transformed sucess
+[ 2023-08-31 19:04:37,673 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:04:37,674 ] 31 root - pickle file is created
+[ 2023-08-31 19:04:37,783 ] 35 root - recommend process1 started
+[ 2023-08-31 19:04:37,783 ] 36 root - pickle load!
+[ 2023-08-31 19:04:37,783 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:04:38,978 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:04:38] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:04:38,993 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:04:38] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:05:17,920 ] 20 root - data paths created !
+[ 2023-08-31 19:05:17,921 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:05:18,022 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:05:18,023 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:05:18,024 ] 43 root - directory has created
+[ 2023-08-31 19:05:18,371 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:05:18,374 ] 19 root - entered data transformation
+[ 2023-08-31 19:05:18,396 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:05:18,398 ] 23 root - dropped duplicates
+[ 2023-08-31 19:05:18,404 ] 25 root - data transformed sucess
+[ 2023-08-31 19:05:18,447 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:05:18,448 ] 31 root - pickle file is created
+[ 2023-08-31 19:05:18,553 ] 35 root - recommend process1 started
+[ 2023-08-31 19:05:18,554 ] 36 root - pickle load!
+[ 2023-08-31 19:05:18,554 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:05:19,807 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:05:19] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:05:19,824 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:05:19] "[36mGET /static/style2.css HTTP/1.1[0m" 304 -
+[ 2023-08-31 19:05:26,243 ] 20 root - data paths created !
+[ 2023-08-31 19:05:26,243 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:05:26,337 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:05:26,339 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:05:26,339 ] 43 root - directory has created
+[ 2023-08-31 19:05:26,643 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:05:26,646 ] 19 root - entered data transformation
+[ 2023-08-31 19:05:26,667 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:05:26,669 ] 23 root - dropped duplicates
+[ 2023-08-31 19:05:26,675 ] 25 root - data transformed sucess
+[ 2023-08-31 19:05:26,717 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:05:26,718 ] 31 root - pickle file is created
+[ 2023-08-31 19:05:26,817 ] 35 root - recommend process1 started
+[ 2023-08-31 19:05:26,817 ] 36 root - pickle load!
+[ 2023-08-31 19:05:26,817 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:05:28,036 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:05:28] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:05:28,049 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:05:28] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:05:45,024 ] 20 root - data paths created !
+[ 2023-08-31 19:05:45,024 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:05:45,128 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:05:45,130 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:05:45,130 ] 43 root - directory has created
+[ 2023-08-31 19:05:45,487 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:05:45,490 ] 19 root - entered data transformation
+[ 2023-08-31 19:05:45,513 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:05:45,516 ] 23 root - dropped duplicates
+[ 2023-08-31 19:05:45,522 ] 25 root - data transformed sucess
+[ 2023-08-31 19:05:45,569 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:05:45,570 ] 31 root - pickle file is created
+[ 2023-08-31 19:05:45,680 ] 35 root - recommend process1 started
+[ 2023-08-31 19:05:45,680 ] 36 root - pickle load!
+[ 2023-08-31 19:05:45,680 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:05:46,858 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:05:46] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:05:46,875 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:05:46] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:05:53,393 ] 20 root - data paths created !
+[ 2023-08-31 19:05:53,393 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:05:53,500 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:05:53,502 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:05:53,502 ] 43 root - directory has created
+[ 2023-08-31 19:05:53,845 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:05:53,848 ] 19 root - entered data transformation
+[ 2023-08-31 19:05:53,868 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:05:53,871 ] 23 root - dropped duplicates
+[ 2023-08-31 19:05:53,878 ] 25 root - data transformed sucess
+[ 2023-08-31 19:05:53,924 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:05:53,925 ] 31 root - pickle file is created
+[ 2023-08-31 19:05:54,037 ] 35 root - recommend process1 started
+[ 2023-08-31 19:05:54,037 ] 36 root - pickle load!
+[ 2023-08-31 19:05:54,037 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:05:55,238 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:05:55] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:05:55,255 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:05:55] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:06:05,663 ] 20 root - data paths created !
+[ 2023-08-31 19:06:05,663 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:06:05,772 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:06:05,773 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:06:05,774 ] 43 root - directory has created
+[ 2023-08-31 19:06:06,127 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:06:06,130 ] 19 root - entered data transformation
+[ 2023-08-31 19:06:06,152 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:06:06,154 ] 23 root - dropped duplicates
+[ 2023-08-31 19:06:06,160 ] 25 root - data transformed sucess
+[ 2023-08-31 19:06:06,204 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:06:06,205 ] 31 root - pickle file is created
+[ 2023-08-31 19:06:06,311 ] 35 root - recommend process1 started
+[ 2023-08-31 19:06:06,311 ] 36 root - pickle load!
+[ 2023-08-31 19:06:06,311 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:06:07,603 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:06:07] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:06:07,620 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:06:07] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:06:22,454 ] 20 root - data paths created !
+[ 2023-08-31 19:06:22,454 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:06:22,548 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:06:22,549 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:06:22,550 ] 43 root - directory has created
+[ 2023-08-31 19:06:22,852 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:06:22,855 ] 19 root - entered data transformation
+[ 2023-08-31 19:06:22,875 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:06:22,877 ] 23 root - dropped duplicates
+[ 2023-08-31 19:06:22,882 ] 25 root - data transformed sucess
+[ 2023-08-31 19:06:22,926 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:06:22,927 ] 31 root - pickle file is created
+[ 2023-08-31 19:06:23,027 ] 35 root - recommend process1 started
+[ 2023-08-31 19:06:23,028 ] 36 root - pickle load!
+[ 2023-08-31 19:06:23,028 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:06:24,264 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:06:24] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:06:24,279 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:06:24] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:06:38,189 ] 20 root - data paths created !
+[ 2023-08-31 19:06:38,189 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:06:38,291 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:06:38,292 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:06:38,293 ] 43 root - directory has created
+[ 2023-08-31 19:06:38,613 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:06:38,616 ] 19 root - entered data transformation
+[ 2023-08-31 19:06:38,642 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:06:38,645 ] 23 root - dropped duplicates
+[ 2023-08-31 19:06:38,651 ] 25 root - data transformed sucess
+[ 2023-08-31 19:06:38,697 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:06:38,697 ] 31 root - pickle file is created
+[ 2023-08-31 19:06:38,829 ] 35 root - recommend process1 started
+[ 2023-08-31 19:06:38,829 ] 36 root - pickle load!
+[ 2023-08-31 19:06:38,829 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:06:40,156 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:06:40] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:06:40,172 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:06:40] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:06:49,982 ] 20 root - data paths created !
+[ 2023-08-31 19:06:49,983 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:06:50,087 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:06:50,089 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:06:50,089 ] 43 root - directory has created
+[ 2023-08-31 19:06:50,433 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:06:50,436 ] 19 root - entered data transformation
+[ 2023-08-31 19:06:50,457 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:06:50,460 ] 23 root - dropped duplicates
+[ 2023-08-31 19:06:50,466 ] 25 root - data transformed sucess
+[ 2023-08-31 19:06:50,509 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:06:50,510 ] 31 root - pickle file is created
+[ 2023-08-31 19:06:50,623 ] 35 root - recommend process1 started
+[ 2023-08-31 19:06:50,624 ] 36 root - pickle load!
+[ 2023-08-31 19:06:50,624 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:06:51,854 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:06:51] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:06:51,868 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:06:51] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:08:09,017 ] 20 root - data paths created !
+[ 2023-08-31 19:08:09,018 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:08:09,129 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:08:09,131 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:08:09,131 ] 43 root - directory has created
+[ 2023-08-31 19:08:09,487 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:08:09,490 ] 19 root - entered data transformation
+[ 2023-08-31 19:08:09,514 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:08:09,517 ] 23 root - dropped duplicates
+[ 2023-08-31 19:08:09,523 ] 25 root - data transformed sucess
+[ 2023-08-31 19:08:09,565 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:08:09,566 ] 31 root - pickle file is created
+[ 2023-08-31 19:08:09,678 ] 35 root - recommend process1 started
+[ 2023-08-31 19:08:09,678 ] 36 root - pickle load!
+[ 2023-08-31 19:08:09,678 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:08:10,943 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:08:10] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:08:10,958 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:08:10] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:08:29,080 ] 20 root - data paths created !
+[ 2023-08-31 19:08:29,080 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:08:29,183 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:08:29,185 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:08:29,185 ] 43 root - directory has created
+[ 2023-08-31 19:08:29,506 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:08:29,509 ] 19 root - entered data transformation
+[ 2023-08-31 19:08:29,530 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:08:29,532 ] 23 root - dropped duplicates
+[ 2023-08-31 19:08:29,537 ] 25 root - data transformed sucess
+[ 2023-08-31 19:08:29,580 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:08:29,581 ] 31 root - pickle file is created
+[ 2023-08-31 19:08:29,692 ] 35 root - recommend process1 started
+[ 2023-08-31 19:08:29,692 ] 36 root - pickle load!
+[ 2023-08-31 19:08:29,692 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:08:30,893 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:08:30] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:08:30,908 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:08:30] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:08:37,895 ] 20 root - data paths created !
+[ 2023-08-31 19:08:37,895 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:08:38,016 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:08:38,017 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:08:38,018 ] 43 root - directory has created
+[ 2023-08-31 19:08:38,421 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:08:38,425 ] 19 root - entered data transformation
+[ 2023-08-31 19:08:38,450 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:08:38,453 ] 23 root - dropped duplicates
+[ 2023-08-31 19:08:38,460 ] 25 root - data transformed sucess
+[ 2023-08-31 19:08:38,506 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:08:38,507 ] 31 root - pickle file is created
+[ 2023-08-31 19:08:38,635 ] 35 root - recommend process1 started
+[ 2023-08-31 19:08:38,635 ] 36 root - pickle load!
+[ 2023-08-31 19:08:38,635 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:08:39,860 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:08:39] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:08:39,876 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:08:39] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:09:33,255 ] 20 root - data paths created !
+[ 2023-08-31 19:09:33,255 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:09:33,473 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:09:33,476 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:09:33,477 ] 43 root - directory has created
+[ 2023-08-31 19:09:34,141 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:09:34,148 ] 19 root - entered data transformation
+[ 2023-08-31 19:09:34,195 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:09:34,201 ] 23 root - dropped duplicates
+[ 2023-08-31 19:09:34,213 ] 25 root - data transformed sucess
+[ 2023-08-31 19:09:34,299 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:09:34,300 ] 31 root - pickle file is created
+[ 2023-08-31 19:09:34,488 ] 35 root - recommend process1 started
+[ 2023-08-31 19:09:34,488 ] 36 root - pickle load!
+[ 2023-08-31 19:09:34,488 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:09:35,716 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:09:35] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:09:35,744 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:09:35] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:09:46,626 ] 20 root - data paths created !
+[ 2023-08-31 19:09:46,626 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:09:46,751 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:09:46,752 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:09:46,753 ] 43 root - directory has created
+[ 2023-08-31 19:09:47,175 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:09:47,178 ] 19 root - entered data transformation
+[ 2023-08-31 19:09:47,205 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:09:47,207 ] 23 root - dropped duplicates
+[ 2023-08-31 19:09:47,214 ] 25 root - data transformed sucess
+[ 2023-08-31 19:09:47,262 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:09:47,262 ] 31 root - pickle file is created
+[ 2023-08-31 19:09:47,393 ] 35 root - recommend process1 started
+[ 2023-08-31 19:09:47,393 ] 36 root - pickle load!
+[ 2023-08-31 19:09:47,393 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:09:48,648 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:09:48] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:09:48,673 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:09:48] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:09:56,355 ] 20 root - data paths created !
+[ 2023-08-31 19:09:56,355 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:09:56,489 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:09:56,490 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:09:56,491 ] 43 root - directory has created
+[ 2023-08-31 19:09:56,933 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:09:56,936 ] 19 root - entered data transformation
+[ 2023-08-31 19:09:56,960 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:09:56,963 ] 23 root - dropped duplicates
+[ 2023-08-31 19:09:56,970 ] 25 root - data transformed sucess
+[ 2023-08-31 19:09:57,017 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:09:57,018 ] 31 root - pickle file is created
+[ 2023-08-31 19:09:57,144 ] 35 root - recommend process1 started
+[ 2023-08-31 19:09:57,144 ] 36 root - pickle load!
+[ 2023-08-31 19:09:57,144 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:09:58,395 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:09:58] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:09:58,424 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:09:58] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:12:18,409 ] 20 root - data paths created !
+[ 2023-08-31 19:12:18,409 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:12:18,519 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:12:18,520 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:12:18,521 ] 43 root - directory has created
+[ 2023-08-31 19:12:18,853 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:12:18,857 ] 19 root - entered data transformation
+[ 2023-08-31 19:12:18,879 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:12:18,881 ] 23 root - dropped duplicates
+[ 2023-08-31 19:12:18,887 ] 25 root - data transformed sucess
+[ 2023-08-31 19:12:18,938 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:12:18,938 ] 31 root - pickle file is created
+[ 2023-08-31 19:12:19,059 ] 35 root - recommend process1 started
+[ 2023-08-31 19:12:19,059 ] 36 root - pickle load!
+[ 2023-08-31 19:12:19,059 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:12:20,410 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:12:20] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:12:20,444 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:12:20] "[36mGET /static/style2.css HTTP/1.1[0m" 304 -
+[ 2023-08-31 19:14:37,641 ] 20 root - data paths created !
+[ 2023-08-31 19:14:37,641 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:14:37,806 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:14:37,808 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:14:37,808 ] 43 root - directory has created
+[ 2023-08-31 19:14:38,399 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:14:38,403 ] 19 root - entered data transformation
+[ 2023-08-31 19:14:38,442 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:14:38,447 ] 23 root - dropped duplicates
+[ 2023-08-31 19:14:38,457 ] 25 root - data transformed sucess
+[ 2023-08-31 19:14:38,546 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:14:38,547 ] 31 root - pickle file is created
+[ 2023-08-31 19:14:38,767 ] 35 root - recommend process1 started
+[ 2023-08-31 19:14:38,767 ] 36 root - pickle load!
+[ 2023-08-31 19:14:38,767 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:14:40,069 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:14:40] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:14:40,089 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:14:40] "[36mGET /static/style2.css HTTP/1.1[0m" 304 -
+[ 2023-08-31 19:15:15,413 ] 20 root - data paths created !
+[ 2023-08-31 19:15:15,413 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:15:15,638 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:15:15,641 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:15:15,642 ] 43 root - directory has created
+[ 2023-08-31 19:15:16,304 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:15:16,308 ] 19 root - entered data transformation
+[ 2023-08-31 19:15:16,346 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:15:16,352 ] 23 root - dropped duplicates
+[ 2023-08-31 19:15:16,361 ] 25 root - data transformed sucess
+[ 2023-08-31 19:15:16,453 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:15:16,456 ] 31 root - pickle file is created
+[ 2023-08-31 19:15:16,661 ] 35 root - recommend process1 started
+[ 2023-08-31 19:15:16,661 ] 36 root - pickle load!
+[ 2023-08-31 19:15:16,661 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:15:17,944 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:15:17] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:15:17,971 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:15:17] "[36mGET /static/style2.css HTTP/1.1[0m" 304 -
+[ 2023-08-31 19:15:40,353 ] 20 root - data paths created !
+[ 2023-08-31 19:15:40,353 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:15:40,573 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:15:40,576 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:15:40,577 ] 43 root - directory has created
+[ 2023-08-31 19:15:41,214 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:15:41,218 ] 19 root - entered data transformation
+[ 2023-08-31 19:15:41,256 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:15:41,259 ] 23 root - dropped duplicates
+[ 2023-08-31 19:15:41,269 ] 25 root - data transformed sucess
+[ 2023-08-31 19:15:41,355 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:15:41,356 ] 31 root - pickle file is created
+[ 2023-08-31 19:15:41,555 ] 35 root - recommend process1 started
+[ 2023-08-31 19:15:41,555 ] 36 root - pickle load!
+[ 2023-08-31 19:15:41,555 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:15:42,773 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:15:42] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:15:42,801 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:15:42] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:16:40,950 ] 20 root - data paths created !
+[ 2023-08-31 19:16:40,950 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:16:41,128 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:16:41,130 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:16:41,131 ] 43 root - directory has created
+[ 2023-08-31 19:16:41,715 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:16:41,721 ] 19 root - entered data transformation
+[ 2023-08-31 19:16:41,758 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:16:41,762 ] 23 root - dropped duplicates
+[ 2023-08-31 19:16:41,773 ] 25 root - data transformed sucess
+[ 2023-08-31 19:16:41,867 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:16:41,869 ] 31 root - pickle file is created
+[ 2023-08-31 19:16:42,057 ] 35 root - recommend process1 started
+[ 2023-08-31 19:16:42,057 ] 36 root - pickle load!
+[ 2023-08-31 19:16:42,057 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:16:43,390 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:16:43] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:16:43,406 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:16:43] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:17:03,749 ] 20 root - data paths created !
+[ 2023-08-31 19:17:03,750 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:17:03,952 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:17:03,955 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:17:03,956 ] 43 root - directory has created
+[ 2023-08-31 19:17:04,534 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:17:04,539 ] 19 root - entered data transformation
+[ 2023-08-31 19:17:04,578 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:17:04,582 ] 23 root - dropped duplicates
+[ 2023-08-31 19:17:04,592 ] 25 root - data transformed sucess
+[ 2023-08-31 19:17:04,688 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:17:04,689 ] 31 root - pickle file is created
+[ 2023-08-31 19:17:04,878 ] 35 root - recommend process1 started
+[ 2023-08-31 19:17:04,879 ] 36 root - pickle load!
+[ 2023-08-31 19:17:04,879 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:17:06,114 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:17:06] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:17:06,138 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:17:06] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:17:20,554 ] 20 root - data paths created !
+[ 2023-08-31 19:17:20,555 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:17:20,781 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:17:20,783 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:17:20,784 ] 43 root - directory has created
+[ 2023-08-31 19:17:21,446 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:17:21,451 ] 19 root - entered data transformation
+[ 2023-08-31 19:17:21,489 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:17:21,493 ] 23 root - dropped duplicates
+[ 2023-08-31 19:17:21,503 ] 25 root - data transformed sucess
+[ 2023-08-31 19:17:21,592 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:17:21,593 ] 31 root - pickle file is created
+[ 2023-08-31 19:17:21,792 ] 35 root - recommend process1 started
+[ 2023-08-31 19:17:21,792 ] 36 root - pickle load!
+[ 2023-08-31 19:17:21,792 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:17:23,030 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:17:23] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:17:23,052 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:17:23] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:17:44,896 ] 20 root - data paths created !
+[ 2023-08-31 19:17:44,896 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:17:45,106 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:17:45,110 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:17:45,111 ] 43 root - directory has created
+[ 2023-08-31 19:17:45,767 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:17:45,774 ] 19 root - entered data transformation
+[ 2023-08-31 19:17:45,821 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:17:45,827 ] 23 root - dropped duplicates
+[ 2023-08-31 19:17:45,839 ] 25 root - data transformed sucess
+[ 2023-08-31 19:17:45,930 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:17:45,932 ] 31 root - pickle file is created
+[ 2023-08-31 19:17:46,176 ] 35 root - recommend process1 started
+[ 2023-08-31 19:17:46,176 ] 36 root - pickle load!
+[ 2023-08-31 19:17:46,176 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:17:47,428 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:17:47] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:17:47,457 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:17:47] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:19:04,469 ] 20 root - data paths created !
+[ 2023-08-31 19:19:04,469 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:19:04,632 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:19:04,634 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:19:04,635 ] 43 root - directory has created
+[ 2023-08-31 19:19:05,235 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:19:05,240 ] 19 root - entered data transformation
+[ 2023-08-31 19:19:05,282 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:19:05,285 ] 23 root - dropped duplicates
+[ 2023-08-31 19:19:05,295 ] 25 root - data transformed sucess
+[ 2023-08-31 19:19:05,381 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:19:05,382 ] 31 root - pickle file is created
+[ 2023-08-31 19:19:05,582 ] 35 root - recommend process1 started
+[ 2023-08-31 19:19:05,582 ] 36 root - pickle load!
+[ 2023-08-31 19:19:05,583 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:19:06,848 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:19:06] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:19:06,874 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:19:06] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:19:16,325 ] 20 root - data paths created !
+[ 2023-08-31 19:19:16,325 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:19:16,485 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:19:16,487 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:19:16,488 ] 43 root - directory has created
+[ 2023-08-31 19:19:17,023 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:19:17,026 ] 19 root - entered data transformation
+[ 2023-08-31 19:19:17,058 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:19:17,061 ] 23 root - dropped duplicates
+[ 2023-08-31 19:19:17,069 ] 25 root - data transformed sucess
+[ 2023-08-31 19:19:17,126 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:19:17,128 ] 31 root - pickle file is created
+[ 2023-08-31 19:19:17,267 ] 35 root - recommend process1 started
+[ 2023-08-31 19:19:17,267 ] 36 root - pickle load!
+[ 2023-08-31 19:19:17,268 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:19:18,560 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:19:18] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:19:18,592 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:19:18] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:19:27,245 ] 20 root - data paths created !
+[ 2023-08-31 19:19:27,245 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:19:27,467 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:19:27,470 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:19:27,471 ] 43 root - directory has created
+[ 2023-08-31 19:19:28,134 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:19:28,140 ] 19 root - entered data transformation
+[ 2023-08-31 19:19:28,186 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:19:28,191 ] 23 root - dropped duplicates
+[ 2023-08-31 19:19:28,203 ] 25 root - data transformed sucess
+[ 2023-08-31 19:19:28,290 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:19:28,292 ] 31 root - pickle file is created
+[ 2023-08-31 19:19:28,540 ] 35 root - recommend process1 started
+[ 2023-08-31 19:19:28,540 ] 36 root - pickle load!
+[ 2023-08-31 19:19:28,540 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:19:29,785 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:19:29] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:19:29,809 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:19:29] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:19:46,314 ] 20 root - data paths created !
+[ 2023-08-31 19:19:46,315 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:19:46,495 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:19:46,498 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:19:46,498 ] 43 root - directory has created
+[ 2023-08-31 19:19:47,095 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:19:47,100 ] 19 root - entered data transformation
+[ 2023-08-31 19:19:47,141 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:19:47,145 ] 23 root - dropped duplicates
+[ 2023-08-31 19:19:47,155 ] 25 root - data transformed sucess
+[ 2023-08-31 19:19:47,254 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:19:47,255 ] 31 root - pickle file is created
+[ 2023-08-31 19:19:47,451 ] 35 root - recommend process1 started
+[ 2023-08-31 19:19:47,451 ] 36 root - pickle load!
+[ 2023-08-31 19:19:47,451 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:19:48,699 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:19:48] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:19:48,726 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:19:48] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:20:07,783 ] 20 root - data paths created !
+[ 2023-08-31 19:20:07,784 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:20:07,933 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:20:07,934 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:20:07,935 ] 43 root - directory has created
+[ 2023-08-31 19:20:08,390 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:20:08,393 ] 19 root - entered data transformation
+[ 2023-08-31 19:20:08,420 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:20:08,423 ] 23 root - dropped duplicates
+[ 2023-08-31 19:20:08,429 ] 25 root - data transformed sucess
+[ 2023-08-31 19:20:08,484 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:20:08,485 ] 31 root - pickle file is created
+[ 2023-08-31 19:20:08,606 ] 35 root - recommend process1 started
+[ 2023-08-31 19:20:08,606 ] 36 root - pickle load!
+[ 2023-08-31 19:20:08,606 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:20:09,862 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:20:09] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:20:09,884 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:20:09] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:20:32,430 ] 20 root - data paths created !
+[ 2023-08-31 19:20:32,430 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:20:32,589 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:20:32,592 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:20:32,592 ] 43 root - directory has created
+[ 2023-08-31 19:20:33,195 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:20:33,200 ] 19 root - entered data transformation
+[ 2023-08-31 19:20:33,234 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:20:33,238 ] 23 root - dropped duplicates
+[ 2023-08-31 19:20:33,247 ] 25 root - data transformed sucess
+[ 2023-08-31 19:20:33,325 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:20:33,326 ] 31 root - pickle file is created
+[ 2023-08-31 19:20:33,491 ] 35 root - recommend process1 started
+[ 2023-08-31 19:20:33,491 ] 36 root - pickle load!
+[ 2023-08-31 19:20:33,491 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:20:34,730 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:20:34] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:20:34,760 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:20:34] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:20:51,008 ] 20 root - data paths created !
+[ 2023-08-31 19:20:51,009 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:20:51,121 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:20:51,122 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:20:51,123 ] 43 root - directory has created
+[ 2023-08-31 19:20:51,451 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:20:51,454 ] 19 root - entered data transformation
+[ 2023-08-31 19:20:51,475 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:20:51,477 ] 23 root - dropped duplicates
+[ 2023-08-31 19:20:51,485 ] 25 root - data transformed sucess
+[ 2023-08-31 19:20:51,531 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:20:51,532 ] 31 root - pickle file is created
+[ 2023-08-31 19:20:51,649 ] 35 root - recommend process1 started
+[ 2023-08-31 19:20:51,649 ] 36 root - pickle load!
+[ 2023-08-31 19:20:51,649 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:20:52,952 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:20:52] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:20:52,984 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:20:52] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:21:03,284 ] 20 root - data paths created !
+[ 2023-08-31 19:21:03,285 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:21:03,443 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:21:03,446 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:21:03,446 ] 43 root - directory has created
+[ 2023-08-31 19:21:04,019 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:21:04,023 ] 19 root - entered data transformation
+[ 2023-08-31 19:21:04,063 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:21:04,067 ] 23 root - dropped duplicates
+[ 2023-08-31 19:21:04,077 ] 25 root - data transformed sucess
+[ 2023-08-31 19:21:04,173 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:21:04,174 ] 31 root - pickle file is created
+[ 2023-08-31 19:21:04,365 ] 35 root - recommend process1 started
+[ 2023-08-31 19:21:04,366 ] 36 root - pickle load!
+[ 2023-08-31 19:21:04,366 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:21:05,610 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:21:05] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:21:05,633 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:21:05] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:21:15,919 ] 20 root - data paths created !
+[ 2023-08-31 19:21:15,919 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:21:16,088 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:21:16,090 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:21:16,091 ] 43 root - directory has created
+[ 2023-08-31 19:21:16,661 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:21:16,666 ] 19 root - entered data transformation
+[ 2023-08-31 19:21:16,696 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:21:16,699 ] 23 root - dropped duplicates
+[ 2023-08-31 19:21:16,706 ] 25 root - data transformed sucess
+[ 2023-08-31 19:21:16,762 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:21:16,763 ] 31 root - pickle file is created
+[ 2023-08-31 19:21:16,920 ] 35 root - recommend process1 started
+[ 2023-08-31 19:21:16,920 ] 36 root - pickle load!
+[ 2023-08-31 19:21:16,920 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:21:18,181 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:21:18] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:21:18,202 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:21:18] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:22:00,566 ] 20 root - data paths created !
+[ 2023-08-31 19:22:00,566 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:22:00,792 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:22:00,796 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:22:00,796 ] 43 root - directory has created
+[ 2023-08-31 19:22:01,458 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:22:01,464 ] 19 root - entered data transformation
+[ 2023-08-31 19:22:01,510 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:22:01,515 ] 23 root - dropped duplicates
+[ 2023-08-31 19:22:01,526 ] 25 root - data transformed sucess
+[ 2023-08-31 19:22:01,614 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:22:01,615 ] 31 root - pickle file is created
+[ 2023-08-31 19:22:01,824 ] 35 root - recommend process1 started
+[ 2023-08-31 19:22:01,824 ] 36 root - pickle load!
+[ 2023-08-31 19:22:01,824 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:22:06,413 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:22:06] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:22:06,440 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:22:06] "[36mGET /static/style2.css HTTP/1.1[0m" 304 -
+[ 2023-08-31 19:23:09,953 ] 20 root - data paths created !
+[ 2023-08-31 19:23:09,954 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:23:10,129 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:23:10,131 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:23:10,132 ] 43 root - directory has created
+[ 2023-08-31 19:23:10,723 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:23:10,728 ] 19 root - entered data transformation
+[ 2023-08-31 19:23:10,766 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:23:10,769 ] 23 root - dropped duplicates
+[ 2023-08-31 19:23:10,780 ] 25 root - data transformed sucess
+[ 2023-08-31 19:23:10,874 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:23:10,875 ] 31 root - pickle file is created
+[ 2023-08-31 19:23:11,065 ] 35 root - recommend process1 started
+[ 2023-08-31 19:23:11,066 ] 36 root - pickle load!
+[ 2023-08-31 19:23:11,066 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:23:12,991 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:23:12] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:23:13,019 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:23:13] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:23:37,322 ] 20 root - data paths created !
+[ 2023-08-31 19:23:37,322 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:23:37,484 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:23:37,486 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:23:37,487 ] 43 root - directory has created
+[ 2023-08-31 19:23:38,075 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:23:38,079 ] 19 root - entered data transformation
+[ 2023-08-31 19:23:38,114 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:23:38,118 ] 23 root - dropped duplicates
+[ 2023-08-31 19:23:38,127 ] 25 root - data transformed sucess
+[ 2023-08-31 19:23:38,209 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:23:38,210 ] 31 root - pickle file is created
+[ 2023-08-31 19:23:38,376 ] 35 root - recommend process1 started
+[ 2023-08-31 19:23:38,376 ] 36 root - pickle load!
+[ 2023-08-31 19:23:38,377 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:23:39,670 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:23:39] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:23:39,684 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:23:39] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:23:50,285 ] 20 root - data paths created !
+[ 2023-08-31 19:23:50,285 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:23:50,489 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:23:50,493 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:23:50,494 ] 43 root - directory has created
+[ 2023-08-31 19:23:51,165 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:23:51,170 ] 19 root - entered data transformation
+[ 2023-08-31 19:23:51,213 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:23:51,218 ] 23 root - dropped duplicates
+[ 2023-08-31 19:23:51,230 ] 25 root - data transformed sucess
+[ 2023-08-31 19:23:51,316 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:23:51,318 ] 31 root - pickle file is created
+[ 2023-08-31 19:23:51,572 ] 35 root - recommend process1 started
+[ 2023-08-31 19:23:51,572 ] 36 root - pickle load!
+[ 2023-08-31 19:23:51,572 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:23:53,181 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:23:53] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:23:53,205 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:23:53] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:25:01,722 ] 20 root - data paths created !
+[ 2023-08-31 19:25:01,723 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:25:01,879 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:25:01,881 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:25:01,882 ] 43 root - directory has created
+[ 2023-08-31 19:25:02,473 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:25:02,480 ] 19 root - entered data transformation
+[ 2023-08-31 19:25:02,516 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:25:02,520 ] 23 root - dropped duplicates
+[ 2023-08-31 19:25:02,531 ] 25 root - data transformed sucess
+[ 2023-08-31 19:25:02,619 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:25:02,620 ] 31 root - pickle file is created
+[ 2023-08-31 19:25:02,815 ] 35 root - recommend process1 started
+[ 2023-08-31 19:25:02,815 ] 36 root - pickle load!
+[ 2023-08-31 19:25:02,815 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:25:04,058 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:25:04] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:25:04,085 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:25:04] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:25:51,611 ] 20 root - data paths created !
+[ 2023-08-31 19:25:51,611 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:25:51,775 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:25:51,777 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:25:51,778 ] 43 root - directory has created
+[ 2023-08-31 19:25:52,372 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:25:52,377 ] 19 root - entered data transformation
+[ 2023-08-31 19:25:52,412 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:25:52,416 ] 23 root - dropped duplicates
+[ 2023-08-31 19:25:52,426 ] 25 root - data transformed sucess
+[ 2023-08-31 19:25:52,510 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:25:52,511 ] 31 root - pickle file is created
+[ 2023-08-31 19:25:52,679 ] 35 root - recommend process1 started
+[ 2023-08-31 19:25:52,679 ] 36 root - pickle load!
+[ 2023-08-31 19:25:52,679 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:25:53,884 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:25:53] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:25:53,903 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:25:53] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:26:24,145 ] 20 root - data paths created !
+[ 2023-08-31 19:26:24,145 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:26:24,309 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:26:24,311 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:26:24,311 ] 43 root - directory has created
+[ 2023-08-31 19:26:24,907 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:26:24,911 ] 19 root - entered data transformation
+[ 2023-08-31 19:26:24,951 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:26:24,955 ] 23 root - dropped duplicates
+[ 2023-08-31 19:26:24,964 ] 25 root - data transformed sucess
+[ 2023-08-31 19:26:25,054 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:26:25,055 ] 31 root - pickle file is created
+[ 2023-08-31 19:26:25,249 ] 35 root - recommend process1 started
+[ 2023-08-31 19:26:25,249 ] 36 root - pickle load!
+[ 2023-08-31 19:26:25,249 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:26:26,517 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:26:26] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:26:26,544 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:26:26] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:26:46,620 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:26:46] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 19:27:02,379 ] 20 root - data paths created !
+[ 2023-08-31 19:27:02,379 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:27:02,515 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:27:02,517 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:27:02,517 ] 43 root - directory has created
+[ 2023-08-31 19:27:02,927 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:27:02,930 ] 19 root - entered data transformation
+[ 2023-08-31 19:27:02,952 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:27:02,955 ] 23 root - dropped duplicates
+[ 2023-08-31 19:27:02,961 ] 25 root - data transformed sucess
+[ 2023-08-31 19:27:03,008 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:27:03,008 ] 31 root - pickle file is created
+[ 2023-08-31 19:27:03,123 ] 35 root - recommend process1 started
+[ 2023-08-31 19:27:03,123 ] 36 root - pickle load!
+[ 2023-08-31 19:27:03,123 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:27:04,350 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:27:04] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:27:04,391 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:27:04] "[36mGET /static/style2.css HTTP/1.1[0m" 304 -
+[ 2023-08-31 19:27:12,758 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:27:12] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 19:27:20,097 ] 20 root - data paths created !
+[ 2023-08-31 19:27:20,097 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:27:20,364 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:27:20,367 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:27:20,368 ] 43 root - directory has created
+[ 2023-08-31 19:27:21,258 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:27:21,265 ] 19 root - entered data transformation
+[ 2023-08-31 19:27:21,321 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:27:21,326 ] 23 root - dropped duplicates
+[ 2023-08-31 19:27:21,339 ] 25 root - data transformed sucess
+[ 2023-08-31 19:27:21,432 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:27:21,434 ] 31 root - pickle file is created
+[ 2023-08-31 19:27:21,659 ] 35 root - recommend process1 started
+[ 2023-08-31 19:27:21,659 ] 36 root - pickle load!
+[ 2023-08-31 19:27:21,659 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:27:21,663 ] 15 root - get similarities started
+[ 2023-08-31 19:27:21,670 ] 18 root - vector process 1 completed
+[ 2023-08-31 19:27:21,670 ] 20 root - similarity started
+[ 2023-08-31 19:27:56,978 ] 29 root - similarity process ended
+[ 2023-08-31 19:27:57,008 ] 44 root - recommendations are                     name     artists
+6994               Don't  Ed Sheeran
+2703               Drunk  Ed Sheeran
+1076     What Do I Know?  Ed Sheeran
+675           The A Team  Ed Sheeran
+5247  Castle on the Hill  Ed Sheeran
+[ 2023-08-31 19:27:58,377 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:27:58] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:27:58,402 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:27:58] "[36mGET /static/style2.css HTTP/1.1[0m" 304 -
+[ 2023-08-31 19:29:54,085 ] 20 root - data paths created !
+[ 2023-08-31 19:29:54,086 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:29:54,253 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:29:54,256 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:29:54,256 ] 43 root - directory has created
+[ 2023-08-31 19:29:54,854 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:29:54,858 ] 19 root - entered data transformation
+[ 2023-08-31 19:29:54,898 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:29:54,902 ] 23 root - dropped duplicates
+[ 2023-08-31 19:29:54,913 ] 25 root - data transformed sucess
+[ 2023-08-31 19:29:54,999 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:29:55,000 ] 31 root - pickle file is created
+[ 2023-08-31 19:29:55,185 ] 35 root - recommend process1 started
+[ 2023-08-31 19:29:55,185 ] 36 root - pickle load!
+[ 2023-08-31 19:29:55,185 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:29:55,189 ] 15 root - get similarities started
+[ 2023-08-31 19:29:55,193 ] 18 root - vector process 1 completed
+[ 2023-08-31 19:29:55,193 ] 20 root - similarity started
+[ 2023-08-31 19:30:22,052 ] 29 root - similarity process ended
+[ 2023-08-31 19:30:22,065 ] 44 root - recommendations are                     name     artists
+6994               Don't  Ed Sheeran
+2703               Drunk  Ed Sheeran
+1076     What Do I Know?  Ed Sheeran
+675           The A Team  Ed Sheeran
+5247  Castle on the Hill  Ed Sheeran
+[ 2023-08-31 19:30:23,608 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:30:23] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:30:23,635 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:30:23] "[36mGET /static/style2.css HTTP/1.1[0m" 304 -
+[ 2023-08-31 19:30:27,837 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:30:27] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 19:30:41,566 ] 20 root - data paths created !
+[ 2023-08-31 19:30:41,567 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:30:41,827 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:30:41,832 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:30:41,833 ] 43 root - directory has created
+[ 2023-08-31 19:30:42,493 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:30:42,499 ] 19 root - entered data transformation
+[ 2023-08-31 19:30:42,541 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:30:42,546 ] 23 root - dropped duplicates
+[ 2023-08-31 19:30:42,558 ] 25 root - data transformed sucess
+[ 2023-08-31 19:30:42,650 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:30:42,652 ] 31 root - pickle file is created
+[ 2023-08-31 19:30:42,853 ] 35 root - recommend process1 started
+[ 2023-08-31 19:30:42,854 ] 36 root - pickle load!
+[ 2023-08-31 19:30:42,854 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:30:45,062 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:30:45] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:30:45,088 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:30:45] "[36mGET /static/style2.css HTTP/1.1[0m" 304 -
+[ 2023-08-31 19:33:31,574 ] 20 root - data paths created !
+[ 2023-08-31 19:33:31,575 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:33:31,721 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:33:31,724 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:33:31,724 ] 43 root - directory has created
+[ 2023-08-31 19:33:32,144 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:33:32,147 ] 19 root - entered data transformation
+[ 2023-08-31 19:33:32,171 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:33:32,174 ] 23 root - dropped duplicates
+[ 2023-08-31 19:33:32,180 ] 25 root - data transformed sucess
+[ 2023-08-31 19:33:32,231 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:33:32,232 ] 31 root - pickle file is created
+[ 2023-08-31 19:33:32,360 ] 35 root - recommend process1 started
+[ 2023-08-31 19:33:32,360 ] 36 root - pickle load!
+[ 2023-08-31 19:33:32,360 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:33:33,546 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:33:33] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:33:33,571 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:33:33] "[36mGET /static/style2.css HTTP/1.1[0m" 304 -
+[ 2023-08-31 19:36:02,452 ] 20 root - data paths created !
+[ 2023-08-31 19:36:02,452 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:36:02,621 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:36:02,623 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:36:02,624 ] 43 root - directory has created
+[ 2023-08-31 19:36:03,226 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:36:03,230 ] 19 root - entered data transformation
+[ 2023-08-31 19:36:03,270 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:36:03,274 ] 23 root - dropped duplicates
+[ 2023-08-31 19:36:03,285 ] 25 root - data transformed sucess
+[ 2023-08-31 19:36:03,374 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:36:03,376 ] 31 root - pickle file is created
+[ 2023-08-31 19:36:03,596 ] 35 root - recommend process1 started
+[ 2023-08-31 19:36:03,596 ] 36 root - pickle load!
+[ 2023-08-31 19:36:03,596 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:36:04,841 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:36:04] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:36:04,869 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:36:04] "[36mGET /static/style2.css HTTP/1.1[0m" 304 -
+[ 2023-08-31 19:36:57,210 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:36:57] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 19:36:57,275 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:36:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-31 19:37:00,888 ] 20 root - data paths created !
+[ 2023-08-31 19:37:00,888 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:37:01,026 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:37:01,028 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:37:01,028 ] 43 root - directory has created
+[ 2023-08-31 19:37:01,486 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:37:01,490 ] 19 root - entered data transformation
+[ 2023-08-31 19:37:01,520 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:37:01,524 ] 23 root - dropped duplicates
+[ 2023-08-31 19:37:01,530 ] 25 root - data transformed sucess
+[ 2023-08-31 19:37:01,579 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:37:01,580 ] 31 root - pickle file is created
+[ 2023-08-31 19:37:01,708 ] 35 root - recommend process1 started
+[ 2023-08-31 19:37:01,708 ] 36 root - pickle load!
+[ 2023-08-31 19:37:01,708 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:37:02,922 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:37:02] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:37:02,960 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:37:02] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:37:25,489 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:37:25] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 19:37:25,531 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:37:25] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-31 19:37:31,245 ] 20 root - data paths created !
+[ 2023-08-31 19:37:31,245 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:37:31,369 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:37:31,371 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:37:31,372 ] 43 root - directory has created
+[ 2023-08-31 19:37:31,760 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:37:31,763 ] 19 root - entered data transformation
+[ 2023-08-31 19:37:31,791 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:37:31,794 ] 23 root - dropped duplicates
+[ 2023-08-31 19:37:31,804 ] 25 root - data transformed sucess
+[ 2023-08-31 19:37:31,853 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:37:31,854 ] 31 root - pickle file is created
+[ 2023-08-31 19:37:31,979 ] 35 root - recommend process1 started
+[ 2023-08-31 19:37:31,979 ] 36 root - pickle load!
+[ 2023-08-31 19:37:31,979 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:37:33,727 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:37:33] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:37:33,739 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:37:33] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:39:17,393 ] 20 root - data paths created !
+[ 2023-08-31 19:39:17,393 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:39:17,569 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:39:17,571 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:39:17,573 ] 43 root - directory has created
+[ 2023-08-31 19:39:18,172 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:39:18,177 ] 19 root - entered data transformation
+[ 2023-08-31 19:39:18,219 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:39:18,226 ] 23 root - dropped duplicates
+[ 2023-08-31 19:39:18,238 ] 25 root - data transformed sucess
+[ 2023-08-31 19:39:18,330 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:39:18,331 ] 31 root - pickle file is created
+[ 2023-08-31 19:39:18,543 ] 35 root - recommend process1 started
+[ 2023-08-31 19:39:18,543 ] 36 root - pickle load!
+[ 2023-08-31 19:39:18,543 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:39:19,796 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:39:19] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:39:19,830 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:39:19] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:39:34,222 ] 20 root - data paths created !
+[ 2023-08-31 19:39:34,222 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:39:34,431 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:39:34,433 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:39:34,434 ] 43 root - directory has created
+[ 2023-08-31 19:39:35,148 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:39:35,155 ] 19 root - entered data transformation
+[ 2023-08-31 19:39:35,207 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:39:35,213 ] 23 root - dropped duplicates
+[ 2023-08-31 19:39:35,225 ] 25 root - data transformed sucess
+[ 2023-08-31 19:39:35,314 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:39:35,315 ] 31 root - pickle file is created
+[ 2023-08-31 19:39:35,585 ] 35 root - recommend process1 started
+[ 2023-08-31 19:39:35,586 ] 36 root - pickle load!
+[ 2023-08-31 19:39:35,586 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:39:36,837 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:39:36] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:39:36,866 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:39:36] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:40:03,886 ] 20 root - data paths created !
+[ 2023-08-31 19:40:03,887 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:40:04,113 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:40:04,116 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:40:04,116 ] 43 root - directory has created
+[ 2023-08-31 19:40:04,730 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:40:04,734 ] 19 root - entered data transformation
+[ 2023-08-31 19:40:04,774 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:40:04,777 ] 23 root - dropped duplicates
+[ 2023-08-31 19:40:04,788 ] 25 root - data transformed sucess
+[ 2023-08-31 19:40:04,877 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:40:04,878 ] 31 root - pickle file is created
+[ 2023-08-31 19:40:05,077 ] 35 root - recommend process1 started
+[ 2023-08-31 19:40:05,078 ] 36 root - pickle load!
+[ 2023-08-31 19:40:05,078 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:40:06,301 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:40:06] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:40:06,335 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:40:06] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:40:27,287 ] 20 root - data paths created !
+[ 2023-08-31 19:40:27,287 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:40:27,451 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:40:27,453 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:40:27,454 ] 43 root - directory has created
+[ 2023-08-31 19:40:28,055 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:40:28,060 ] 19 root - entered data transformation
+[ 2023-08-31 19:40:28,101 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:40:28,104 ] 23 root - dropped duplicates
+[ 2023-08-31 19:40:28,115 ] 25 root - data transformed sucess
+[ 2023-08-31 19:40:28,205 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:40:28,206 ] 31 root - pickle file is created
+[ 2023-08-31 19:40:28,393 ] 35 root - recommend process1 started
+[ 2023-08-31 19:40:28,393 ] 36 root - pickle load!
+[ 2023-08-31 19:40:28,393 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:40:29,629 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:40:29] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:40:29,665 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:40:29] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:40:41,500 ] 20 root - data paths created !
+[ 2023-08-31 19:40:41,500 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:40:41,672 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:40:41,675 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:40:41,676 ] 43 root - directory has created
+[ 2023-08-31 19:40:42,306 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:40:42,312 ] 19 root - entered data transformation
+[ 2023-08-31 19:40:42,352 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:40:42,356 ] 23 root - dropped duplicates
+[ 2023-08-31 19:40:42,368 ] 25 root - data transformed sucess
+[ 2023-08-31 19:40:42,454 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:40:42,456 ] 31 root - pickle file is created
+[ 2023-08-31 19:40:42,640 ] 35 root - recommend process1 started
+[ 2023-08-31 19:40:42,640 ] 36 root - pickle load!
+[ 2023-08-31 19:40:42,640 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:40:43,869 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:40:43] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:40:43,901 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:40:43] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:40:57,629 ] 20 root - data paths created !
+[ 2023-08-31 19:40:57,629 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:40:57,831 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:40:57,834 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:40:57,835 ] 43 root - directory has created
+[ 2023-08-31 19:40:58,455 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:40:58,460 ] 19 root - entered data transformation
+[ 2023-08-31 19:40:58,496 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:40:58,500 ] 23 root - dropped duplicates
+[ 2023-08-31 19:40:58,509 ] 25 root - data transformed sucess
+[ 2023-08-31 19:40:58,598 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:40:58,599 ] 31 root - pickle file is created
+[ 2023-08-31 19:40:58,785 ] 35 root - recommend process1 started
+[ 2023-08-31 19:40:58,785 ] 36 root - pickle load!
+[ 2023-08-31 19:40:58,785 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:41:00,124 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:41:00] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:41:00,154 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:41:00] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:41:19,947 ] 20 root - data paths created !
+[ 2023-08-31 19:41:19,947 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:41:20,120 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:41:20,122 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:41:20,123 ] 43 root - directory has created
+[ 2023-08-31 19:41:20,722 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:41:20,727 ] 19 root - entered data transformation
+[ 2023-08-31 19:41:20,765 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:41:20,768 ] 23 root - dropped duplicates
+[ 2023-08-31 19:41:20,779 ] 25 root - data transformed sucess
+[ 2023-08-31 19:41:20,872 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:41:20,873 ] 31 root - pickle file is created
+[ 2023-08-31 19:41:21,064 ] 35 root - recommend process1 started
+[ 2023-08-31 19:41:21,064 ] 36 root - pickle load!
+[ 2023-08-31 19:41:21,064 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:41:23,484 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:41:23] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:41:23,513 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:41:23] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:41:42,789 ] 20 root - data paths created !
+[ 2023-08-31 19:41:42,790 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:41:42,968 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:41:42,970 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:41:42,970 ] 43 root - directory has created
+[ 2023-08-31 19:41:43,558 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:41:43,563 ] 19 root - entered data transformation
+[ 2023-08-31 19:41:43,601 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:41:43,604 ] 23 root - dropped duplicates
+[ 2023-08-31 19:41:43,615 ] 25 root - data transformed sucess
+[ 2023-08-31 19:41:43,699 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:41:43,700 ] 31 root - pickle file is created
+[ 2023-08-31 19:41:43,894 ] 35 root - recommend process1 started
+[ 2023-08-31 19:41:43,894 ] 36 root - pickle load!
+[ 2023-08-31 19:41:43,894 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:41:45,164 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:41:45] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:41:45,207 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:41:45] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:42:12,028 ] 20 root - data paths created !
+[ 2023-08-31 19:42:12,028 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:42:12,233 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:42:12,236 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:42:12,237 ] 43 root - directory has created
+[ 2023-08-31 19:42:12,922 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:42:12,928 ] 19 root - entered data transformation
+[ 2023-08-31 19:42:12,977 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:42:12,983 ] 23 root - dropped duplicates
+[ 2023-08-31 19:42:12,994 ] 25 root - data transformed sucess
+[ 2023-08-31 19:42:13,085 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:42:13,086 ] 31 root - pickle file is created
+[ 2023-08-31 19:42:13,332 ] 35 root - recommend process1 started
+[ 2023-08-31 19:42:13,332 ] 36 root - pickle load!
+[ 2023-08-31 19:42:13,333 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:42:14,566 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:42:14] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:42:14,600 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:42:14] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:42:21,432 ] 20 root - data paths created !
+[ 2023-08-31 19:42:21,433 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:42:21,645 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:42:21,649 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:42:21,650 ] 43 root - directory has created
+[ 2023-08-31 19:42:22,345 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:42:22,352 ] 19 root - entered data transformation
+[ 2023-08-31 19:42:22,403 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:42:22,411 ] 23 root - dropped duplicates
+[ 2023-08-31 19:42:22,424 ] 25 root - data transformed sucess
+[ 2023-08-31 19:42:22,517 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:42:22,518 ] 31 root - pickle file is created
+[ 2023-08-31 19:42:22,736 ] 35 root - recommend process1 started
+[ 2023-08-31 19:42:22,736 ] 36 root - pickle load!
+[ 2023-08-31 19:42:22,736 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:42:23,995 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:42:23] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:42:24,029 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:42:24] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:42:37,300 ] 20 root - data paths created !
+[ 2023-08-31 19:42:37,300 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:42:37,476 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:42:37,479 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:42:37,480 ] 43 root - directory has created
+[ 2023-08-31 19:42:38,072 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:42:38,076 ] 19 root - entered data transformation
+[ 2023-08-31 19:42:38,115 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:42:38,119 ] 23 root - dropped duplicates
+[ 2023-08-31 19:42:38,129 ] 25 root - data transformed sucess
+[ 2023-08-31 19:42:38,212 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:42:38,213 ] 31 root - pickle file is created
+[ 2023-08-31 19:42:38,394 ] 35 root - recommend process1 started
+[ 2023-08-31 19:42:38,395 ] 36 root - pickle load!
+[ 2023-08-31 19:42:38,395 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:42:39,601 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:42:39] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:42:39,634 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:42:39] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:43:22,423 ] 20 root - data paths created !
+[ 2023-08-31 19:43:22,425 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:43:22,588 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:43:22,590 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:43:22,591 ] 43 root - directory has created
+[ 2023-08-31 19:43:23,175 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:43:23,180 ] 19 root - entered data transformation
+[ 2023-08-31 19:43:23,219 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:43:23,223 ] 23 root - dropped duplicates
+[ 2023-08-31 19:43:23,235 ] 25 root - data transformed sucess
+[ 2023-08-31 19:43:23,321 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:43:23,322 ] 31 root - pickle file is created
+[ 2023-08-31 19:43:23,507 ] 35 root - recommend process1 started
+[ 2023-08-31 19:43:23,507 ] 36 root - pickle load!
+[ 2023-08-31 19:43:23,507 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:43:24,716 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:43:24] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:43:24,750 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:43:24] "[36mGET /static/style2.css HTTP/1.1[0m" 304 -
+[ 2023-08-31 19:46:49,821 ] 20 root - data paths created !
+[ 2023-08-31 19:46:49,822 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:46:49,993 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:46:49,995 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:46:49,996 ] 43 root - directory has created
+[ 2023-08-31 19:46:50,568 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:46:50,572 ] 19 root - entered data transformation
+[ 2023-08-31 19:46:50,608 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:46:50,613 ] 23 root - dropped duplicates
+[ 2023-08-31 19:46:50,623 ] 25 root - data transformed sucess
+[ 2023-08-31 19:46:50,715 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:46:50,716 ] 31 root - pickle file is created
+[ 2023-08-31 19:46:50,911 ] 35 root - recommend process1 started
+[ 2023-08-31 19:46:50,911 ] 36 root - pickle load!
+[ 2023-08-31 19:46:50,911 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:46:52,170 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:46:52] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:46:52,201 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:46:52] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:47:32,838 ] 20 root - data paths created !
+[ 2023-08-31 19:47:32,838 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:47:33,054 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:47:33,057 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:47:33,057 ] 43 root - directory has created
+[ 2023-08-31 19:47:33,732 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:47:33,739 ] 19 root - entered data transformation
+[ 2023-08-31 19:47:33,788 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:47:33,794 ] 23 root - dropped duplicates
+[ 2023-08-31 19:47:33,804 ] 25 root - data transformed sucess
+[ 2023-08-31 19:47:33,901 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:47:33,903 ] 31 root - pickle file is created
+[ 2023-08-31 19:47:34,137 ] 35 root - recommend process1 started
+[ 2023-08-31 19:47:34,138 ] 36 root - pickle load!
+[ 2023-08-31 19:47:34,138 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:47:35,435 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:47:35] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:47:35,461 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:47:35] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:48:31,870 ] 20 root - data paths created !
+[ 2023-08-31 19:48:31,870 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:48:32,058 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:48:32,060 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:48:32,061 ] 43 root - directory has created
+[ 2023-08-31 19:48:32,696 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:48:32,700 ] 19 root - entered data transformation
+[ 2023-08-31 19:48:32,744 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:48:32,747 ] 23 root - dropped duplicates
+[ 2023-08-31 19:48:32,758 ] 25 root - data transformed sucess
+[ 2023-08-31 19:48:32,849 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:48:32,852 ] 31 root - pickle file is created
+[ 2023-08-31 19:48:33,062 ] 35 root - recommend process1 started
+[ 2023-08-31 19:48:33,062 ] 36 root - pickle load!
+[ 2023-08-31 19:48:33,062 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:48:34,418 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:48:34] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:48:34,447 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:48:34] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:48:44,492 ] 20 root - data paths created !
+[ 2023-08-31 19:48:44,492 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:48:44,674 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:48:44,675 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:48:44,676 ] 43 root - directory has created
+[ 2023-08-31 19:48:45,273 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:48:45,277 ] 19 root - entered data transformation
+[ 2023-08-31 19:48:45,316 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:48:45,320 ] 23 root - dropped duplicates
+[ 2023-08-31 19:48:45,332 ] 25 root - data transformed sucess
+[ 2023-08-31 19:48:45,418 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:48:45,420 ] 31 root - pickle file is created
+[ 2023-08-31 19:48:45,651 ] 35 root - recommend process1 started
+[ 2023-08-31 19:48:45,651 ] 36 root - pickle load!
+[ 2023-08-31 19:48:45,651 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:48:46,920 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:48:46] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:48:46,957 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:48:46] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:49:07,801 ] 20 root - data paths created !
+[ 2023-08-31 19:49:07,802 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:49:07,997 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:49:08,000 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:49:08,001 ] 43 root - directory has created
+[ 2023-08-31 19:49:08,649 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:49:08,656 ] 19 root - entered data transformation
+[ 2023-08-31 19:49:08,694 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:49:08,698 ] 23 root - dropped duplicates
+[ 2023-08-31 19:49:08,709 ] 25 root - data transformed sucess
+[ 2023-08-31 19:49:08,798 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:49:08,800 ] 31 root - pickle file is created
+[ 2023-08-31 19:49:09,009 ] 35 root - recommend process1 started
+[ 2023-08-31 19:49:09,010 ] 36 root - pickle load!
+[ 2023-08-31 19:49:09,010 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:49:10,329 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:49:10] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:49:10,363 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:49:10] "GET /static/style2.css HTTP/1.1" 200 -
+[ 2023-08-31 19:49:27,250 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:49:27] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 19:49:31,217 ] 20 root - data paths created !
+[ 2023-08-31 19:49:31,217 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:49:31,406 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:49:31,408 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:49:31,409 ] 43 root - directory has created
+[ 2023-08-31 19:49:32,100 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:49:32,108 ] 19 root - entered data transformation
+[ 2023-08-31 19:49:32,159 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:49:32,163 ] 23 root - dropped duplicates
+[ 2023-08-31 19:49:32,175 ] 25 root - data transformed sucess
+[ 2023-08-31 19:49:32,276 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:49:32,277 ] 31 root - pickle file is created
+[ 2023-08-31 19:49:32,488 ] 35 root - recommend process1 started
+[ 2023-08-31 19:49:32,488 ] 36 root - pickle load!
+[ 2023-08-31 19:49:32,488 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:49:32,492 ] 15 root - get similarities started
+[ 2023-08-31 19:49:32,495 ] 18 root - vector process 1 completed
+[ 2023-08-31 19:49:32,495 ] 20 root - similarity started
+[ 2023-08-31 19:50:18,095 ] 29 root - similarity process ended
+[ 2023-08-31 19:50:18,118 ] 44 root - recommendations are                      name          artists
+9380              Natural  Imagine Dragons
+744                Demons  Imagine Dragons
+666              Bad Liar  Imagine Dragons
+3260  On Top Of The World  Imagine Dragons
+3928                Roots  Imagine Dragons
+[ 2023-08-31 19:50:19,517 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:50:19] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 19:50:19,553 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:50:19] "[36mGET /static/style2.css HTTP/1.1[0m" 304 -
+[ 2023-08-31 19:52:11,404 ] 20 root - data paths created !
+[ 2023-08-31 19:52:11,404 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 19:52:11,613 ] 26 root - data has read sucessfuly
+[ 2023-08-31 19:52:11,617 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 19:52:11,617 ] 43 root - directory has created
+[ 2023-08-31 19:52:12,369 ] 47 root - data ingest sucessfully
+[ 2023-08-31 19:52:12,373 ] 19 root - entered data transformation
+[ 2023-08-31 19:52:12,418 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 19:52:12,422 ] 23 root - dropped duplicates
+[ 2023-08-31 19:52:12,434 ] 25 root - data transformed sucess
+[ 2023-08-31 19:52:12,520 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 19:52:12,521 ] 31 root - pickle file is created
+[ 2023-08-31 19:52:12,739 ] 35 root - recommend process1 started
+[ 2023-08-31 19:52:12,739 ] 36 root - pickle load!
+[ 2023-08-31 19:52:12,739 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 19:52:12,741 ] 15 root - get similarities started
+[ 2023-08-31 19:52:12,746 ] 18 root - vector process 1 completed
+[ 2023-08-31 19:52:12,747 ] 20 root - similarity started
+[ 2023-08-31 19:52:17,821 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:52:17] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 19:53:03,545 ] 29 root - similarity process ended
+[ 2023-08-31 19:53:03,567 ] 44 root - recommendations are                      name          artists
+9380              Natural  Imagine Dragons
+744                Demons  Imagine Dragons
+666              Bad Liar  Imagine Dragons
+3260  On Top Of The World  Imagine Dragons
+3928                Roots  Imagine Dragons
+[ 2023-08-31 19:53:05,717 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 19:53:05] "POST / HTTP/1.1" 200 -

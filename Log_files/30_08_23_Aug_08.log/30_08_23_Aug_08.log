@@ -1,0 +1,1772 @@
+[ 2023-08-30 16:26:03,409 ] 21 root - sucessfully raised the custom execption
+[ 2023-08-30 17:08:11,540 ] 8 root - data ingest started!
+[ 2023-08-30 17:08:11,540 ] 13 root - paths are created for data
+[ 2023-08-30 17:09:17,711 ] 8 root - data ingest started!
+[ 2023-08-30 17:09:17,711 ] 13 root - paths are created for data
+[ 2023-08-30 17:09:25,508 ] 8 root - data ingest started!
+[ 2023-08-30 17:09:25,508 ] 13 root - paths are created for data
+[ 2023-08-30 17:10:02,580 ] 8 root - data ingest started!
+[ 2023-08-30 17:10:02,580 ] 13 root - paths are created for data
+[ 2023-08-30 17:10:02,581 ] 16 root - class started
+[ 2023-08-30 17:11:05,317 ] 8 root - data ingest started!
+[ 2023-08-30 17:11:05,317 ] 13 root - paths are created for data
+[ 2023-08-30 17:11:05,318 ] 16 root - class started
+[ 2023-08-30 17:11:05,318 ] 19 root - data paths !
+[ 2023-08-30 17:13:51,004 ] 8 root - data ingest started!
+[ 2023-08-30 17:13:51,004 ] 13 root - paths are created for data
+[ 2023-08-30 17:13:51,005 ] 16 root - class started
+[ 2023-08-30 17:13:51,005 ] 19 root - data paths !
+[ 2023-08-30 17:13:51,005 ] 23 root - enter the data ingestion part 2
+[ 2023-08-30 17:14:25,185 ] 8 root - data ingest started!
+[ 2023-08-30 17:14:25,185 ] 13 root - paths are created for data
+[ 2023-08-30 17:14:25,185 ] 16 root - class started
+[ 2023-08-30 17:14:25,185 ] 19 root - data paths !
+[ 2023-08-30 17:14:25,186 ] 23 root - enter the data ingestion part 2
+[ 2023-08-30 17:14:25,289 ] 25 root - data has read sucessfuly
+[ 2023-08-30 17:14:25,292 ] 39 root - dataframe had created sucessfuly
+[ 2023-08-30 17:14:25,293 ] 41 root - directory has created
+[ 2023-08-30 17:14:25,592 ] 45 root - data ingest sucessfully
+[ 2023-08-30 17:15:01,578 ] 8 root - data ingest started!
+[ 2023-08-30 17:15:01,578 ] 13 root - paths are created for data
+[ 2023-08-30 17:15:01,578 ] 18 root - data paths created !
+[ 2023-08-30 17:15:01,578 ] 22 root - enter the data ingestion part 2
+[ 2023-08-30 17:15:01,673 ] 24 root - data has read sucessfuly
+[ 2023-08-30 17:15:01,675 ] 39 root - dataframe had created sucessfuly
+[ 2023-08-30 17:15:01,675 ] 41 root - directory has created
+[ 2023-08-30 17:15:01,980 ] 45 root - data ingest sucessfully
+[ 2023-08-30 18:26:16,136 ] 9 root - data ingest started!
+[ 2023-08-30 18:26:16,136 ] 14 root - paths are created for data
+[ 2023-08-30 18:26:16,137 ] 19 root - data paths created !
+[ 2023-08-30 18:26:16,137 ] 23 root - enter the data ingestion part 2
+[ 2023-08-30 18:26:16,400 ] 25 root - data has read sucessfuly
+[ 2023-08-30 18:26:16,402 ] 40 root - dataframe had created sucessfuly
+[ 2023-08-30 18:26:16,404 ] 42 root - directory has created
+[ 2023-08-30 18:26:17,017 ] 46 root - data ingest sucessfully
+[ 2023-08-30 18:33:26,854 ] 13 root -  vectorization paths are created
+[ 2023-08-30 18:33:26,855 ] 9 root - data ingest started!
+[ 2023-08-30 18:33:26,855 ] 14 root - paths are created for data
+[ 2023-08-30 18:33:26,857 ] 19 root - data paths created !
+[ 2023-08-30 18:33:26,857 ] 23 root - enter the data ingestion part 2
+[ 2023-08-30 18:33:27,122 ] 25 root - data has read sucessfuly
+[ 2023-08-30 18:33:27,123 ] 40 root - dataframe had created sucessfuly
+[ 2023-08-30 18:33:27,123 ] 42 root - directory has created
+[ 2023-08-30 18:33:27,710 ] 46 root - data ingest sucessfully
+[ 2023-08-30 18:33:27,713 ] 19 root - entered data transformation
+[ 2023-08-30 18:33:27,757 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-30 18:35:04,154 ] 13 root -  vectorization paths are created
+[ 2023-08-30 18:35:04,156 ] 9 root - data ingest started!
+[ 2023-08-30 18:35:04,156 ] 14 root - paths are created for data
+[ 2023-08-30 18:35:04,157 ] 19 root - data paths created !
+[ 2023-08-30 18:35:04,157 ] 23 root - enter the data ingestion part 2
+[ 2023-08-30 18:35:04,353 ] 25 root - data has read sucessfuly
+[ 2023-08-30 18:35:04,354 ] 40 root - dataframe had created sucessfuly
+[ 2023-08-30 18:35:04,355 ] 42 root - directory has created
+[ 2023-08-30 18:35:04,951 ] 46 root - data ingest sucessfully
+[ 2023-08-30 18:35:04,954 ] 19 root - entered data transformation
+[ 2023-08-30 18:35:04,993 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-30 18:35:04,997 ] 23 root - dropped duplicates
+[ 2023-08-30 18:35:05,005 ] 25 root - data transformed sucess
+[ 2023-08-30 18:35:05,103 ] 28 root - vectorization is sucessfully created
+[ 2023-08-30 18:35:05,105 ] 31 root - pickle file is created
+[ 2023-08-30 19:42:22,071 ] 13 root -  vectorization paths are created
+[ 2023-08-30 19:42:22,143 ] 10 root - data ingest started!
+[ 2023-08-30 19:42:22,143 ] 15 root - paths are created for data
+[ 2023-08-30 19:42:22,291 ] 186 werkzeug -  * Debugger is active!
+[ 2023-08-30 19:42:22,294 ] 186 werkzeug -  * Debugger PIN: 859-219-915
+[ 2023-08-30 19:46:54,322 ] 13 root -  vectorization paths are created
+[ 2023-08-30 19:46:54,353 ] 10 root - data ingest started!
+[ 2023-08-30 19:46:54,353 ] 15 root - paths are created for data
+[ 2023-08-30 19:46:54,469 ] 186 werkzeug - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[ 2023-08-30 19:46:54,469 ] 186 werkzeug - [33mPress CTRL+C to quit[0m
+[ 2023-08-30 19:46:54,471 ] 186 werkzeug -  * Restarting with stat
+[ 2023-08-30 19:46:55,667 ] 13 root -  vectorization paths are created
+[ 2023-08-30 19:46:55,694 ] 10 root - data ingest started!
+[ 2023-08-30 19:46:55,694 ] 15 root - paths are created for data
+[ 2023-08-30 19:46:55,796 ] 186 werkzeug -  * Debugger is active!
+[ 2023-08-30 19:46:55,798 ] 186 werkzeug -  * Debugger PIN: 859-219-915
+[ 2023-08-30 19:47:41,051 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 19:47:41] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[ 2023-08-30 19:47:41,405 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 19:47:41] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 19:47:41,418 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 19:47:41] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2023-08-30 19:47:41,469 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 19:47:41] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-08-30 19:47:41,489 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 19:47:41] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-08-30 19:48:54,632 ] 186 werkzeug -  * Detected change in 'c:\\users\\manoj\\desktop\\music_recommendation\\app.py', reloading
+[ 2023-08-30 19:48:54,844 ] 186 werkzeug -  * Restarting with stat
+[ 2023-08-30 19:48:56,211 ] 13 root -  vectorization paths are created
+[ 2023-08-30 19:48:56,244 ] 10 root - data ingest started!
+[ 2023-08-30 19:48:56,244 ] 15 root - paths are created for data
+[ 2023-08-30 19:48:56,380 ] 186 werkzeug -  * Debugger is active!
+[ 2023-08-30 19:48:56,385 ] 186 werkzeug -  * Debugger PIN: 859-219-915
+[ 2023-08-30 19:49:04,355 ] 13 root -  vectorization paths are created
+[ 2023-08-30 19:49:04,383 ] 10 root - data ingest started!
+[ 2023-08-30 19:49:04,383 ] 15 root - paths are created for data
+[ 2023-08-30 19:49:04,505 ] 186 werkzeug - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[ 2023-08-30 19:49:04,505 ] 186 werkzeug - [33mPress CTRL+C to quit[0m
+[ 2023-08-30 19:49:04,507 ] 186 werkzeug -  * Restarting with stat
+[ 2023-08-30 19:49:05,757 ] 13 root -  vectorization paths are created
+[ 2023-08-30 19:49:05,784 ] 10 root - data ingest started!
+[ 2023-08-30 19:49:05,784 ] 15 root - paths are created for data
+[ 2023-08-30 19:49:05,893 ] 186 werkzeug -  * Debugger is active!
+[ 2023-08-30 19:49:05,896 ] 186 werkzeug -  * Debugger PIN: 859-219-915
+[ 2023-08-30 19:49:50,794 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 19:49:50] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[ 2023-08-30 19:49:50,946 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 19:49:50] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 19:49:50,950 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 19:49:50] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-08-30 19:49:50,963 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 19:49:50] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-08-30 19:49:50,972 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 19:49:50] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-08-30 19:50:02,938 ] 186 werkzeug -  * Detected change in 'c:\\Users\\manoj\\Desktop\\music_recommendation\\app.py', reloading
+[ 2023-08-30 19:50:03,177 ] 186 werkzeug -  * Restarting with stat
+[ 2023-08-30 19:50:04,655 ] 13 root -  vectorization paths are created
+[ 2023-08-30 19:50:04,693 ] 10 root - data ingest started!
+[ 2023-08-30 19:50:04,693 ] 15 root - paths are created for data
+[ 2023-08-30 19:50:04,830 ] 186 werkzeug -  * Debugger is active!
+[ 2023-08-30 19:50:04,833 ] 186 werkzeug -  * Debugger PIN: 859-219-915
+[ 2023-08-30 19:50:09,201 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 19:50:09] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 19:50:15,516 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 19:50:15] "POST / HTTP/1.1" 200 -
+[ 2023-08-30 19:50:54,895 ] 186 werkzeug -  * Detected change in 'c:\\users\\manoj\\desktop\\music_recommendation\\app.py', reloading
+[ 2023-08-30 19:50:55,141 ] 186 werkzeug -  * Restarting with stat
+[ 2023-08-30 19:50:56,575 ] 13 root -  vectorization paths are created
+[ 2023-08-30 19:50:56,604 ] 10 root - data ingest started!
+[ 2023-08-30 19:50:56,604 ] 15 root - paths are created for data
+[ 2023-08-30 19:50:56,717 ] 186 werkzeug -  * Debugger is active!
+[ 2023-08-30 19:50:56,720 ] 186 werkzeug -  * Debugger PIN: 859-219-915
+[ 2023-08-30 19:51:26,231 ] 13 root -  vectorization paths are created
+[ 2023-08-30 19:51:26,258 ] 10 root - data ingest started!
+[ 2023-08-30 19:51:26,258 ] 15 root - paths are created for data
+[ 2023-08-30 19:51:26,368 ] 186 werkzeug - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[ 2023-08-30 19:51:26,368 ] 186 werkzeug - [33mPress CTRL+C to quit[0m
+[ 2023-08-30 19:51:26,369 ] 186 werkzeug -  * Restarting with stat
+[ 2023-08-30 19:51:27,565 ] 13 root -  vectorization paths are created
+[ 2023-08-30 19:51:27,590 ] 10 root - data ingest started!
+[ 2023-08-30 19:51:27,591 ] 15 root - paths are created for data
+[ 2023-08-30 19:51:27,699 ] 186 werkzeug -  * Debugger is active!
+[ 2023-08-30 19:51:27,701 ] 186 werkzeug -  * Debugger PIN: 859-219-915
+[ 2023-08-30 19:51:32,120 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 19:51:32] "POST / HTTP/1.1" 200 -
+[ 2023-08-30 19:51:39,228 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 19:51:39] "POST / HTTP/1.1" 200 -
+[ 2023-08-30 19:52:36,005 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 19:52:36] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 19:52:40,268 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 19:52:40] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 19:52:41,308 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 19:52:41] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 19:52:41,528 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 19:52:41] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 19:52:41,788 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 19:52:41] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 19:52:41,995 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 19:52:41] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 19:52:51,381 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 19:52:51] "POST / HTTP/1.1" 200 -
+[ 2023-08-30 19:53:26,457 ] 186 werkzeug -  * Detected change in 'c:\\Users\\manoj\\Desktop\\music_recommendation\\app.py', reloading
+[ 2023-08-30 19:53:26,756 ] 186 werkzeug -  * Restarting with stat
+[ 2023-08-30 19:53:28,000 ] 13 root -  vectorization paths are created
+[ 2023-08-30 19:53:28,026 ] 10 root - data ingest started!
+[ 2023-08-30 19:53:28,026 ] 15 root - paths are created for data
+[ 2023-08-30 19:53:28,136 ] 186 werkzeug -  * Debugger is active!
+[ 2023-08-30 19:53:28,139 ] 186 werkzeug -  * Debugger PIN: 859-219-915
+[ 2023-08-30 19:53:32,388 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 19:53:32] "POST / HTTP/1.1" 200 -
+[ 2023-08-30 19:54:36,705 ] 186 werkzeug -  * Detected change in 'c:\\Users\\manoj\\Desktop\\music_recommendation\\app.py', reloading
+[ 2023-08-30 19:54:36,961 ] 186 werkzeug -  * Restarting with stat
+[ 2023-08-30 19:54:38,460 ] 13 root -  vectorization paths are created
+[ 2023-08-30 19:54:38,490 ] 10 root - data ingest started!
+[ 2023-08-30 19:54:38,490 ] 15 root - paths are created for data
+[ 2023-08-30 19:54:38,597 ] 186 werkzeug -  * Debugger is active!
+[ 2023-08-30 19:54:38,602 ] 186 werkzeug -  * Debugger PIN: 859-219-915
+[ 2023-08-30 19:54:42,744 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 19:54:42] "POST / HTTP/1.1" 200 -
+[ 2023-08-30 19:54:58,451 ] 186 werkzeug -  * Detected change in 'c:\\Users\\manoj\\Desktop\\music_recommendation\\app.py', reloading
+[ 2023-08-30 19:54:58,642 ] 186 werkzeug -  * Restarting with stat
+[ 2023-08-30 19:54:59,832 ] 13 root -  vectorization paths are created
+[ 2023-08-30 19:54:59,857 ] 10 root - data ingest started!
+[ 2023-08-30 19:54:59,857 ] 15 root - paths are created for data
+[ 2023-08-30 19:54:59,956 ] 186 werkzeug -  * Debugger is active!
+[ 2023-08-30 19:54:59,959 ] 186 werkzeug -  * Debugger PIN: 859-219-915
+[ 2023-08-30 19:55:27,220 ] 186 werkzeug -  * Detected change in 'c:\\Users\\manoj\\Desktop\\music_recommendation\\app.py', reloading
+[ 2023-08-30 19:55:27,417 ] 186 werkzeug -  * Restarting with stat
+[ 2023-08-30 19:55:28,541 ] 13 root -  vectorization paths are created
+[ 2023-08-30 19:55:28,566 ] 10 root - data ingest started!
+[ 2023-08-30 19:55:28,566 ] 15 root - paths are created for data
+[ 2023-08-30 19:55:28,673 ] 186 werkzeug -  * Debugger is active!
+[ 2023-08-30 19:55:28,676 ] 186 werkzeug -  * Debugger PIN: 859-219-915
+[ 2023-08-30 19:55:35,373 ] 20 root - data paths created !
+[ 2023-08-30 19:55:35,373 ] 24 root - enter the data ingestion part 2
+[ 2023-08-30 19:55:35,525 ] 26 root - data has read sucessfuly
+[ 2023-08-30 19:55:35,526 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-30 19:55:35,527 ] 43 root - directory has created
+[ 2023-08-30 19:55:35,881 ] 47 root - data ingest sucessfully
+[ 2023-08-30 19:55:35,883 ] 19 root - entered data transformation
+[ 2023-08-30 19:55:35,910 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-30 19:55:35,912 ] 23 root - dropped duplicates
+[ 2023-08-30 19:55:35,917 ] 25 root - data transformed sucess
+[ 2023-08-30 19:55:35,964 ] 28 root - vectorization is sucessfully created
+[ 2023-08-30 19:55:35,965 ] 31 root - pickle file is created
+[ 2023-08-30 19:55:36,076 ] 34 root - recommend process1 started
+[ 2023-08-30 19:55:36,076 ] 35 root - pickle load!
+[ 2023-08-30 19:55:36,078 ] 37 root - pickle loading process sucessful
+[ 2023-08-30 19:55:38,653 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 19:55:38] "POST / HTTP/1.1" 200 -
+[ 2023-08-30 21:03:13,134 ] 186 werkzeug -  * Detected change in 'c:\\users\\manoj\\desktop\\music_recommendation\\app.py', reloading
+[ 2023-08-30 21:03:13,429 ] 186 werkzeug -  * Restarting with stat
+[ 2023-08-30 21:03:15,082 ] 13 root -  vectorization paths are created
+[ 2023-08-30 21:03:15,122 ] 10 root - data ingest started!
+[ 2023-08-30 21:03:15,123 ] 15 root - paths are created for data
+[ 2023-08-30 21:03:15,246 ] 186 werkzeug -  * Debugger is active!
+[ 2023-08-30 21:03:15,251 ] 186 werkzeug -  * Debugger PIN: 859-219-915
+[ 2023-08-30 21:03:22,959 ] 186 werkzeug -  * Detected change in 'c:\\users\\manoj\\desktop\\music_recommendation\\app.py', reloading
+[ 2023-08-30 21:03:23,153 ] 186 werkzeug -  * Restarting with stat
+[ 2023-08-30 21:03:24,636 ] 13 root -  vectorization paths are created
+[ 2023-08-30 21:03:24,672 ] 10 root - data ingest started!
+[ 2023-08-30 21:03:24,672 ] 15 root - paths are created for data
+[ 2023-08-30 21:03:24,733 ] 13 root -  vectorization paths are created
+[ 2023-08-30 21:03:24,764 ] 10 root - data ingest started!
+[ 2023-08-30 21:03:24,764 ] 15 root - paths are created for data
+[ 2023-08-30 21:03:24,802 ] 186 werkzeug -  * Debugger is active!
+[ 2023-08-30 21:03:24,805 ] 186 werkzeug -  * Debugger PIN: 859-219-915
+[ 2023-08-30 21:03:24,895 ] 186 werkzeug - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[ 2023-08-30 21:03:24,895 ] 186 werkzeug - [33mPress CTRL+C to quit[0m
+[ 2023-08-30 21:03:24,897 ] 186 werkzeug -  * Restarting with stat
+[ 2023-08-30 21:03:26,218 ] 13 root -  vectorization paths are created
+[ 2023-08-30 21:03:26,252 ] 10 root - data ingest started!
+[ 2023-08-30 21:03:26,252 ] 15 root - paths are created for data
+[ 2023-08-30 21:03:26,374 ] 186 werkzeug -  * Debugger is active!
+[ 2023-08-30 21:03:26,378 ] 186 werkzeug -  * Debugger PIN: 859-219-915
+[ 2023-08-30 21:03:41,335 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:03:41] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 21:03:59,665 ] 20 root - data paths created !
+[ 2023-08-30 21:03:59,665 ] 24 root - enter the data ingestion part 2
+[ 2023-08-30 21:03:59,931 ] 26 root - data has read sucessfuly
+[ 2023-08-30 21:03:59,935 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-30 21:03:59,936 ] 43 root - directory has created
+[ 2023-08-30 21:04:00,612 ] 47 root - data ingest sucessfully
+[ 2023-08-30 21:04:00,617 ] 19 root - entered data transformation
+[ 2023-08-30 21:04:00,665 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-30 21:04:00,670 ] 23 root - dropped duplicates
+[ 2023-08-30 21:04:00,683 ] 25 root - data transformed sucess
+[ 2023-08-30 21:04:00,771 ] 28 root - vectorization is sucessfully created
+[ 2023-08-30 21:04:00,772 ] 31 root - pickle file is created
+[ 2023-08-30 21:04:01,040 ] 34 root - recommend process1 started
+[ 2023-08-30 21:04:01,040 ] 35 root - pickle load!
+[ 2023-08-30 21:04:01,041 ] 37 root - pickle loading process sucessful
+[ 2023-08-30 21:04:01,083 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:04:01] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+[ 2023-08-30 21:04:01,354 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:04:01] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 21:04:01,363 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:04:01] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-08-30 21:04:01,424 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:04:01] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-08-30 21:04:01,444 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:04:01] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-08-30 21:04:21,017 ] 20 root - data paths created !
+[ 2023-08-30 21:04:21,017 ] 24 root - enter the data ingestion part 2
+[ 2023-08-30 21:04:21,287 ] 26 root - data has read sucessfuly
+[ 2023-08-30 21:04:21,291 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-30 21:04:21,292 ] 43 root - directory has created
+[ 2023-08-30 21:04:22,093 ] 47 root - data ingest sucessfully
+[ 2023-08-30 21:04:22,101 ] 19 root - entered data transformation
+[ 2023-08-30 21:04:22,163 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-30 21:04:22,172 ] 23 root - dropped duplicates
+[ 2023-08-30 21:04:22,188 ] 25 root - data transformed sucess
+[ 2023-08-30 21:04:22,292 ] 28 root - vectorization is sucessfully created
+[ 2023-08-30 21:04:22,294 ] 31 root - pickle file is created
+[ 2023-08-30 21:04:22,566 ] 34 root - recommend process1 started
+[ 2023-08-30 21:04:22,567 ] 35 root - pickle load!
+[ 2023-08-30 21:04:22,568 ] 37 root - pickle loading process sucessful
+[ 2023-08-30 21:04:23,026 ] 20 root - data paths created !
+[ 2023-08-30 21:04:23,026 ] 24 root - enter the data ingestion part 2
+[ 2023-08-30 21:04:23,259 ] 26 root - data has read sucessfuly
+[ 2023-08-30 21:04:23,262 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-30 21:04:23,263 ] 43 root - directory has created
+[ 2023-08-30 21:04:24,093 ] 47 root - data ingest sucessfully
+[ 2023-08-30 21:04:24,097 ] 19 root - entered data transformation
+[ 2023-08-30 21:04:24,149 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-30 21:04:24,153 ] 23 root - dropped duplicates
+[ 2023-08-30 21:04:24,164 ] 25 root - data transformed sucess
+[ 2023-08-30 21:04:24,260 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:04:24] "POST / HTTP/1.1" 200 -
+[ 2023-08-30 21:04:24,260 ] 28 root - vectorization is sucessfully created
+[ 2023-08-30 21:04:24,263 ] 31 root - pickle file is created
+[ 2023-08-30 21:04:24,521 ] 34 root - recommend process1 started
+[ 2023-08-30 21:04:24,521 ] 35 root - pickle load!
+[ 2023-08-30 21:04:24,522 ] 37 root - pickle loading process sucessful
+[ 2023-08-30 21:04:25,792 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:04:25] "POST / HTTP/1.1" 200 -
+[ 2023-08-30 21:04:30,171 ] 20 root - data paths created !
+[ 2023-08-30 21:04:30,172 ] 24 root - enter the data ingestion part 2
+[ 2023-08-30 21:04:30,322 ] 26 root - data has read sucessfuly
+[ 2023-08-30 21:04:30,324 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-30 21:04:30,324 ] 43 root - directory has created
+[ 2023-08-30 21:04:30,739 ] 47 root - data ingest sucessfully
+[ 2023-08-30 21:04:30,742 ] 19 root - entered data transformation
+[ 2023-08-30 21:04:30,767 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-30 21:04:30,771 ] 23 root - dropped duplicates
+[ 2023-08-30 21:04:30,780 ] 25 root - data transformed sucess
+[ 2023-08-30 21:04:30,841 ] 28 root - vectorization is sucessfully created
+[ 2023-08-30 21:04:30,842 ] 31 root - pickle file is created
+[ 2023-08-30 21:04:30,998 ] 34 root - recommend process1 started
+[ 2023-08-30 21:04:30,998 ] 35 root - pickle load!
+[ 2023-08-30 21:04:30,999 ] 37 root - pickle loading process sucessful
+[ 2023-08-30 21:04:31,033 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:04:31] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+[ 2023-08-30 21:04:31,045 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:04:31] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 21:04:31,046 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:04:31] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-08-30 21:04:31,066 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:04:31] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-08-30 21:04:31,083 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:04:31] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-08-30 21:06:14,693 ] 186 werkzeug -  * Detected change in 'c:\\Users\\manoj\\Desktop\\music_recommendation\\src\\components\\model_process.py', reloading
+[ 2023-08-30 21:06:14,934 ] 186 werkzeug -  * Restarting with stat
+[ 2023-08-30 21:06:15,797 ] 186 werkzeug -  * Detected change in 'c:\\Users\\manoj\\Desktop\\music_recommendation\\src\\components\\model_process.py', reloading
+[ 2023-08-30 21:06:16,078 ] 186 werkzeug -  * Restarting with stat
+[ 2023-08-30 21:06:16,472 ] 13 root -  vectorization paths are created
+[ 2023-08-30 21:06:16,512 ] 10 root - data ingest started!
+[ 2023-08-30 21:06:16,512 ] 15 root - paths are created for data
+[ 2023-08-30 21:06:16,663 ] 186 werkzeug -  * Debugger is active!
+[ 2023-08-30 21:06:16,668 ] 186 werkzeug -  * Debugger PIN: 859-219-915
+[ 2023-08-30 21:06:21,375 ] 13 root -  vectorization paths are created
+[ 2023-08-30 21:06:21,403 ] 10 root - data ingest started!
+[ 2023-08-30 21:06:21,404 ] 15 root - paths are created for data
+[ 2023-08-30 21:06:21,525 ] 186 werkzeug - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[ 2023-08-30 21:06:21,525 ] 186 werkzeug - [33mPress CTRL+C to quit[0m
+[ 2023-08-30 21:06:21,527 ] 186 werkzeug -  * Restarting with stat
+[ 2023-08-30 21:06:22,844 ] 13 root -  vectorization paths are created
+[ 2023-08-30 21:06:22,871 ] 10 root - data ingest started!
+[ 2023-08-30 21:06:22,871 ] 15 root - paths are created for data
+[ 2023-08-30 21:06:22,978 ] 186 werkzeug -  * Debugger is active!
+[ 2023-08-30 21:06:22,981 ] 186 werkzeug -  * Debugger PIN: 859-219-915
+[ 2023-08-30 21:06:33,903 ] 20 root - data paths created !
+[ 2023-08-30 21:06:33,904 ] 24 root - enter the data ingestion part 2
+[ 2023-08-30 21:06:34,179 ] 26 root - data has read sucessfuly
+[ 2023-08-30 21:06:34,182 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-30 21:06:34,183 ] 43 root - directory has created
+[ 2023-08-30 21:06:35,001 ] 47 root - data ingest sucessfully
+[ 2023-08-30 21:06:35,005 ] 19 root - entered data transformation
+[ 2023-08-30 21:06:35,049 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-30 21:06:35,055 ] 23 root - dropped duplicates
+[ 2023-08-30 21:06:35,066 ] 25 root - data transformed sucess
+[ 2023-08-30 21:06:35,170 ] 28 root - vectorization is sucessfully created
+[ 2023-08-30 21:06:35,172 ] 31 root - pickle file is created
+[ 2023-08-30 21:06:35,408 ] 34 root - recommend process1 started
+[ 2023-08-30 21:06:35,408 ] 35 root - pickle load!
+[ 2023-08-30 21:06:35,409 ] 37 root - pickle loading process sucessful
+[ 2023-08-30 21:06:36,805 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:06:36] "POST / HTTP/1.1" 200 -
+[ 2023-08-30 21:06:56,255 ] 20 root - data paths created !
+[ 2023-08-30 21:06:56,256 ] 24 root - enter the data ingestion part 2
+[ 2023-08-30 21:06:56,524 ] 26 root - data has read sucessfuly
+[ 2023-08-30 21:06:56,526 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-30 21:06:56,526 ] 43 root - directory has created
+[ 2023-08-30 21:06:57,250 ] 47 root - data ingest sucessfully
+[ 2023-08-30 21:06:57,255 ] 19 root - entered data transformation
+[ 2023-08-30 21:06:57,308 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-30 21:06:57,313 ] 23 root - dropped duplicates
+[ 2023-08-30 21:06:57,327 ] 25 root - data transformed sucess
+[ 2023-08-30 21:06:57,421 ] 28 root - vectorization is sucessfully created
+[ 2023-08-30 21:06:57,423 ] 31 root - pickle file is created
+[ 2023-08-30 21:06:57,653 ] 34 root - recommend process1 started
+[ 2023-08-30 21:06:57,653 ] 35 root - pickle load!
+[ 2023-08-30 21:06:57,654 ] 37 root - pickle loading process sucessful
+[ 2023-08-30 21:06:58,971 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:06:58] "POST / HTTP/1.1" 200 -
+[ 2023-08-30 21:07:06,004 ] 20 root - data paths created !
+[ 2023-08-30 21:07:06,005 ] 24 root - enter the data ingestion part 2
+[ 2023-08-30 21:07:06,174 ] 26 root - data has read sucessfuly
+[ 2023-08-30 21:07:06,176 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-30 21:07:06,176 ] 43 root - directory has created
+[ 2023-08-30 21:07:06,640 ] 47 root - data ingest sucessfully
+[ 2023-08-30 21:07:06,642 ] 19 root - entered data transformation
+[ 2023-08-30 21:07:06,668 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-30 21:07:06,673 ] 23 root - dropped duplicates
+[ 2023-08-30 21:07:06,681 ] 25 root - data transformed sucess
+[ 2023-08-30 21:07:06,743 ] 28 root - vectorization is sucessfully created
+[ 2023-08-30 21:07:06,744 ] 31 root - pickle file is created
+[ 2023-08-30 21:07:06,912 ] 34 root - recommend process1 started
+[ 2023-08-30 21:07:06,912 ] 35 root - pickle load!
+[ 2023-08-30 21:07:06,913 ] 37 root - pickle loading process sucessful
+[ 2023-08-30 21:07:08,257 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:07:08] "POST / HTTP/1.1" 200 -
+[ 2023-08-30 21:07:15,581 ] 20 root - data paths created !
+[ 2023-08-30 21:07:15,581 ] 24 root - enter the data ingestion part 2
+[ 2023-08-30 21:07:15,863 ] 26 root - data has read sucessfuly
+[ 2023-08-30 21:07:15,866 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-30 21:07:15,866 ] 43 root - directory has created
+[ 2023-08-30 21:07:16,621 ] 47 root - data ingest sucessfully
+[ 2023-08-30 21:07:16,626 ] 19 root - entered data transformation
+[ 2023-08-30 21:07:16,676 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-30 21:07:16,680 ] 23 root - dropped duplicates
+[ 2023-08-30 21:07:16,692 ] 25 root - data transformed sucess
+[ 2023-08-30 21:07:16,787 ] 28 root - vectorization is sucessfully created
+[ 2023-08-30 21:07:16,789 ] 31 root - pickle file is created
+[ 2023-08-30 21:07:17,030 ] 34 root - recommend process1 started
+[ 2023-08-30 21:07:17,030 ] 35 root - pickle load!
+[ 2023-08-30 21:07:17,031 ] 37 root - pickle loading process sucessful
+[ 2023-08-30 21:07:17,067 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:07:17] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+[ 2023-08-30 21:07:17,416 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:07:17] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 21:07:17,422 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:07:17] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-08-30 21:07:17,448 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:07:17] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-08-30 21:07:17,467 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:07:17] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-08-30 21:07:40,746 ] 186 werkzeug -  * Detected change in 'c:\\users\\manoj\\desktop\\music_recommendation\\src\\components\\model_process.py', reloading
+[ 2023-08-30 21:07:40,892 ] 186 werkzeug -  * Detected change in 'c:\\Users\\manoj\\Desktop\\music_recommendation\\src\\components\\model_process.py', reloading
+[ 2023-08-30 21:07:41,061 ] 186 werkzeug -  * Restarting with stat
+[ 2023-08-30 21:07:41,210 ] 186 werkzeug -  * Restarting with stat
+[ 2023-08-30 21:07:43,181 ] 13 root -  vectorization paths are created
+[ 2023-08-30 21:07:43,227 ] 10 root - data ingest started!
+[ 2023-08-30 21:07:43,227 ] 15 root - paths are created for data
+[ 2023-08-30 21:07:43,287 ] 13 root -  vectorization paths are created
+[ 2023-08-30 21:07:43,332 ] 10 root - data ingest started!
+[ 2023-08-30 21:07:43,332 ] 15 root - paths are created for data
+[ 2023-08-30 21:07:43,416 ] 186 werkzeug -  * Debugger is active!
+[ 2023-08-30 21:07:43,424 ] 186 werkzeug -  * Debugger PIN: 859-219-915
+[ 2023-08-30 21:07:43,529 ] 186 werkzeug -  * Debugger is active!
+[ 2023-08-30 21:07:43,534 ] 186 werkzeug -  * Debugger PIN: 859-219-915
+[ 2023-08-30 21:07:58,920 ] 186 werkzeug -  * Detected change in 'c:\\users\\manoj\\desktop\\music_recommendation\\src\\components\\model_process.py', reloading
+[ 2023-08-30 21:07:59,217 ] 186 werkzeug -  * Restarting with stat
+[ 2023-08-30 21:08:01,329 ] 13 root -  vectorization paths are created
+[ 2023-08-30 21:08:01,380 ] 10 root - data ingest started!
+[ 2023-08-30 21:08:01,380 ] 15 root - paths are created for data
+[ 2023-08-30 21:08:01,615 ] 186 werkzeug -  * Debugger is active!
+[ 2023-08-30 21:08:01,621 ] 186 werkzeug -  * Debugger PIN: 859-219-915
+[ 2023-08-30 21:08:05,219 ] 186 werkzeug -  * Detected change in 'c:\\Users\\manoj\\Desktop\\music_recommendation\\src\\components\\model_process.py', reloading
+[ 2023-08-30 21:08:05,515 ] 186 werkzeug -  * Restarting with stat
+[ 2023-08-30 21:08:07,687 ] 13 root -  vectorization paths are created
+[ 2023-08-30 21:08:07,736 ] 10 root - data ingest started!
+[ 2023-08-30 21:08:07,736 ] 15 root - paths are created for data
+[ 2023-08-30 21:08:07,936 ] 186 werkzeug -  * Debugger is active!
+[ 2023-08-30 21:08:07,942 ] 186 werkzeug -  * Debugger PIN: 859-219-915
+[ 2023-08-30 21:08:50,109 ] 186 werkzeug -  * Detected change in 'c:\\users\\manoj\\desktop\\music_recommendation\\src\\components\\model_process.py', reloading
+[ 2023-08-30 21:08:50,383 ] 186 werkzeug -  * Restarting with stat
+[ 2023-08-30 21:08:52,521 ] 186 werkzeug -  * Detected change in 'c:\\users\\manoj\\desktop\\music_recommendation\\src\\components\\model_process.py', reloading
+[ 2023-08-30 21:08:52,597 ] 13 root -  vectorization paths are created
+[ 2023-08-30 21:08:52,653 ] 10 root - data ingest started!
+[ 2023-08-30 21:08:52,653 ] 15 root - paths are created for data
+[ 2023-08-30 21:08:52,822 ] 186 werkzeug -  * Restarting with stat
+[ 2023-08-30 21:08:52,883 ] 186 werkzeug -  * Debugger is active!
+[ 2023-08-30 21:08:52,891 ] 186 werkzeug -  * Debugger PIN: 859-219-915
+[ 2023-08-30 21:08:55,077 ] 13 root -  vectorization paths are created
+[ 2023-08-30 21:08:55,132 ] 10 root - data ingest started!
+[ 2023-08-30 21:08:55,132 ] 15 root - paths are created for data
+[ 2023-08-30 21:08:55,357 ] 186 werkzeug -  * Debugger is active!
+[ 2023-08-30 21:08:55,363 ] 186 werkzeug -  * Debugger PIN: 859-219-915
+[ 2023-08-30 21:09:15,326 ] 186 werkzeug -  * Detected change in 'c:\\users\\manoj\\desktop\\music_recommendation\\src\\components\\model_process.py', reloading
+[ 2023-08-30 21:09:15,596 ] 186 werkzeug -  * Restarting with stat
+[ 2023-08-30 21:09:15,939 ] 186 werkzeug -  * Detected change in 'c:\\Users\\manoj\\Desktop\\music_recommendation\\src\\components\\model_process.py', reloading
+[ 2023-08-30 21:09:16,243 ] 186 werkzeug -  * Restarting with stat
+[ 2023-08-30 21:09:18,050 ] 13 root -  vectorization paths are created
+[ 2023-08-30 21:09:18,116 ] 10 root - data ingest started!
+[ 2023-08-30 21:09:18,116 ] 15 root - paths are created for data
+[ 2023-08-30 21:09:18,371 ] 186 werkzeug -  * Debugger is active!
+[ 2023-08-30 21:09:18,377 ] 186 werkzeug -  * Debugger PIN: 859-219-915
+[ 2023-08-30 21:09:18,680 ] 13 root -  vectorization paths are created
+[ 2023-08-30 21:09:18,732 ] 10 root - data ingest started!
+[ 2023-08-30 21:09:18,732 ] 15 root - paths are created for data
+[ 2023-08-30 21:09:18,983 ] 186 werkzeug -  * Debugger is active!
+[ 2023-08-30 21:09:18,988 ] 186 werkzeug -  * Debugger PIN: 859-219-915
+[ 2023-08-30 21:09:28,933 ] 20 root - data paths created !
+[ 2023-08-30 21:09:28,933 ] 24 root - enter the data ingestion part 2
+[ 2023-08-30 21:09:29,140 ] 26 root - data has read sucessfuly
+[ 2023-08-30 21:09:29,143 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-30 21:09:29,144 ] 43 root - directory has created
+[ 2023-08-30 21:09:29,784 ] 47 root - data ingest sucessfully
+[ 2023-08-30 21:09:29,787 ] 19 root - entered data transformation
+[ 2023-08-30 21:09:29,833 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-30 21:09:29,837 ] 23 root - dropped duplicates
+[ 2023-08-30 21:09:29,847 ] 25 root - data transformed sucess
+[ 2023-08-30 21:09:29,929 ] 28 root - vectorization is sucessfully created
+[ 2023-08-30 21:09:29,931 ] 31 root - pickle file is created
+[ 2023-08-30 21:09:30,142 ] 35 root - recommend process1 started
+[ 2023-08-30 21:09:30,142 ] 36 root - pickle load!
+[ 2023-08-30 21:09:30,142 ] 37 root - pickle loading process sucessful
+[ 2023-08-30 21:09:30,188 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:09:30] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+[ 2023-08-30 21:09:30,470 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:09:30] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-08-30 21:09:30,484 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:09:30] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 21:09:30,502 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:09:30] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-08-30 21:09:30,515 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:09:30] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-08-30 21:10:47,311 ] 186 werkzeug -  * Detected change in 'c:\\Users\\manoj\\Desktop\\music_recommendation\\src\\components\\model_process.py', reloading
+[ 2023-08-30 21:10:47,575 ] 186 werkzeug -  * Restarting with stat
+[ 2023-08-30 21:10:49,597 ] 13 root -  vectorization paths are created
+[ 2023-08-30 21:10:49,645 ] 10 root - data ingest started!
+[ 2023-08-30 21:10:49,646 ] 15 root - paths are created for data
+[ 2023-08-30 21:10:49,877 ] 186 werkzeug -  * Debugger is active!
+[ 2023-08-30 21:10:49,883 ] 186 werkzeug -  * Debugger PIN: 859-219-915
+[ 2023-08-30 21:10:57,722 ] 20 root - data paths created !
+[ 2023-08-30 21:10:57,722 ] 24 root - enter the data ingestion part 2
+[ 2023-08-30 21:10:57,913 ] 26 root - data has read sucessfuly
+[ 2023-08-30 21:10:57,916 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-30 21:10:57,917 ] 43 root - directory has created
+[ 2023-08-30 21:10:58,519 ] 47 root - data ingest sucessfully
+[ 2023-08-30 21:10:58,522 ] 19 root - entered data transformation
+[ 2023-08-30 21:10:58,572 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-30 21:10:58,576 ] 23 root - dropped duplicates
+[ 2023-08-30 21:10:58,587 ] 25 root - data transformed sucess
+[ 2023-08-30 21:10:58,675 ] 28 root - vectorization is sucessfully created
+[ 2023-08-30 21:10:58,677 ] 31 root - pickle file is created
+[ 2023-08-30 21:10:58,895 ] 35 root - recommend process1 started
+[ 2023-08-30 21:10:58,896 ] 36 root - pickle load!
+[ 2023-08-30 21:10:58,896 ] 37 root - pickle loading process sucessful
+[ 2023-08-30 21:10:58,899 ] 15 root - get similarities started
+[ 2023-08-30 21:10:58,958 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:10:58] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+[ 2023-08-30 21:10:59,274 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:10:59] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 21:10:59,281 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:10:59] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-08-30 21:10:59,303 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:10:59] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-08-30 21:10:59,314 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:10:59] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-08-30 21:11:57,849 ] 186 werkzeug -  * Detected change in 'c:\\users\\manoj\\desktop\\music_recommendation\\src\\components\\model_process.py', reloading
+[ 2023-08-30 21:11:58,104 ] 186 werkzeug -  * Restarting with stat
+[ 2023-08-30 21:12:00,214 ] 13 root -  vectorization paths are created
+[ 2023-08-30 21:12:00,263 ] 10 root - data ingest started!
+[ 2023-08-30 21:12:00,263 ] 15 root - paths are created for data
+[ 2023-08-30 21:12:00,441 ] 186 werkzeug -  * Debugger is active!
+[ 2023-08-30 21:12:00,446 ] 186 werkzeug -  * Debugger PIN: 859-219-915
+[ 2023-08-30 21:12:07,690 ] 20 root - data paths created !
+[ 2023-08-30 21:12:07,690 ] 24 root - enter the data ingestion part 2
+[ 2023-08-30 21:12:07,897 ] 26 root - data has read sucessfuly
+[ 2023-08-30 21:12:07,899 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-30 21:12:07,900 ] 43 root - directory has created
+[ 2023-08-30 21:12:08,541 ] 47 root - data ingest sucessfully
+[ 2023-08-30 21:12:08,544 ] 19 root - entered data transformation
+[ 2023-08-30 21:12:08,589 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-30 21:12:08,592 ] 23 root - dropped duplicates
+[ 2023-08-30 21:12:08,603 ] 25 root - data transformed sucess
+[ 2023-08-30 21:12:08,691 ] 28 root - vectorization is sucessfully created
+[ 2023-08-30 21:12:08,692 ] 31 root - pickle file is created
+[ 2023-08-30 21:12:08,914 ] 35 root - recommend process1 started
+[ 2023-08-30 21:12:08,915 ] 36 root - pickle load!
+[ 2023-08-30 21:12:08,915 ] 37 root - pickle loading process sucessful
+[ 2023-08-30 21:12:08,917 ] 15 root - get similarities started
+[ 2023-08-30 21:12:08,923 ] 18 root - vector process 1 completed
+[ 2023-08-30 21:12:08,923 ] 20 root - similarity started
+[ 2023-08-30 21:12:45,766 ] 29 root - similarity process ended
+[ 2023-08-30 21:12:45,811 ] 44 root - recommendations are                     name     artists
+6994               Don't  Ed Sheeran
+2703               Drunk  Ed Sheeran
+1076     What Do I Know?  Ed Sheeran
+675           The A Team  Ed Sheeran
+5247  Castle on the Hill  Ed Sheeran
+[ 2023-08-30 21:12:48,008 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:12:48] "POST / HTTP/1.1" 200 -
+[ 2023-08-30 21:47:21,037 ] 186 werkzeug -  * Detected change in 'c:\\Users\\manoj\\Desktop\\music_recommendation\\src\\components\\data_ingestion.py', reloading
+[ 2023-08-30 21:47:21,295 ] 186 werkzeug -  * Restarting with stat
+[ 2023-08-30 21:47:23,434 ] 13 root -  vectorization paths are created
+[ 2023-08-30 21:47:23,481 ] 10 root - data ingest started!
+[ 2023-08-30 21:47:23,482 ] 15 root - paths are created for data
+[ 2023-08-30 21:47:23,679 ] 186 werkzeug -  * Debugger is active!
+[ 2023-08-30 21:47:23,684 ] 186 werkzeug -  * Debugger PIN: 859-219-915
+[ 2023-08-30 21:48:31,039 ] 186 werkzeug -  * Detected change in 'c:\\users\\manoj\\desktop\\music_recommendation\\app.py', reloading
+[ 2023-08-30 21:48:31,283 ] 186 werkzeug -  * Restarting with stat
+[ 2023-08-30 21:48:33,621 ] 13 root -  vectorization paths are created
+[ 2023-08-30 21:48:33,668 ] 10 root - data ingest started!
+[ 2023-08-30 21:48:33,668 ] 15 root - paths are created for data
+[ 2023-08-30 21:48:33,879 ] 186 werkzeug -  * Debugger is active!
+[ 2023-08-30 21:48:33,886 ] 186 werkzeug -  * Debugger PIN: 859-219-915
+[ 2023-08-30 21:48:51,744 ] 13 root -  vectorization paths are created
+[ 2023-08-30 21:48:51,795 ] 10 root - data ingest started!
+[ 2023-08-30 21:48:51,795 ] 15 root - paths are created for data
+[ 2023-08-30 21:48:52,020 ] 186 werkzeug - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[ 2023-08-30 21:48:52,020 ] 186 werkzeug - [33mPress CTRL+C to quit[0m
+[ 2023-08-30 21:48:52,023 ] 186 werkzeug -  * Restarting with stat
+[ 2023-08-30 21:48:54,176 ] 13 root -  vectorization paths are created
+[ 2023-08-30 21:48:54,219 ] 10 root - data ingest started!
+[ 2023-08-30 21:48:54,220 ] 15 root - paths are created for data
+[ 2023-08-30 21:48:54,416 ] 186 werkzeug -  * Debugger is active!
+[ 2023-08-30 21:48:54,422 ] 186 werkzeug -  * Debugger PIN: 859-219-915
+[ 2023-08-30 21:49:00,839 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:49:00] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 21:49:00,914 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:49:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-08-30 21:49:13,758 ] 20 root - data paths created !
+[ 2023-08-30 21:49:13,759 ] 24 root - enter the data ingestion part 2
+[ 2023-08-30 21:49:14,070 ] 26 root - data has read sucessfuly
+[ 2023-08-30 21:49:14,073 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-30 21:49:14,074 ] 43 root - directory has created
+[ 2023-08-30 21:49:14,977 ] 47 root - data ingest sucessfully
+[ 2023-08-30 21:49:14,981 ] 19 root - entered data transformation
+[ 2023-08-30 21:49:15,033 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-30 21:49:15,038 ] 23 root - dropped duplicates
+[ 2023-08-30 21:49:15,049 ] 25 root - data transformed sucess
+[ 2023-08-30 21:49:15,143 ] 28 root - vectorization is sucessfully created
+[ 2023-08-30 21:49:15,144 ] 31 root - pickle file is created
+[ 2023-08-30 21:49:15,455 ] 35 root - recommend process1 started
+[ 2023-08-30 21:49:15,455 ] 36 root - pickle load!
+[ 2023-08-30 21:49:15,456 ] 37 root - pickle loading process sucessful
+[ 2023-08-30 21:49:16,812 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:49:16] "POST / HTTP/1.1" 200 -
+[ 2023-08-30 21:50:58,602 ] 186 werkzeug -  * Detected change in 'c:\\Users\\manoj\\Desktop\\music_recommendation\\app.py', reloading
+[ 2023-08-30 21:50:58,888 ] 186 werkzeug -  * Restarting with stat
+[ 2023-08-30 21:50:59,349 ] 186 werkzeug -  * Detected change in 'c:\\Users\\manoj\\Desktop\\music_recommendation\\app.py', reloading
+[ 2023-08-30 21:50:59,635 ] 186 werkzeug -  * Restarting with stat
+[ 2023-08-30 21:51:01,111 ] 13 root -  vectorization paths are created
+[ 2023-08-30 21:51:01,158 ] 10 root - data ingest started!
+[ 2023-08-30 21:51:01,158 ] 15 root - paths are created for data
+[ 2023-08-30 21:51:01,375 ] 186 werkzeug -  * Debugger is active!
+[ 2023-08-30 21:51:01,381 ] 186 werkzeug -  * Debugger PIN: 859-219-915
+[ 2023-08-30 21:51:01,773 ] 13 root -  vectorization paths are created
+[ 2023-08-30 21:51:01,819 ] 10 root - data ingest started!
+[ 2023-08-30 21:51:01,820 ] 15 root - paths are created for data
+[ 2023-08-30 21:51:02,044 ] 186 werkzeug -  * Debugger is active!
+[ 2023-08-30 21:51:02,053 ] 186 werkzeug -  * Debugger PIN: 859-219-915
+[ 2023-08-30 21:52:09,650 ] 186 werkzeug -  * Detected change in 'c:\\Users\\manoj\\Desktop\\music_recommendation\\app.py', reloading
+[ 2023-08-30 21:52:09,923 ] 186 werkzeug -  * Restarting with stat
+[ 2023-08-30 21:52:11,995 ] 186 werkzeug -  * Detected change in 'c:\\users\\manoj\\desktop\\music_recommendation\\app.py', reloading
+[ 2023-08-30 21:52:12,317 ] 186 werkzeug -  * Restarting with stat
+[ 2023-08-30 21:52:12,446 ] 13 root -  vectorization paths are created
+[ 2023-08-30 21:52:12,499 ] 10 root - data ingest started!
+[ 2023-08-30 21:52:12,499 ] 15 root - paths are created for data
+[ 2023-08-30 21:52:12,709 ] 186 werkzeug -  * Debugger is active!
+[ 2023-08-30 21:52:12,715 ] 186 werkzeug -  * Debugger PIN: 859-219-915
+[ 2023-08-30 21:52:14,640 ] 13 root -  vectorization paths are created
+[ 2023-08-30 21:52:14,690 ] 10 root - data ingest started!
+[ 2023-08-30 21:52:14,690 ] 15 root - paths are created for data
+[ 2023-08-30 21:52:14,923 ] 186 werkzeug -  * Debugger is active!
+[ 2023-08-30 21:52:14,930 ] 186 werkzeug -  * Debugger PIN: 859-219-915
+[ 2023-08-30 21:52:24,955 ] 13 root -  vectorization paths are created
+[ 2023-08-30 21:52:25,009 ] 10 root - data ingest started!
+[ 2023-08-30 21:52:25,009 ] 15 root - paths are created for data
+[ 2023-08-30 21:52:25,226 ] 186 werkzeug - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[ 2023-08-30 21:52:25,227 ] 186 werkzeug - [33mPress CTRL+C to quit[0m
+[ 2023-08-30 21:52:25,229 ] 186 werkzeug -  * Restarting with stat
+[ 2023-08-30 21:52:27,655 ] 13 root -  vectorization paths are created
+[ 2023-08-30 21:52:27,717 ] 10 root - data ingest started!
+[ 2023-08-30 21:52:27,717 ] 15 root - paths are created for data
+[ 2023-08-30 21:52:27,994 ] 186 werkzeug -  * Debugger is active!
+[ 2023-08-30 21:52:28,002 ] 186 werkzeug -  * Debugger PIN: 859-219-915
+[ 2023-08-30 21:52:29,046 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:52:29] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 21:52:32,549 ] 20 root - data paths created !
+[ 2023-08-30 21:52:32,549 ] 24 root - enter the data ingestion part 2
+[ 2023-08-30 21:52:32,769 ] 26 root - data has read sucessfuly
+[ 2023-08-30 21:52:32,771 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-30 21:52:32,771 ] 43 root - directory has created
+[ 2023-08-30 21:52:33,357 ] 47 root - data ingest sucessfully
+[ 2023-08-30 21:52:33,362 ] 19 root - entered data transformation
+[ 2023-08-30 21:52:33,401 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-30 21:52:33,405 ] 23 root - dropped duplicates
+[ 2023-08-30 21:52:33,416 ] 25 root - data transformed sucess
+[ 2023-08-30 21:52:33,503 ] 28 root - vectorization is sucessfully created
+[ 2023-08-30 21:52:33,505 ] 31 root - pickle file is created
+[ 2023-08-30 21:52:33,709 ] 35 root - recommend process1 started
+[ 2023-08-30 21:52:33,709 ] 36 root - pickle load!
+[ 2023-08-30 21:52:33,710 ] 37 root - pickle loading process sucessful
+[ 2023-08-30 21:52:35,018 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:52:35] "POST / HTTP/1.1" 200 -
+[ 2023-08-30 21:55:27,798 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:55:27] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 21:55:29,248 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:55:29] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+[ 2023-08-30 21:55:29,254 ] 186 werkzeug - Error on request:
+Traceback (most recent call last):
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\werkzeug\debug\__init__.py", line 330, in debug_application
+    app_iter = self.app(environ, start_response)
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 2193, in wsgi_app
+    response = self.handle_exception(e)
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "c:\Users\manoj\Desktop\music_recommendation\app.py", line 19, in hello
+    print("song is",song_name)
+OSError: [Errno 22] Invalid argument
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\werkzeug\serving.py", line 364, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\werkzeug\serving.py", line 327, in execute
+    for data in application_iter:
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\werkzeug\debug\__init__.py", line 365, in debug_application
+    environ["wsgi.errors"].write("".join(tb.render_traceback_text()))
+OSError: [Errno 22] Invalid argument
+[ 2023-08-30 21:55:29,523 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:55:29] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2023-08-30 21:55:29,531 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:55:29] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2023-08-30 21:55:29,591 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:55:29] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2023-08-30 21:55:29,609 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:55:29] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-08-30 21:56:00,230 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:56:00] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+[ 2023-08-30 21:56:00,236 ] 186 werkzeug - Error on request:
+Traceback (most recent call last):
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\werkzeug\debug\__init__.py", line 330, in debug_application
+    app_iter = self.app(environ, start_response)
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 2193, in wsgi_app
+    response = self.handle_exception(e)
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "c:\Users\manoj\Desktop\music_recommendation\app.py", line 19, in hello
+    print("song is",song_name)
+OSError: [Errno 22] Invalid argument
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\werkzeug\serving.py", line 364, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\werkzeug\serving.py", line 327, in execute
+    for data in application_iter:
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\werkzeug\debug\__init__.py", line 365, in debug_application
+    environ["wsgi.errors"].write("".join(tb.render_traceback_text()))
+OSError: [Errno 22] Invalid argument
+[ 2023-08-30 21:56:00,266 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:56:00] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 21:56:00,269 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:56:00] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-08-30 21:56:00,293 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:56:00] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-08-30 21:56:00,311 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:56:00] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-08-30 21:56:03,712 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:56:03] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+[ 2023-08-30 21:56:03,716 ] 186 werkzeug - Error on request:
+Traceback (most recent call last):
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\werkzeug\debug\__init__.py", line 330, in debug_application
+    app_iter = self.app(environ, start_response)
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 2193, in wsgi_app
+    response = self.handle_exception(e)
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "c:\Users\manoj\Desktop\music_recommendation\app.py", line 19, in hello
+    print("song is",song_name)
+OSError: [Errno 22] Invalid argument
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\werkzeug\serving.py", line 364, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\werkzeug\serving.py", line 327, in execute
+    for data in application_iter:
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\werkzeug\debug\__init__.py", line 365, in debug_application
+    environ["wsgi.errors"].write("".join(tb.render_traceback_text()))
+OSError: [Errno 22] Invalid argument
+[ 2023-08-30 21:56:03,742 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:56:03] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 21:56:03,744 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:56:03] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-08-30 21:56:03,756 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:56:03] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-08-30 21:56:03,767 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:56:03] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-08-30 21:56:31,367 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:56:31] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+[ 2023-08-30 21:56:31,373 ] 186 werkzeug - Error on request:
+Traceback (most recent call last):
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\werkzeug\debug\__init__.py", line 330, in debug_application
+    app_iter = self.app(environ, start_response)
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 2193, in wsgi_app
+    response = self.handle_exception(e)
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "c:\Users\manoj\Desktop\music_recommendation\app.py", line 19, in hello
+OSError: [Errno 22] Invalid argument
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\werkzeug\serving.py", line 364, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\werkzeug\serving.py", line 327, in execute
+    for data in application_iter:
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\werkzeug\debug\__init__.py", line 365, in debug_application
+    environ["wsgi.errors"].write("".join(tb.render_traceback_text()))
+OSError: [Errno 22] Invalid argument
+[ 2023-08-30 21:56:31,398 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:56:31] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 21:56:31,400 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:56:31] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-08-30 21:56:31,417 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:56:31] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-08-30 21:56:31,431 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:56:31] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-08-30 21:56:32,139 ] 186 werkzeug -  * Detected change in 'c:\\Users\\manoj\\Desktop\\music_recommendation\\app.py', reloading
+[ 2023-08-30 21:56:32,410 ] 186 werkzeug -  * Restarting with stat
+[ 2023-08-30 21:56:34,329 ] 13 root -  vectorization paths are created
+[ 2023-08-30 21:56:34,371 ] 10 root - data ingest started!
+[ 2023-08-30 21:56:34,372 ] 15 root - paths are created for data
+[ 2023-08-30 21:56:34,554 ] 186 werkzeug -  * Debugger is active!
+[ 2023-08-30 21:56:34,560 ] 186 werkzeug -  * Debugger PIN: 859-219-915
+[ 2023-08-30 21:57:03,403 ] 186 werkzeug -  * Detected change in 'c:\\users\\manoj\\desktop\\music_recommendation\\app.py', reloading
+[ 2023-08-30 21:57:03,675 ] 186 werkzeug -  * Restarting with stat
+[ 2023-08-30 21:57:05,743 ] 13 root -  vectorization paths are created
+[ 2023-08-30 21:57:05,792 ] 10 root - data ingest started!
+[ 2023-08-30 21:57:05,792 ] 15 root - paths are created for data
+[ 2023-08-30 21:57:05,994 ] 186 werkzeug -  * Debugger is active!
+[ 2023-08-30 21:57:05,999 ] 186 werkzeug -  * Debugger PIN: 859-219-915
+[ 2023-08-30 21:57:13,908 ] 13 root -  vectorization paths are created
+[ 2023-08-30 21:57:13,959 ] 10 root - data ingest started!
+[ 2023-08-30 21:57:13,959 ] 15 root - paths are created for data
+[ 2023-08-30 21:57:14,165 ] 186 werkzeug - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[ 2023-08-30 21:57:14,166 ] 186 werkzeug - [33mPress CTRL+C to quit[0m
+[ 2023-08-30 21:57:14,167 ] 186 werkzeug -  * Restarting with stat
+[ 2023-08-30 21:57:16,308 ] 13 root -  vectorization paths are created
+[ 2023-08-30 21:57:16,361 ] 10 root - data ingest started!
+[ 2023-08-30 21:57:16,361 ] 15 root - paths are created for data
+[ 2023-08-30 21:57:16,550 ] 186 werkzeug -  * Debugger is active!
+[ 2023-08-30 21:57:16,556 ] 186 werkzeug -  * Debugger PIN: 859-219-915
+[ 2023-08-30 21:57:20,561 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:57:20] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 21:57:26,116 ] 20 root - data paths created !
+[ 2023-08-30 21:57:26,116 ] 24 root - enter the data ingestion part 2
+[ 2023-08-30 21:57:26,326 ] 26 root - data has read sucessfuly
+[ 2023-08-30 21:57:26,329 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-30 21:57:26,330 ] 43 root - directory has created
+[ 2023-08-30 21:57:27,062 ] 47 root - data ingest sucessfully
+[ 2023-08-30 21:57:27,066 ] 19 root - entered data transformation
+[ 2023-08-30 21:57:27,114 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-30 21:57:27,119 ] 23 root - dropped duplicates
+[ 2023-08-30 21:57:27,130 ] 25 root - data transformed sucess
+[ 2023-08-30 21:57:27,227 ] 28 root - vectorization is sucessfully created
+[ 2023-08-30 21:57:27,228 ] 31 root - pickle file is created
+[ 2023-08-30 21:57:27,457 ] 35 root - recommend process1 started
+[ 2023-08-30 21:57:27,457 ] 36 root - pickle load!
+[ 2023-08-30 21:57:27,457 ] 37 root - pickle loading process sucessful
+[ 2023-08-30 21:57:27,502 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:57:27] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+[ 2023-08-30 21:57:27,509 ] 186 werkzeug - Error on request:
+Traceback (most recent call last):
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\werkzeug\debug\__init__.py", line 330, in debug_application
+    app_iter = self.app(environ, start_response)
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 2193, in wsgi_app
+    response = self.handle_exception(e)
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "c:\Users\manoj\Desktop\music_recommendation\app.py", line 67, in hello
+    artist_names,image_links,track_name,spotify_link=recommended_songs(song_name=song_name)
+  File "c:\Users\manoj\Desktop\music_recommendation\app.py", line 27, in recommended_songs
+    print('this song is not so popular some songs are below that you may like')
+OSError: [Errno 22] Invalid argument
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\werkzeug\serving.py", line 364, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\werkzeug\serving.py", line 327, in execute
+    for data in application_iter:
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\werkzeug\debug\__init__.py", line 365, in debug_application
+    environ["wsgi.errors"].write("".join(tb.render_traceback_text()))
+OSError: [Errno 22] Invalid argument
+[ 2023-08-30 21:57:27,862 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:57:27] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-08-30 21:57:27,867 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:57:27] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 21:57:27,932 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:57:27] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-08-30 21:57:27,946 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:57:27] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-08-30 21:57:58,916 ] 186 werkzeug -  * Detected change in 'c:\\users\\manoj\\desktop\\music_recommendation\\app.py', reloading
+[ 2023-08-30 21:57:59,183 ] 186 werkzeug -  * Restarting with stat
+[ 2023-08-30 21:57:59,688 ] 186 werkzeug -  * Detected change in 'c:\\Users\\manoj\\Desktop\\music_recommendation\\app.py', reloading
+[ 2023-08-30 21:57:59,997 ] 186 werkzeug -  * Restarting with stat
+[ 2023-08-30 21:58:01,424 ] 13 root -  vectorization paths are created
+[ 2023-08-30 21:58:01,473 ] 10 root - data ingest started!
+[ 2023-08-30 21:58:01,473 ] 15 root - paths are created for data
+[ 2023-08-30 21:58:01,682 ] 186 werkzeug -  * Debugger is active!
+[ 2023-08-30 21:58:01,688 ] 186 werkzeug -  * Debugger PIN: 859-219-915
+[ 2023-08-30 21:58:02,151 ] 13 root -  vectorization paths are created
+[ 2023-08-30 21:58:02,199 ] 10 root - data ingest started!
+[ 2023-08-30 21:58:02,199 ] 15 root - paths are created for data
+[ 2023-08-30 21:58:02,390 ] 186 werkzeug -  * Debugger is active!
+[ 2023-08-30 21:58:02,397 ] 186 werkzeug -  * Debugger PIN: 859-219-915
+[ 2023-08-30 21:58:10,137 ] 20 root - data paths created !
+[ 2023-08-30 21:58:10,137 ] 24 root - enter the data ingestion part 2
+[ 2023-08-30 21:58:10,357 ] 26 root - data has read sucessfuly
+[ 2023-08-30 21:58:10,359 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-30 21:58:10,359 ] 43 root - directory has created
+[ 2023-08-30 21:58:11,029 ] 47 root - data ingest sucessfully
+[ 2023-08-30 21:58:11,033 ] 19 root - entered data transformation
+[ 2023-08-30 21:58:11,082 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-30 21:58:11,086 ] 23 root - dropped duplicates
+[ 2023-08-30 21:58:11,097 ] 25 root - data transformed sucess
+[ 2023-08-30 21:58:11,205 ] 28 root - vectorization is sucessfully created
+[ 2023-08-30 21:58:11,206 ] 31 root - pickle file is created
+[ 2023-08-30 21:58:11,443 ] 35 root - recommend process1 started
+[ 2023-08-30 21:58:11,444 ] 36 root - pickle load!
+[ 2023-08-30 21:58:11,444 ] 37 root - pickle loading process sucessful
+[ 2023-08-30 21:58:12,810 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:58:12] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+[ 2023-08-30 21:58:12,818 ] 186 werkzeug - Error on request:
+Traceback (most recent call last):
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\werkzeug\debug\__init__.py", line 330, in debug_application
+    app_iter = self.app(environ, start_response)
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 2193, in wsgi_app
+    response = self.handle_exception(e)
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "c:\Users\manoj\Desktop\music_recommendation\app.py", line 62, in hello
+    return render_template("index2.html",artist_names=artist_names,image_links=image_links,track_name=track_name,spotify_link=spotify_link)
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\templating.py", line 150, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\jinja2\environment.py", line 1081, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\jinja2\environment.py", line 1010, in get_template
+    return self._load_template(name, globals)
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\jinja2\environment.py", line 969, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\jinja2\loaders.py", line 138, in load
+    code = environment.compile(source, name, filename)
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\jinja2\environment.py", line 768, in compile
+    self.handle_exception(source=source_hint)
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\jinja2\environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "c:\Users\manoj\Desktop\music_recommendation\templates\index2.html", line 6, in template
+    {% comment %} {% for i in artist_names %}
+jinja2.exceptions.TemplateSyntaxError: Encountered unknown tag 'comment'.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\werkzeug\serving.py", line 364, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\werkzeug\serving.py", line 327, in execute
+    for data in application_iter:
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\werkzeug\debug\__init__.py", line 365, in debug_application
+    environ["wsgi.errors"].write("".join(tb.render_traceback_text()))
+OSError: [Errno 22] Invalid argument
+[ 2023-08-30 21:58:13,135 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:58:13] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 21:58:13,141 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:58:13] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-08-30 21:58:13,169 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:58:13] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-08-30 21:58:13,184 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:58:13] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-08-30 21:58:36,746 ] 20 root - data paths created !
+[ 2023-08-30 21:58:36,747 ] 24 root - enter the data ingestion part 2
+[ 2023-08-30 21:58:36,920 ] 26 root - data has read sucessfuly
+[ 2023-08-30 21:58:36,922 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-30 21:58:36,923 ] 43 root - directory has created
+[ 2023-08-30 21:58:37,557 ] 47 root - data ingest sucessfully
+[ 2023-08-30 21:58:37,560 ] 19 root - entered data transformation
+[ 2023-08-30 21:58:37,597 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-30 21:58:37,600 ] 23 root - dropped duplicates
+[ 2023-08-30 21:58:37,610 ] 25 root - data transformed sucess
+[ 2023-08-30 21:58:37,698 ] 28 root - vectorization is sucessfully created
+[ 2023-08-30 21:58:37,700 ] 31 root - pickle file is created
+[ 2023-08-30 21:58:37,902 ] 35 root - recommend process1 started
+[ 2023-08-30 21:58:37,902 ] 36 root - pickle load!
+[ 2023-08-30 21:58:37,902 ] 37 root - pickle loading process sucessful
+[ 2023-08-30 21:58:39,161 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 21:58:39] "POST / HTTP/1.1" 200 -
+[ 2023-08-30 22:00:38,791 ] 20 root - data paths created !
+[ 2023-08-30 22:00:38,791 ] 24 root - enter the data ingestion part 2
+[ 2023-08-30 22:00:38,985 ] 26 root - data has read sucessfuly
+[ 2023-08-30 22:00:38,987 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-30 22:00:38,988 ] 43 root - directory has created
+[ 2023-08-30 22:00:39,597 ] 47 root - data ingest sucessfully
+[ 2023-08-30 22:00:39,602 ] 19 root - entered data transformation
+[ 2023-08-30 22:00:39,642 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-30 22:00:39,646 ] 23 root - dropped duplicates
+[ 2023-08-30 22:00:39,656 ] 25 root - data transformed sucess
+[ 2023-08-30 22:00:39,754 ] 28 root - vectorization is sucessfully created
+[ 2023-08-30 22:00:39,755 ] 31 root - pickle file is created
+[ 2023-08-30 22:00:39,960 ] 35 root - recommend process1 started
+[ 2023-08-30 22:00:39,960 ] 36 root - pickle load!
+[ 2023-08-30 22:00:39,962 ] 37 root - pickle loading process sucessful
+[ 2023-08-30 22:00:41,322 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:00:41] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+[ 2023-08-30 22:00:41,327 ] 186 werkzeug - Error on request:
+Traceback (most recent call last):
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\werkzeug\debug\__init__.py", line 330, in debug_application
+    app_iter = self.app(environ, start_response)
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 2193, in wsgi_app
+    response = self.handle_exception(e)
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "c:\Users\manoj\Desktop\music_recommendation\app.py", line 62, in hello
+    return render_template("index2.html",artist_names=artist_names,image_links=image_links,track_name=track_name,spotify_link=spotify_link)
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\templating.py", line 151, in render_template
+    return _render(app, template, context)
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\templating.py", line 132, in _render
+    rv = template.render(context)
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\jinja2\environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\jinja2\environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "c:\Users\manoj\Desktop\music_recommendation\templates\index2.html", line 6, in top-level template code
+    {% for i in range(len(artist_names)) %}
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\jinja2\utils.py", line 83, in from_obj
+    if hasattr(obj, "jinja_pass_arg"):
+jinja2.exceptions.UndefinedError: 'len' is undefined
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\werkzeug\serving.py", line 364, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\werkzeug\serving.py", line 327, in execute
+    for data in application_iter:
+  File "C:\Users\manoj\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\werkzeug\debug\__init__.py", line 365, in debug_application
+    environ["wsgi.errors"].write("".join(tb.render_traceback_text()))
+OSError: [Errno 22] Invalid argument
+[ 2023-08-30 22:00:41,352 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:00:41] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 22:00:41,354 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:00:41] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-08-30 22:00:41,368 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:00:41] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-08-30 22:00:41,391 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:00:41] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-08-30 22:00:56,687 ] 20 root - data paths created !
+[ 2023-08-30 22:00:56,687 ] 24 root - enter the data ingestion part 2
+[ 2023-08-30 22:00:56,907 ] 26 root - data has read sucessfuly
+[ 2023-08-30 22:00:56,910 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-30 22:00:56,911 ] 43 root - directory has created
+[ 2023-08-30 22:00:57,522 ] 47 root - data ingest sucessfully
+[ 2023-08-30 22:00:57,526 ] 19 root - entered data transformation
+[ 2023-08-30 22:00:57,569 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-30 22:00:57,573 ] 23 root - dropped duplicates
+[ 2023-08-30 22:00:57,583 ] 25 root - data transformed sucess
+[ 2023-08-30 22:00:57,674 ] 28 root - vectorization is sucessfully created
+[ 2023-08-30 22:00:57,675 ] 31 root - pickle file is created
+[ 2023-08-30 22:00:57,898 ] 35 root - recommend process1 started
+[ 2023-08-30 22:00:57,898 ] 36 root - pickle load!
+[ 2023-08-30 22:00:57,899 ] 37 root - pickle loading process sucessful
+[ 2023-08-30 22:00:59,125 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:00:59] "POST / HTTP/1.1" 200 -
+[ 2023-08-30 22:02:23,929 ] 20 root - data paths created !
+[ 2023-08-30 22:02:23,929 ] 24 root - enter the data ingestion part 2
+[ 2023-08-30 22:02:24,093 ] 26 root - data has read sucessfuly
+[ 2023-08-30 22:02:24,095 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-30 22:02:24,096 ] 43 root - directory has created
+[ 2023-08-30 22:02:24,664 ] 47 root - data ingest sucessfully
+[ 2023-08-30 22:02:24,668 ] 19 root - entered data transformation
+[ 2023-08-30 22:02:24,704 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-30 22:02:24,708 ] 23 root - dropped duplicates
+[ 2023-08-30 22:02:24,719 ] 25 root - data transformed sucess
+[ 2023-08-30 22:02:24,805 ] 28 root - vectorization is sucessfully created
+[ 2023-08-30 22:02:24,806 ] 31 root - pickle file is created
+[ 2023-08-30 22:02:25,022 ] 35 root - recommend process1 started
+[ 2023-08-30 22:02:25,023 ] 36 root - pickle load!
+[ 2023-08-30 22:02:25,023 ] 37 root - pickle loading process sucessful
+[ 2023-08-30 22:02:26,269 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:02:26] "POST / HTTP/1.1" 200 -
+[ 2023-08-30 22:03:44,115 ] 20 root - data paths created !
+[ 2023-08-30 22:03:44,116 ] 24 root - enter the data ingestion part 2
+[ 2023-08-30 22:03:44,301 ] 26 root - data has read sucessfuly
+[ 2023-08-30 22:03:44,304 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-30 22:03:44,304 ] 43 root - directory has created
+[ 2023-08-30 22:03:44,914 ] 47 root - data ingest sucessfully
+[ 2023-08-30 22:03:44,918 ] 19 root - entered data transformation
+[ 2023-08-30 22:03:44,957 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-30 22:03:44,962 ] 23 root - dropped duplicates
+[ 2023-08-30 22:03:44,971 ] 25 root - data transformed sucess
+[ 2023-08-30 22:03:45,072 ] 28 root - vectorization is sucessfully created
+[ 2023-08-30 22:03:45,074 ] 31 root - pickle file is created
+[ 2023-08-30 22:03:45,273 ] 35 root - recommend process1 started
+[ 2023-08-30 22:03:45,273 ] 36 root - pickle load!
+[ 2023-08-30 22:03:45,273 ] 37 root - pickle loading process sucessful
+[ 2023-08-30 22:03:47,685 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:03:47] "POST / HTTP/1.1" 200 -
+[ 2023-08-30 22:04:19,182 ] 20 root - data paths created !
+[ 2023-08-30 22:04:19,182 ] 24 root - enter the data ingestion part 2
+[ 2023-08-30 22:04:19,377 ] 26 root - data has read sucessfuly
+[ 2023-08-30 22:04:19,379 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-30 22:04:19,380 ] 43 root - directory has created
+[ 2023-08-30 22:04:20,044 ] 47 root - data ingest sucessfully
+[ 2023-08-30 22:04:20,049 ] 19 root - entered data transformation
+[ 2023-08-30 22:04:20,089 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-30 22:04:20,093 ] 23 root - dropped duplicates
+[ 2023-08-30 22:04:20,108 ] 25 root - data transformed sucess
+[ 2023-08-30 22:04:20,221 ] 28 root - vectorization is sucessfully created
+[ 2023-08-30 22:04:20,222 ] 31 root - pickle file is created
+[ 2023-08-30 22:04:20,524 ] 35 root - recommend process1 started
+[ 2023-08-30 22:04:20,525 ] 36 root - pickle load!
+[ 2023-08-30 22:04:20,525 ] 37 root - pickle loading process sucessful
+[ 2023-08-30 22:04:23,088 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:04:23] "POST / HTTP/1.1" 200 -
+[ 2023-08-30 22:07:48,612 ] 20 root - data paths created !
+[ 2023-08-30 22:07:48,612 ] 24 root - enter the data ingestion part 2
+[ 2023-08-30 22:07:48,812 ] 26 root - data has read sucessfuly
+[ 2023-08-30 22:07:48,815 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-30 22:07:48,816 ] 43 root - directory has created
+[ 2023-08-30 22:07:49,467 ] 47 root - data ingest sucessfully
+[ 2023-08-30 22:07:49,471 ] 19 root - entered data transformation
+[ 2023-08-30 22:07:49,514 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-30 22:07:49,518 ] 23 root - dropped duplicates
+[ 2023-08-30 22:07:49,528 ] 25 root - data transformed sucess
+[ 2023-08-30 22:07:49,631 ] 28 root - vectorization is sucessfully created
+[ 2023-08-30 22:07:49,632 ] 31 root - pickle file is created
+[ 2023-08-30 22:07:49,881 ] 35 root - recommend process1 started
+[ 2023-08-30 22:07:49,881 ] 36 root - pickle load!
+[ 2023-08-30 22:07:49,881 ] 37 root - pickle loading process sucessful
+[ 2023-08-30 22:07:51,182 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:07:51] "POST / HTTP/1.1" 200 -
+[ 2023-08-30 22:08:37,512 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:08:37] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:11:44,461 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:11:44] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:12:10,577 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:12:10] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:12:52,080 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:12:52] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:13:11,231 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:13:11] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:13:13,367 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:13:13] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:13:19,462 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:13:19] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:13:43,649 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:13:43] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:15:13,619 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:15:13] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:15:39,206 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:15:39] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:15:45,471 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:15:45] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:15:57,023 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:15:57] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:16:32,059 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:16:32] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:17:23,297 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:17:23] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:21:35,356 ] 20 root - data paths created !
+[ 2023-08-30 22:21:35,357 ] 24 root - enter the data ingestion part 2
+[ 2023-08-30 22:21:35,569 ] 26 root - data has read sucessfuly
+[ 2023-08-30 22:21:35,572 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-30 22:21:35,573 ] 43 root - directory has created
+[ 2023-08-30 22:21:36,305 ] 47 root - data ingest sucessfully
+[ 2023-08-30 22:21:36,310 ] 19 root - entered data transformation
+[ 2023-08-30 22:21:36,354 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-30 22:21:36,358 ] 23 root - dropped duplicates
+[ 2023-08-30 22:21:36,370 ] 25 root - data transformed sucess
+[ 2023-08-30 22:21:36,460 ] 28 root - vectorization is sucessfully created
+[ 2023-08-30 22:21:36,461 ] 31 root - pickle file is created
+[ 2023-08-30 22:21:36,678 ] 35 root - recommend process1 started
+[ 2023-08-30 22:21:36,678 ] 36 root - pickle load!
+[ 2023-08-30 22:21:36,678 ] 37 root - pickle loading process sucessful
+[ 2023-08-30 22:21:36,902 ] 20 root - data paths created !
+[ 2023-08-30 22:21:36,902 ] 24 root - enter the data ingestion part 2
+[ 2023-08-30 22:21:37,101 ] 26 root - data has read sucessfuly
+[ 2023-08-30 22:21:37,103 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-30 22:21:37,103 ] 43 root - directory has created
+[ 2023-08-30 22:21:37,826 ] 47 root - data ingest sucessfully
+[ 2023-08-30 22:21:37,830 ] 19 root - entered data transformation
+[ 2023-08-30 22:21:37,875 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-30 22:21:37,880 ] 23 root - dropped duplicates
+[ 2023-08-30 22:21:37,891 ] 25 root - data transformed sucess
+[ 2023-08-30 22:21:37,991 ] 28 root - vectorization is sucessfully created
+[ 2023-08-30 22:21:37,993 ] 31 root - pickle file is created
+[ 2023-08-30 22:21:38,218 ] 35 root - recommend process1 started
+[ 2023-08-30 22:21:38,218 ] 36 root - pickle load!
+[ 2023-08-30 22:21:38,219 ] 37 root - pickle loading process sucessful
+[ 2023-08-30 22:21:38,276 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:21:38] "POST / HTTP/1.1" 200 -
+[ 2023-08-30 22:21:39,522 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:21:39] "POST / HTTP/1.1" 200 -
+[ 2023-08-30 22:23:27,507 ] 20 root - data paths created !
+[ 2023-08-30 22:23:27,508 ] 24 root - enter the data ingestion part 2
+[ 2023-08-30 22:23:27,615 ] 26 root - data has read sucessfuly
+[ 2023-08-30 22:23:27,616 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-30 22:23:27,616 ] 43 root - directory has created
+[ 2023-08-30 22:23:27,927 ] 47 root - data ingest sucessfully
+[ 2023-08-30 22:23:27,931 ] 19 root - entered data transformation
+[ 2023-08-30 22:23:27,951 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-30 22:23:27,953 ] 23 root - dropped duplicates
+[ 2023-08-30 22:23:27,959 ] 25 root - data transformed sucess
+[ 2023-08-30 22:23:28,003 ] 28 root - vectorization is sucessfully created
+[ 2023-08-30 22:23:28,003 ] 31 root - pickle file is created
+[ 2023-08-30 22:23:28,108 ] 35 root - recommend process1 started
+[ 2023-08-30 22:23:28,108 ] 36 root - pickle load!
+[ 2023-08-30 22:23:28,108 ] 37 root - pickle loading process sucessful
+[ 2023-08-30 22:23:30,572 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:23:30] "POST / HTTP/1.1" 200 -
+[ 2023-08-30 22:25:10,206 ] 20 root - data paths created !
+[ 2023-08-30 22:25:10,206 ] 24 root - enter the data ingestion part 2
+[ 2023-08-30 22:25:10,323 ] 26 root - data has read sucessfuly
+[ 2023-08-30 22:25:10,325 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-30 22:25:10,326 ] 43 root - directory has created
+[ 2023-08-30 22:25:10,672 ] 47 root - data ingest sucessfully
+[ 2023-08-30 22:25:10,676 ] 19 root - entered data transformation
+[ 2023-08-30 22:25:10,701 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-30 22:25:10,704 ] 23 root - dropped duplicates
+[ 2023-08-30 22:25:10,711 ] 25 root - data transformed sucess
+[ 2023-08-30 22:25:10,756 ] 28 root - vectorization is sucessfully created
+[ 2023-08-30 22:25:10,756 ] 31 root - pickle file is created
+[ 2023-08-30 22:25:10,905 ] 35 root - recommend process1 started
+[ 2023-08-30 22:25:10,905 ] 36 root - pickle load!
+[ 2023-08-30 22:25:10,905 ] 37 root - pickle loading process sucessful
+[ 2023-08-30 22:25:12,152 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:25:12] "POST / HTTP/1.1" 200 -
+[ 2023-08-30 22:25:19,426 ] 20 root - data paths created !
+[ 2023-08-30 22:25:19,426 ] 24 root - enter the data ingestion part 2
+[ 2023-08-30 22:25:19,563 ] 26 root - data has read sucessfuly
+[ 2023-08-30 22:25:19,564 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-30 22:25:19,564 ] 43 root - directory has created
+[ 2023-08-30 22:25:19,963 ] 47 root - data ingest sucessfully
+[ 2023-08-30 22:25:19,966 ] 19 root - entered data transformation
+[ 2023-08-30 22:25:19,996 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-30 22:25:19,999 ] 23 root - dropped duplicates
+[ 2023-08-30 22:25:20,006 ] 25 root - data transformed sucess
+[ 2023-08-30 22:25:20,053 ] 28 root - vectorization is sucessfully created
+[ 2023-08-30 22:25:20,054 ] 31 root - pickle file is created
+[ 2023-08-30 22:25:20,195 ] 35 root - recommend process1 started
+[ 2023-08-30 22:25:20,196 ] 36 root - pickle load!
+[ 2023-08-30 22:25:20,196 ] 37 root - pickle loading process sucessful
+[ 2023-08-30 22:25:22,371 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:25:22] "POST / HTTP/1.1" 200 -
+[ 2023-08-30 22:25:30,473 ] 20 root - data paths created !
+[ 2023-08-30 22:25:30,473 ] 24 root - enter the data ingestion part 2
+[ 2023-08-30 22:25:30,573 ] 26 root - data has read sucessfuly
+[ 2023-08-30 22:25:30,575 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-30 22:25:30,575 ] 43 root - directory has created
+[ 2023-08-30 22:25:30,911 ] 47 root - data ingest sucessfully
+[ 2023-08-30 22:25:30,914 ] 19 root - entered data transformation
+[ 2023-08-30 22:25:30,939 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-30 22:25:30,943 ] 23 root - dropped duplicates
+[ 2023-08-30 22:25:30,952 ] 25 root - data transformed sucess
+[ 2023-08-30 22:25:31,016 ] 28 root - vectorization is sucessfully created
+[ 2023-08-30 22:25:31,016 ] 31 root - pickle file is created
+[ 2023-08-30 22:25:31,163 ] 35 root - recommend process1 started
+[ 2023-08-30 22:25:31,163 ] 36 root - pickle load!
+[ 2023-08-30 22:25:31,163 ] 37 root - pickle loading process sucessful
+[ 2023-08-30 22:25:32,440 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:25:32] "POST / HTTP/1.1" 200 -
+[ 2023-08-30 22:25:39,953 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:25:39] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:26:55,891 ] 13 root -  vectorization paths are created
+[ 2023-08-30 22:26:55,924 ] 10 root - data ingest started!
+[ 2023-08-30 22:26:55,924 ] 15 root - paths are created for data
+[ 2023-08-30 22:26:56,064 ] 186 werkzeug - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[ 2023-08-30 22:26:56,064 ] 186 werkzeug - [33mPress CTRL+C to quit[0m
+[ 2023-08-30 22:26:56,066 ] 186 werkzeug -  * Restarting with stat
+[ 2023-08-30 22:26:57,564 ] 13 root -  vectorization paths are created
+[ 2023-08-30 22:26:57,597 ] 10 root - data ingest started!
+[ 2023-08-30 22:26:57,597 ] 15 root - paths are created for data
+[ 2023-08-30 22:26:57,731 ] 186 werkzeug -  * Debugger is active!
+[ 2023-08-30 22:26:57,735 ] 186 werkzeug -  * Debugger PIN: 859-219-915
+[ 2023-08-30 22:27:10,741 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:27:10] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:27:15,258 ] 20 root - data paths created !
+[ 2023-08-30 22:27:15,258 ] 24 root - enter the data ingestion part 2
+[ 2023-08-30 22:27:15,398 ] 26 root - data has read sucessfuly
+[ 2023-08-30 22:27:15,400 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-30 22:27:15,400 ] 43 root - directory has created
+[ 2023-08-30 22:27:15,806 ] 47 root - data ingest sucessfully
+[ 2023-08-30 22:27:15,809 ] 19 root - entered data transformation
+[ 2023-08-30 22:27:15,834 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-30 22:27:15,838 ] 23 root - dropped duplicates
+[ 2023-08-30 22:27:15,847 ] 25 root - data transformed sucess
+[ 2023-08-30 22:27:15,893 ] 28 root - vectorization is sucessfully created
+[ 2023-08-30 22:27:15,893 ] 31 root - pickle file is created
+[ 2023-08-30 22:27:15,996 ] 35 root - recommend process1 started
+[ 2023-08-30 22:27:15,996 ] 36 root - pickle load!
+[ 2023-08-30 22:27:15,996 ] 37 root - pickle loading process sucessful
+[ 2023-08-30 22:27:17,286 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:27:17] "POST / HTTP/1.1" 200 -
+[ 2023-08-30 22:27:23,399 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:27:23] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:32:20,657 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:32:20] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:32:20,675 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:32:20] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-30 22:32:22,532 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:32:22] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:32:22,547 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:32:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 22:32:23,045 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:32:23] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:32:23,060 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:32:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 22:32:23,243 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:32:23] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:32:23,258 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:32:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 22:32:23,407 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:32:23] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:32:23,424 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:32:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 22:32:23,566 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:32:23] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:32:23,583 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:32:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 22:32:47,800 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:32:47] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:32:47,815 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:32:47] "[33mGET /static/['style.css'] HTTP/1.1[0m" 404 -
+[ 2023-08-30 22:33:03,327 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:33:03] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:33:03,341 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:33:03] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 22:33:05,145 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:33:05] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:33:05,159 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:33:05] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 22:33:14,879 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:33:14] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:33:16,276 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:33:16] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:33:16,548 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:33:16] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:33:16,735 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:33:16] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:33:16,930 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:33:16] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:33:17,125 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:33:17] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:34:14,824 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:34:14] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:34:14,838 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:34:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 22:34:15,997 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:34:15] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:34:16,012 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:34:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 22:34:35,465 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:34:35] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:34:35,480 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:34:35] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-30 22:35:11,923 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:35:11] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:35:11,938 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:35:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 22:35:13,208 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:35:13] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:35:13,223 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:35:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 22:35:13,440 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:35:13] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:35:13,456 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:35:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 22:35:13,645 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:35:13] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:35:13,661 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:35:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 22:35:13,845 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:35:13] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:35:13,863 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:35:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 22:35:14,030 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:35:14] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:35:14,046 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:35:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 22:35:14,214 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:35:14] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:35:14,229 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:35:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 22:35:14,395 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:35:14] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:35:14,410 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:35:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 22:35:14,564 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:35:14] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:35:14,579 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:35:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 22:35:28,082 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:35:28] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:35:28,099 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:35:28] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-30 22:36:28,696 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:36:28] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:36:28,709 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:36:28] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-30 22:38:21,839 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:38:21] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:38:21,857 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:38:21] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-30 22:39:02,329 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:39:02] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:39:02,343 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:39:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 22:39:34,312 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:39:34] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:39:34,328 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:39:34] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-30 22:40:11,108 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:40:11] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:40:11,122 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:40:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 22:40:33,917 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:40:33] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:40:33,932 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:40:33] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-30 22:40:49,917 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:40:49] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:40:49,932 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:40:49] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-30 22:40:57,199 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:40:57] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:40:57,216 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:40:57] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-30 22:41:38,740 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:41:38] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:41:38,757 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:41:38] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-30 22:41:40,605 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:41:40] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:41:40,620 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:41:40] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 22:41:48,145 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:41:48] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:41:48,159 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:41:48] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-30 22:42:18,486 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:42:18] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:42:18,505 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:42:18] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-30 22:42:37,983 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:42:37] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:42:38,000 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:42:38] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-30 22:42:38,720 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:42:38] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:42:38,736 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:42:38] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 22:42:38,920 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:42:38] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:42:38,937 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:42:38] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 22:42:47,826 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:42:47] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:42:47,839 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:42:47] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-30 22:42:53,892 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:42:53] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:42:53,905 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:42:53] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-30 22:42:59,245 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:42:59] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:42:59,258 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:42:59] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-30 22:43:11,154 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:43:11] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:43:11,171 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:43:11] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-30 22:43:28,382 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:43:28] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:43:28,395 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:43:28] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-30 22:43:33,803 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:43:33] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:43:33,817 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:43:33] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-30 22:43:43,560 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:43:43] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:43:43,576 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:43:43] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-30 22:44:10,362 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:44:10] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:44:10,376 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:44:10] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-30 22:44:17,902 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:44:17] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:44:17,915 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:44:17] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-30 22:44:26,665 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:44:26] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:44:26,679 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:44:26] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-30 22:44:40,645 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:44:40] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:44:40,660 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:44:40] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-30 22:44:46,493 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:44:46] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:44:46,510 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:44:46] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-30 22:44:51,205 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:44:51] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:44:51,220 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:44:51] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-30 22:44:55,745 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:44:55] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:44:55,762 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:44:55] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-30 22:45:05,487 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:45:05] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:45:05,499 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:45:05] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-30 22:45:10,110 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:45:10] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 22:45:10,127 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 22:45:10] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-30 23:01:49,679 ] 20 root - data paths created !
+[ 2023-08-30 23:01:49,679 ] 24 root - enter the data ingestion part 2
+[ 2023-08-30 23:01:49,785 ] 26 root - data has read sucessfuly
+[ 2023-08-30 23:01:49,791 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-30 23:01:49,791 ] 43 root - directory has created
+[ 2023-08-30 23:01:50,126 ] 47 root - data ingest sucessfully
+[ 2023-08-30 23:01:50,129 ] 19 root - entered data transformation
+[ 2023-08-30 23:01:50,149 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-30 23:01:50,152 ] 23 root - dropped duplicates
+[ 2023-08-30 23:01:50,157 ] 25 root - data transformed sucess
+[ 2023-08-30 23:01:50,201 ] 28 root - vectorization is sucessfully created
+[ 2023-08-30 23:01:50,201 ] 31 root - pickle file is created
+[ 2023-08-30 23:01:50,305 ] 35 root - recommend process1 started
+[ 2023-08-30 23:01:50,307 ] 36 root - pickle load!
+[ 2023-08-30 23:01:50,307 ] 37 root - pickle loading process sucessful
+[ 2023-08-30 23:01:51,530 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:01:51] "POST / HTTP/1.1" 200 -
+[ 2023-08-30 23:01:59,511 ] 20 root - data paths created !
+[ 2023-08-30 23:01:59,511 ] 24 root - enter the data ingestion part 2
+[ 2023-08-30 23:01:59,614 ] 26 root - data has read sucessfuly
+[ 2023-08-30 23:01:59,615 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-30 23:01:59,616 ] 43 root - directory has created
+[ 2023-08-30 23:01:59,944 ] 47 root - data ingest sucessfully
+[ 2023-08-30 23:01:59,947 ] 19 root - entered data transformation
+[ 2023-08-30 23:01:59,971 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-30 23:01:59,973 ] 23 root - dropped duplicates
+[ 2023-08-30 23:01:59,979 ] 25 root - data transformed sucess
+[ 2023-08-30 23:02:00,025 ] 28 root - vectorization is sucessfully created
+[ 2023-08-30 23:02:00,025 ] 31 root - pickle file is created
+[ 2023-08-30 23:02:00,130 ] 35 root - recommend process1 started
+[ 2023-08-30 23:02:00,130 ] 36 root - pickle load!
+[ 2023-08-30 23:02:00,130 ] 37 root - pickle loading process sucessful
+[ 2023-08-30 23:02:00,132 ] 15 root - get similarities started
+[ 2023-08-30 23:02:00,134 ] 18 root - vector process 1 completed
+[ 2023-08-30 23:02:00,134 ] 20 root - similarity started
+[ 2023-08-30 23:02:07,796 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:02:07] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:02:07,809 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:02:07] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-30 23:02:19,203 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:02:19] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:02:19,254 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:02:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:02:20,685 ] 29 root - similarity process ended
+[ 2023-08-30 23:02:20,697 ] 44 root - recommendations are                      name          artists
+9380              Natural  Imagine Dragons
+744                Demons  Imagine Dragons
+666              Bad Liar  Imagine Dragons
+3260  On Top Of The World  Imagine Dragons
+3928                Roots  Imagine Dragons
+[ 2023-08-30 23:02:21,093 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:02:21] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:02:21,109 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:02:21] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:02:21,473 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:02:21] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:02:21,486 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:02:21] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:02:21,748 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:02:21] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:02:21,764 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:02:21] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:02:22,058 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:02:22] "POST / HTTP/1.1" 200 -
+[ 2023-08-30 23:02:25,793 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:02:25] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:02:25,801 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:02:25] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:02:26,219 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:02:26] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:02:26,227 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:02:26] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:02:26,542 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:02:26] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:02:26,549 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:02:26] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:02:26,769 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:02:26] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:02:26,777 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:02:26] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:02:36,208 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:02:36] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:02:36,221 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:02:36] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-30 23:02:38,868 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:02:38] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:02:38,876 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:02:38] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-30 23:02:52,852 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:02:52] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:02:52,865 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:02:52] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-30 23:03:09,452 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:03:09] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:03:09,490 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:03:09] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-30 23:16:16,447 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:16:16] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:16:16,462 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:16:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:16:57,721 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:16:57] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:16:57,741 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:16:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:17:30,994 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:17:30] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:17:31,010 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:17:31] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:17:31,012 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:17:31] "[33mGET /video.mp4 HTTP/1.1[0m" 404 -
+[ 2023-08-30 23:17:32,425 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:17:32] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:17:32,442 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:17:32] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:17:32,443 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:17:32] "[33mGET /video.mp4 HTTP/1.1[0m" 404 -
+[ 2023-08-30 23:17:32,697 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:17:32] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:17:32,712 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:17:32] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:17:32,717 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:17:32] "[33mGET /video.mp4 HTTP/1.1[0m" 404 -
+[ 2023-08-30 23:17:45,478 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:17:45] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:17:45,493 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:17:45] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:17:45,495 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:17:45] "[33mGET /r"C:/Users/manoj/Desktop/music_recommendation/video.mp4" HTTP/1.1[0m" 404 -
+[ 2023-08-30 23:17:47,444 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:17:47] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:17:47,460 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:17:47] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:17:47,467 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:17:47] "[33mGET /r"C:/Users/manoj/Desktop/music_recommendation/video.mp4" HTTP/1.1[0m" 404 -
+[ 2023-08-30 23:17:47,648 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:17:47] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:17:47,662 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:17:47] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:17:47,667 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:17:47] "[33mGET /r"C:/Users/manoj/Desktop/music_recommendation/video.mp4" HTTP/1.1[0m" 404 -
+[ 2023-08-30 23:17:47,834 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:17:47] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:17:47,847 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:17:47] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:17:47,851 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:17:47] "[33mGET /r"C:/Users/manoj/Desktop/music_recommendation/video.mp4" HTTP/1.1[0m" 404 -
+[ 2023-08-30 23:18:01,379 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:18:01] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:18:01,393 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:18:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:18:01,396 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:18:01] "[33mGET /r"C:/Users/manoj/Desktop/music_recommendation/video.mp4" HTTP/1.1[0m" 404 -
+[ 2023-08-30 23:20:06,416 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:20:06] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:20:06,433 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:20:06] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-30 23:20:06,436 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:20:06] "[33mGET /r"C:/Users/manoj/Desktop/music_recommendation/video.mp4" HTTP/1.1[0m" 404 -
+[ 2023-08-30 23:20:49,727 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:20:49] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:20:49,741 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:20:49] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-30 23:20:49,744 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:20:49] "[33mGET /r"C:/Users/manoj/Desktop/music_recommendation/video.mp4" HTTP/1.1[0m" 404 -
+[ 2023-08-30 23:21:10,402 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:21:10] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:21:10,417 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:21:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:21:10,419 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:21:10] "[33mGET /video.mp4 HTTP/1.1[0m" 404 -
+[ 2023-08-30 23:21:11,837 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:21:11] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:21:11,855 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:21:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:21:11,856 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:21:11] "[33mGET /video.mp4 HTTP/1.1[0m" 404 -
+[ 2023-08-30 23:21:12,037 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:21:12] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:21:12,053 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:21:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:21:12,055 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:21:12] "[33mGET /video.mp4 HTTP/1.1[0m" 404 -
+[ 2023-08-30 23:21:26,466 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:21:26] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:21:26,484 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:21:26] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-30 23:21:26,485 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:21:26] "[33mGET /video.mp4 HTTP/1.1[0m" 404 -
+[ 2023-08-30 23:21:43,980 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:21:43] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:21:43,993 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:21:43] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:23:42,623 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:23:42] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:23:42,635 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:23:42] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:23:42,640 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:23:42] "[33mGET /video.mp4 HTTP/1.1[0m" 404 -
+[ 2023-08-30 23:24:27,938 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:24:27] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:24:27,950 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:24:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:24:29,132 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:24:29] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:24:29,147 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:24:29] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:24:29,346 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:24:29] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:24:29,361 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:24:29] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:24:29,543 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:24:29] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:24:29,556 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:24:29] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:24:29,723 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:24:29] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:24:29,736 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:24:29] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:24:29,919 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:24:29] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:24:29,933 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:24:29] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:24:30,096 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:24:30] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:24:30,115 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:24:30] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:26:51,522 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:26:51] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:26:51,574 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:26:51] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-30 23:26:52,708 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:26:52] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:26:52,744 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:26:52] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:26:52,879 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:26:52] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:26:52,904 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:26:52] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:27:50,822 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:27:50] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:27:50,873 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:27:50] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:27:52,434 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:27:52] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:27:52,461 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:27:52] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:27:52,605 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:27:52] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:27:52,632 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:27:52] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:27:52,805 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:27:52] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:27:52,834 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:27:52] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:27:52,996 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:27:52] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:27:53,023 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:27:53] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:27:59,599 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:27:59] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:27:59,665 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:27:59] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:28:55,725 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:28:55] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:28:55,761 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:28:55] "[33mGET /video.mp4 HTTP/1.1[0m" 404 -
+[ 2023-08-30 23:28:55,762 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:28:55] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:28:57,010 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:28:57] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:28:57,039 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:28:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:28:57,047 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:28:57] "[33mGET /video.mp4 HTTP/1.1[0m" 404 -
+[ 2023-08-30 23:29:01,705 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:29:01] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:29:01,742 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:29:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:29:01,744 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:29:01] "[33mGET /video.mp4 HTTP/1.1[0m" 404 -
+[ 2023-08-30 23:29:01,868 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:29:01] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:29:01,908 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:29:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:29:01,911 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:29:01] "[33mGET /video.mp4 HTTP/1.1[0m" 404 -
+[ 2023-08-30 23:29:06,912 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:29:06] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:29:06,931 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:29:06] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:29:06,936 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:29:06] "[33mGET /video.mp4 HTTP/1.1[0m" 404 -
+[ 2023-08-30 23:29:07,068 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:29:07] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:29:07,096 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:29:07] "[33mGET /video.mp4 HTTP/1.1[0m" 404 -
+[ 2023-08-30 23:29:07,097 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:29:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:29:10,186 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:29:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:30:05,403 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:30:05] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:30:05,435 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:30:05] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:30:05,445 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:30:05] "[33mGET /video.mp4 HTTP/1.1[0m" 404 -
+[ 2023-08-30 23:30:39,750 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:30:39] "[33mGET /video.mp4 HTTP/1.1[0m" 404 -
+[ 2023-08-30 23:31:16,787 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:31:16] "[33mGET /video.mp4 HTTP/1.1[0m" 404 -
+[ 2023-08-30 23:31:21,218 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:31:21] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:31:21,272 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:31:21] "[33mGET /video.mp4 HTTP/1.1[0m" 404 -
+[ 2023-08-30 23:31:21,273 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:31:21] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:31:43,479 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:31:43] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:31:43,517 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:31:43] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:31:43,529 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:31:43] "[35m[1mGET /static/video.mp4 HTTP/1.1[0m" 206 -
+[ 2023-08-30 23:31:43,556 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:31:43] "[35m[1mGET /static/video.mp4 HTTP/1.1[0m" 206 -
+[ 2023-08-30 23:31:43,574 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:31:43] "[35m[1mGET /static/video.mp4 HTTP/1.1[0m" 206 -
+[ 2023-08-30 23:31:43,581 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:31:43] "[35m[1mGET /static/video.mp4 HTTP/1.1[0m" 206 -
+[ 2023-08-30 23:31:43,870 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:31:43] "[35m[1mGET /static/video.mp4 HTTP/1.1[0m" 206 -
+[ 2023-08-30 23:31:43,882 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:31:43] "[35m[1mGET /static/video.mp4 HTTP/1.1[0m" 206 -
+[ 2023-08-30 23:31:43,886 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:31:43] "[35m[1mGET /static/video.mp4 HTTP/1.1[0m" 206 -
+[ 2023-08-30 23:32:19,322 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:32:19] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:32:19,361 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:32:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:32:19,371 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:32:19] "[35m[1mGET /static/video.mp4 HTTP/1.1[0m" 206 -
+[ 2023-08-30 23:32:19,530 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:32:19] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:32:19,571 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:32:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:32:19,734 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:32:19] "[35m[1mGET /static/video.mp4 HTTP/1.1[0m" 206 -
+[ 2023-08-30 23:32:19,790 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:32:19] "[35m[1mGET /static/video.mp4 HTTP/1.1[0m" 206 -
+[ 2023-08-30 23:32:19,796 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:32:19] "[35m[1mGET /static/video.mp4 HTTP/1.1[0m" 206 -
+[ 2023-08-30 23:32:20,569 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:32:20] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:32:20,602 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:32:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:32:20,738 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:32:20] "[35m[1mGET /static/video.mp4 HTTP/1.1[0m" 206 -
+[ 2023-08-30 23:32:21,089 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:32:21] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:32:21,130 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:32:21] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:32:21,284 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:32:21] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:32:21,325 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:32:21] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:32:21,472 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:32:21] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:32:21,511 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:32:21] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:32:21,651 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:32:21] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:32:21,683 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:32:21] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:32:21,827 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:32:21] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:32:21,867 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:32:21] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:32:21,981 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:32:21] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:32:22,016 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:32:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:32:22,103 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:32:22] "[35m[1mGET /static/video.mp4 HTTP/1.1[0m" 206 -
+[ 2023-08-30 23:32:22,108 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:32:22] "[35m[1mGET /static/video.mp4 HTTP/1.1[0m" 206 -
+[ 2023-08-30 23:32:22,144 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:32:22] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:32:22,179 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:32:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:32:22,305 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:32:22] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:32:22,335 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:32:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:32:22,458 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:32:22] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:32:22,481 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:32:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:32:22,625 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:32:22] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:32:22,658 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:32:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:32:32,076 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:32:32] "[35m[1mGET /static/video.mp4 HTTP/1.1[0m" 206 -
+[ 2023-08-30 23:33:03,310 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:33:03] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:33:03,367 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:33:03] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-30 23:33:03,387 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:33:03] "[35m[1mGET /static/video.mp4 HTTP/1.1[0m" 206 -
+[ 2023-08-30 23:33:03,411 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:33:03] "[35m[1mGET /static/video.mp4 HTTP/1.1[0m" 206 -
+[ 2023-08-30 23:33:03,441 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:33:03] "[35m[1mGET /static/video.mp4 HTTP/1.1[0m" 206 -
+[ 2023-08-30 23:33:03,448 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:33:03] "[35m[1mGET /static/video.mp4 HTTP/1.1[0m" 206 -
+[ 2023-08-30 23:33:03,912 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:33:03] "[35m[1mGET /static/video.mp4 HTTP/1.1[0m" 206 -
+[ 2023-08-30 23:33:03,940 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:33:03] "[35m[1mGET /static/video.mp4 HTTP/1.1[0m" 206 -
+[ 2023-08-30 23:33:03,943 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:33:03] "[35m[1mGET /static/video.mp4 HTTP/1.1[0m" 206 -
+[ 2023-08-30 23:33:03,953 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:33:03] "[35m[1mGET /static/video.mp4 HTTP/1.1[0m" 206 -
+[ 2023-08-30 23:33:15,244 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:33:15] "[35m[1mGET /static/video.mp4 HTTP/1.1[0m" 206 -
+[ 2023-08-30 23:33:15,249 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:33:15] "[35m[1mGET /static/video.mp4 HTTP/1.1[0m" 206 -
+[ 2023-08-30 23:34:12,365 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:34:12] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:34:12,428 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:34:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:34:12,433 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:34:12] "[35m[1mGET /static/video.mp4 HTTP/1.1[0m" 206 -
+[ 2023-08-30 23:34:12,483 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:34:12] "[35m[1mGET /static/video.mp4 HTTP/1.1[0m" 206 -
+[ 2023-08-30 23:34:12,511 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:34:12] "[35m[1mGET /static/video.mp4 HTTP/1.1[0m" 206 -
+[ 2023-08-30 23:34:42,331 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:34:42] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:34:42,387 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:34:42] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:36:16,082 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:36:16] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:36:16,116 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:36:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:36:16,119 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:36:16] "[35m[1mGET /static/video.mp4 HTTP/1.1[0m" 206 -
+[ 2023-08-30 23:36:16,131 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:36:16] "[35m[1mGET /static/video.mp4 HTTP/1.1[0m" 206 -
+[ 2023-08-30 23:36:16,137 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:36:16] "[35m[1mGET /static/video.mp4 HTTP/1.1[0m" 206 -
+[ 2023-08-30 23:36:23,416 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:36:23] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:36:23,449 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:36:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:37:36,175 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:37:36] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:37:36,223 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:37:36] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-30 23:37:36,276 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:37:36] "[35m[1mGET /static/video.mp4 HTTP/1.1[0m" 206 -
+[ 2023-08-30 23:37:36,298 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:37:36] "[35m[1mGET /static/video.mp4 HTTP/1.1[0m" 206 -
+[ 2023-08-30 23:37:36,407 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:37:36] "[35m[1mGET /static/video.mp4 HTTP/1.1[0m" 206 -
+[ 2023-08-30 23:37:36,452 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:37:36] "[35m[1mGET /static/video.mp4 HTTP/1.1[0m" 206 -
+[ 2023-08-30 23:37:36,456 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:37:36] "[35m[1mGET /static/video.mp4 HTTP/1.1[0m" 206 -
+[ 2023-08-30 23:38:02,486 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:38:02] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:38:02,525 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:38:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:38:02,555 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:38:02] "[35m[1mGET /static/video.mp4 HTTP/1.1[0m" 206 -
+[ 2023-08-30 23:38:42,589 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:38:42] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:38:42,626 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:38:42] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-30 23:39:01,657 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:39:01] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:39:01,683 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:39:01] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-30 23:39:07,524 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:39:07] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:39:07,550 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:39:07] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-30 23:39:57,539 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:39:57] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:39:57,563 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:39:57] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-30 23:40:02,966 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:40:02] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:40:02,995 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:40:02] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-30 23:45:42,065 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:45:42] "[35m[1mGET /static/video.mp4 HTTP/1.1[0m" 206 -
+[ 2023-08-30 23:50:07,202 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:50:07] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:50:07,247 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:50:07] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-30 23:50:07,252 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:50:07] "[35m[1mGET /static/video.mp4 HTTP/1.1[0m" 206 -
+[ 2023-08-30 23:50:07,264 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:50:07] "[35m[1mGET /static/video.mp4 HTTP/1.1[0m" 206 -
+[ 2023-08-30 23:50:07,289 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:50:07] "[35m[1mGET /static/video.mp4 HTTP/1.1[0m" 206 -
+[ 2023-08-30 23:50:15,211 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:50:15] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:50:15,232 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:50:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-30 23:50:26,376 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:50:26] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:50:26,410 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:50:26] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-30 23:50:40,557 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:50:40] "GET / HTTP/1.1" 200 -
+[ 2023-08-30 23:50:40,584 ] 186 werkzeug - 127.0.0.1 - - [30/Aug/2023 23:50:40] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-31 00:06:13,307 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:06:13] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 00:06:13,328 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:06:13] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-31 00:36:36,680 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:36:36] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 00:36:36,730 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:36:36] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-31 00:38:44,253 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:38:44] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 00:38:44,285 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:38:44] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-31 00:38:48,368 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:38:48] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 00:38:48,386 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:38:48] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-31 00:39:03,050 ] 20 root - data paths created !
+[ 2023-08-31 00:39:03,050 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 00:39:03,175 ] 26 root - data has read sucessfuly
+[ 2023-08-31 00:39:03,177 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 00:39:03,178 ] 43 root - directory has created
+[ 2023-08-31 00:39:03,610 ] 47 root - data ingest sucessfully
+[ 2023-08-31 00:39:03,615 ] 19 root - entered data transformation
+[ 2023-08-31 00:39:03,644 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 00:39:03,649 ] 23 root - dropped duplicates
+[ 2023-08-31 00:39:03,655 ] 25 root - data transformed sucess
+[ 2023-08-31 00:39:03,703 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 00:39:03,703 ] 31 root - pickle file is created
+[ 2023-08-31 00:39:03,850 ] 35 root - recommend process1 started
+[ 2023-08-31 00:39:03,851 ] 36 root - pickle load!
+[ 2023-08-31 00:39:03,851 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 00:39:06,445 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:39:06] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 00:39:24,375 ] 20 root - data paths created !
+[ 2023-08-31 00:39:24,375 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 00:39:24,586 ] 26 root - data has read sucessfuly
+[ 2023-08-31 00:39:24,588 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 00:39:24,589 ] 43 root - directory has created
+[ 2023-08-31 00:39:25,330 ] 47 root - data ingest sucessfully
+[ 2023-08-31 00:39:25,334 ] 19 root - entered data transformation
+[ 2023-08-31 00:39:25,385 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 00:39:25,390 ] 23 root - dropped duplicates
+[ 2023-08-31 00:39:25,401 ] 25 root - data transformed sucess
+[ 2023-08-31 00:39:25,495 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 00:39:25,496 ] 31 root - pickle file is created
+[ 2023-08-31 00:39:25,734 ] 35 root - recommend process1 started
+[ 2023-08-31 00:39:25,734 ] 36 root - pickle load!
+[ 2023-08-31 00:39:25,734 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 00:39:28,230 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:39:28] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 00:40:10,459 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:40:10] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 00:40:10,495 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:40:10] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-31 00:40:17,421 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:40:17] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 00:40:17,444 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:40:17] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-31 00:40:27,515 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:40:27] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 00:40:27,543 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:40:27] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-31 00:40:35,657 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:40:35] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 00:40:35,689 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:40:35] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-31 00:41:24,762 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:41:24] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 00:41:24,794 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:41:24] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-31 00:41:33,178 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:41:33] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 00:41:33,200 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:41:33] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-31 00:41:46,715 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:41:46] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 00:41:46,742 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:41:46] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-31 00:42:45,634 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:42:45] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 00:42:45,661 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:42:45] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-31 00:44:57,915 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:44:57] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 00:44:57,947 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:44:57] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-31 00:45:10,416 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:45:10] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 00:45:10,444 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:45:10] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-31 00:45:47,083 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:45:47] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 00:45:47,109 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:45:47] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-31 00:46:21,346 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:46:21] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 00:46:21,372 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:46:21] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-31 00:46:26,917 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:46:26] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 00:46:26,945 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:46:26] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-31 00:46:33,322 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:46:33] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 00:46:33,335 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:46:33] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-31 00:46:44,626 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:46:44] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 00:46:44,646 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:46:44] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-31 00:47:08,387 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:47:08] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 00:47:08,411 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:47:08] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-31 00:51:36,639 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:51:36] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 00:51:36,659 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:51:36] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-31 00:53:48,008 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:53:48] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 00:53:48,043 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:53:48] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-31 00:53:52,389 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:53:52] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 00:53:52,420 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:53:52] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-31 00:53:57,700 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:53:57] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 00:53:57,739 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:53:57] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-31 00:54:14,502 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:54:14] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 00:54:14,526 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:54:14] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-31 00:54:19,616 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:54:19] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 00:54:19,651 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:54:19] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-31 00:55:13,597 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:55:13] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 00:55:13,619 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:55:13] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-31 00:55:15,383 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:55:15] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 00:55:15,420 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:55:15] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-31 00:55:22,170 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:55:22] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 00:55:22,189 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:55:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-31 00:55:29,170 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:55:29] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 00:55:29,189 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:55:29] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-31 00:55:30,359 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:55:30] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 00:55:30,380 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:55:30] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-31 00:55:35,012 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:55:35] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 00:55:35,035 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:55:35] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-31 00:55:40,187 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:55:40] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 00:55:40,218 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:55:40] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-31 00:56:05,235 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:56:05] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 00:56:05,258 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:56:05] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-31 00:56:09,708 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:56:09] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 00:56:09,744 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:56:09] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-31 00:56:17,254 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:56:17] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 00:56:17,271 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:56:17] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-31 00:58:43,319 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:58:43] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 00:58:43,366 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:58:43] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-31 00:58:49,099 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:58:49] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 00:58:49,125 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:58:49] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-31 00:59:01,000 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:59:01] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 00:59:01,026 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:59:01] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-31 00:59:25,465 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:59:25] "GET / HTTP/1.1" 200 -
+[ 2023-08-31 00:59:25,487 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 00:59:25] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-31 00:59:45,031 ] 20 root - data paths created !
+[ 2023-08-31 00:59:45,031 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 00:59:45,242 ] 26 root - data has read sucessfuly
+[ 2023-08-31 00:59:45,247 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 00:59:45,248 ] 43 root - directory has created
+[ 2023-08-31 00:59:46,024 ] 47 root - data ingest sucessfully
+[ 2023-08-31 00:59:46,030 ] 19 root - entered data transformation
+[ 2023-08-31 00:59:46,081 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 00:59:46,087 ] 23 root - dropped duplicates
+[ 2023-08-31 00:59:46,098 ] 25 root - data transformed sucess
+[ 2023-08-31 00:59:46,186 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 00:59:46,188 ] 31 root - pickle file is created
+[ 2023-08-31 00:59:46,425 ] 35 root - recommend process1 started
+[ 2023-08-31 00:59:46,425 ] 36 root - pickle load!
+[ 2023-08-31 00:59:46,425 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 00:59:46,429 ] 15 root - get similarities started
+[ 2023-08-31 00:59:46,433 ] 18 root - vector process 1 completed
+[ 2023-08-31 00:59:46,434 ] 20 root - similarity started
+[ 2023-08-31 01:00:21,632 ] 29 root - similarity process ended
+[ 2023-08-31 01:00:21,648 ] 44 root - recommendations are                      name          artists
+9380              Natural  Imagine Dragons
+744                Demons  Imagine Dragons
+666              Bad Liar  Imagine Dragons
+3260  On Top Of The World  Imagine Dragons
+3928                Roots  Imagine Dragons
+[ 2023-08-31 01:00:23,025 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 01:00:23] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 01:01:06,602 ] 20 root - data paths created !
+[ 2023-08-31 01:01:06,602 ] 24 root - enter the data ingestion part 2
+[ 2023-08-31 01:01:06,795 ] 26 root - data has read sucessfuly
+[ 2023-08-31 01:01:06,798 ] 41 root - dataframe had created sucessfuly
+[ 2023-08-31 01:01:06,799 ] 43 root - directory has created
+[ 2023-08-31 01:01:07,435 ] 47 root - data ingest sucessfully
+[ 2023-08-31 01:01:07,439 ] 19 root - entered data transformation
+[ 2023-08-31 01:01:07,488 ] 21 root - data read sucessfully for transformation!
+[ 2023-08-31 01:01:07,493 ] 23 root - dropped duplicates
+[ 2023-08-31 01:01:07,504 ] 25 root - data transformed sucess
+[ 2023-08-31 01:01:07,598 ] 28 root - vectorization is sucessfully created
+[ 2023-08-31 01:01:07,599 ] 31 root - pickle file is created
+[ 2023-08-31 01:01:07,806 ] 35 root - recommend process1 started
+[ 2023-08-31 01:01:07,806 ] 36 root - pickle load!
+[ 2023-08-31 01:01:07,806 ] 37 root - pickle loading process sucessful
+[ 2023-08-31 01:01:09,068 ] 186 werkzeug - 127.0.0.1 - - [31/Aug/2023 01:01:09] "POST / HTTP/1.1" 200 -
+[ 2023-08-31 01:04:26,127 ] 186 werkzeug -  * Detected change in 'c:\\users\\manoj\\desktop\\music_recommendation\\app.py', reloading
+[ 2023-08-31 01:04:26,551 ] 186 werkzeug -  * Restarting with stat
+[ 2023-08-31 01:04:49,613 ] 186 werkzeug -  * Restarting with stat
+[ 2023-08-31 01:06:40,006 ] 186 werkzeug -  * Restarting with stat

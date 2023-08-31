@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="icon" type="image/png" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA5SgImkG7s6DWjPkEZngQG5RMpNcaVzM3hioDy3vJIO-cs8Vcikzh4ls8uwI2GERDjd8&usqp=CAU"/>
+    <title>Music recommendations</title>
+    <link href="/static/style2.css" rel="stylesheet" />
+</head>
+<body>
+
+<p class="para">{{q[0]}}</p>
+{% for i in range(5) %}
+    <div class="main">
+        <div class="one">
+            <p>Artist image</p>
+            <img src="{{image_links[i]}}" alt="artist image"/> 
+
+
+        </div>
+        <div class="two">
+            <p> Artist name - {{artist_names[i]}}</p>  
+        
+            <p>Track name - {{track_name[i]}}</p> 
+            <p>Song link - <a href="{{spotify_link[i]}}" target="_blank">{{spotify_link[i]}}</a></p> 
+
+
+        </div>
+        
+    </div>
+       
+{% endfor %}
+</form>
+</body>
+</html> 

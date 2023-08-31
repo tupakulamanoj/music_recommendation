@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: music-recommendation
+Version: 0.0.1
+Author: manoj
+Requires: pandas
+
+Requires: pyforest
+
+Requires: spotipy
+
+Requires: numpy
+

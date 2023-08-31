@@ -1,0 +1,48 @@
+img{
+    height:120px;
+    width:120px;
+    
+    
+}
+.main{
+    display: flex;
+    column-gap: 4vw;
+    margin-bottom: 5vh;
+    align-items: center;
+    border-style: inset;
+    box-shadow: inset;
+}
+.para{
+    text-transform: capitalize;
+}
+.main:hover{
+    padding: 40px;
+    cursor: pointer;
+}
+*{
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 20px;
+}
+body{
+    background: linear-gradient(-90deg,#ee7752, #e73c7e, #23a6d5, #23d5ab);
+    animation: gradient 15s ease infinite;
+    background-size: 400% 400%;
+    height: 100vh;
+
+}
+@keyframes gradient {
+    0%{
+        background-position: 0% 50%;
+    }
+    50%{
+        background-position: 100% 50%;
+    }
+    100%{
+        background-position: 50% 0%;
+    }
+}
+
+
+
