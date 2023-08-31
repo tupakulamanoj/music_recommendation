@@ -7,8 +7,8 @@ import pandas as pd
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 from collections import defaultdict
-sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(client_id="8805caf6e38e47bebbd651cd8d52d979",
-                                                           client_secret="1c4645111bf144d687d8875d57812af6"))
+sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(client_id="your client_id",
+                                                           client_secret="your client_secret_key"))
 
 app=Flask(__name__)
 
